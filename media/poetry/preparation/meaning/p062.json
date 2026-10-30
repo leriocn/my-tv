@@ -1,0 +1,22 @@
+{
+  "id": "p062",
+  "text": "无论平地还是山尖，鲜花盛开的地方都有蜜蜂。它采尽百花酿成蜂蜜后，究竟为谁辛劳，又让谁享受甜美呢？",
+  "textSha256": "c7faae1b6d52cfe63f7c65dc80a867d799a80061ef702327c655b19eb126780e",
+  "sha256": "5e9856cf89ebe7652d0616ec6d430ef661ef2227b4b59cc2b86175da3f45bb61",
+  "bytes": 68544,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 49635868,
+      "text": "无论平地还是山尖，鲜花盛开的地方都有蜜蜂。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 50135868,
+      "duration": 63451085,
+      "text": "它采尽百花酿成蜂蜜后，究竟为谁辛劳，又让谁享受甜美呢？"
+    }
+  ],
+  "attempts": 1
+}

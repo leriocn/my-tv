@@ -1,0 +1,22 @@
+{
+  "id": "p046",
+  "text": "山下四月百花已谢，山寺里的桃花却刚盛开。诗人原本惋惜春天难寻，没想到春色竟留在这高山寺院中。",
+  "textSha256": "f2c7e5deefcd5cf3da2245a3ac962f0e2bc6f631635d7539305068b1a9a8fa14",
+  "sha256": "33f81881a2986a36917d7dc2a6e1a0914ce5af8e74f010e2bacd7cd1cf99df27",
+  "bytes": 70704,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 49907607,
+      "text": "山下四月百花已谢，山寺里的桃花却刚盛开。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 50407607,
+      "duration": 66711955,
+      "text": "诗人原本惋惜春天难寻，没想到春色竟留在这高山寺院中。"
+    }
+  ],
+  "attempts": 1
+}

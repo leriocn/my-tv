@@ -1,0 +1,22 @@
+{
+  "id": "p068",
+  "text": "诗人临终仍遗憾没有见到国家统一。他叮嘱儿子：当军队收复中原时，家祭一定要把这个消息告诉父亲。",
+  "textSha256": "319d2013bb1903fec27be30c63fa9dbcb50455d2b53dd9d69fd346b850067217",
+  "sha256": "498c750fc5b2a4160ea75274cfe8fe8afbf61b6bc521a3fd9885166c8d563a1d",
+  "bytes": 65520,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 39853260,
+      "text": "诗人临终仍遗憾没有见到国家统一。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 40353260,
+      "duration": 68342390,
+      "text": "他叮嘱儿子：当军队收复中原时，家祭一定要把这个消息告诉父亲。"
+    }
+  ],
+  "attempts": 1
+}

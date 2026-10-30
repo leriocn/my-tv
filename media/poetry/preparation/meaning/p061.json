@@ -1,0 +1,22 @@
+{
+  "id": "p061",
+  "text": "黄师塔前江水向东流，春日暖意令人慵懒。临江盛开的桃花仿佛无人作主，深红浅红都使诗人喜爱不已。",
+  "textSha256": "990a2246d0a6948513e62daedfc28235e2dd3fb6a42fe9a5aca3be8a4ae4178e",
+  "sha256": "6ee2a3e44c574d368480da642da4c7d8fcf25e7a010c549cbacee77e42ae83e9",
+  "bytes": 68256,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 46918477,
+      "text": "黄师塔前江水向东流，春日暖意令人慵懒。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 47418477,
+      "duration": 65760868,
+      "text": "临江盛开的桃花仿佛无人作主，深红浅红都使诗人喜爱不已。"
+    }
+  ],
+  "attempts": 2
+}

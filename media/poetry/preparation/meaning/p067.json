@@ -1,0 +1,22 @@
+{
+  "id": "p067",
+  "text": "七夕夜，人们望着天空，想象牛郎织女渡过鹊桥。家家面对秋月穿针引线，祈求心灵手巧，描绘了传统节日习俗。",
+  "textSha256": "17b87d8f0e25c55d4b2ed0ebcc7e665c5ffa96ef2528cdd27fd2ba7644054176",
+  "sha256": "709e6d04faae5871044a5fff890002629152360f3b022e7f7d2a968f84953411",
+  "bytes": 74736,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 53440216,
+      "text": "七夕夜，人们望着天空，想象牛郎织女渡过鹊桥。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 53940216,
+      "duration": 70108694,
+      "text": "家家面对秋月穿针引线，祈求心灵手巧，描绘了传统节日习俗。"
+    }
+  ],
+  "attempts": 1
+}

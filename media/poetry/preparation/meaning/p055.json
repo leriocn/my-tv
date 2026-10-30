@@ -1,0 +1,22 @@
+{
+  "id": "p055",
+  "text": "活着应做人中的豪杰，死后也应成为英勇的鬼魂。诗人怀念不肯逃回江东的项羽，表达了坚持气节的态度。",
+  "textSha256": "2fcfbfc2954656165c179a60b3ad1e1f1bb7e9b1316b340d1face5f5e194f6f4",
+  "sha256": "869f8fa901b1f129e7e020bf916f10793dd4fbf5c1e15bf4e72c40bb13333a4c",
+  "bytes": 67680,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 51945651,
+      "text": "活着应做人中的豪杰，死后也应成为英勇的鬼魂。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 52445651,
+      "duration": 59782607,
+      "text": "诗人怀念不肯逃回江东的项羽，表达了坚持气节的态度。"
+    }
+  ],
+  "attempts": 2
+}

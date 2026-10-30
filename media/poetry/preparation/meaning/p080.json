@@ -1,0 +1,22 @@
+{
+  "id": "p080",
+  "text": "母亲拿着针线，为即将远行的儿子缝衣，临行缝得格外细密，担心他迟迟不归。小草般的子女心意，难以报答春日阳光般的母爱。",
+  "textSha256": "293ce43eb847d156da9515f57143d87aea48cad734620f2d05a915adeeb25db8",
+  "sha256": "5dd961e03169e51278a1f719584cd6e2a7be206b3851b0568757e7c73fdb227c",
+  "bytes": 79776,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 81021737,
+      "text": "母亲拿着针线，为即将远行的儿子缝衣，临行缝得格外细密，担心他迟迟不归。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 81521737,
+      "duration": 50815216,
+      "text": "小草般的子女心意，难以报答春日阳光般的母爱。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p073",
+  "text": "月落乌啼、霜气满天，诗人对着江边枫树和渔火难以入睡。夜半时，姑苏城外寒山寺的钟声传到了客船。",
+  "textSha256": "7672478df78a3ee28182968c4c3b8a95aaca2d8ac1496d3fe1716c2c4a901881",
+  "sha256": "e7767c60e20b30f33150e4b5293a9b3d111a381a40088f4a741054bd109f0c70",
+  "bytes": 70272,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 64309781,
+      "text": "月落乌啼、霜气满天，诗人对着江边枫树和渔火难以入睡。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 64809781,
+      "duration": 51766303,
+      "text": "夜半时，姑苏城外寒山寺的钟声传到了客船。"
+    }
+  ],
+  "attempts": 1
+}

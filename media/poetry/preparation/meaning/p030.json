@@ -1,0 +1,22 @@
+{
+  "id": "p030",
+  "text": "石头小路弯弯伸向深秋的山中，白云升起处住着人家。诗人因喜爱傍晚枫林而停车，霜染红叶比春花更鲜艳。",
+  "textSha256": "a81d8456f0758920168633b2912906cc0b808be7628c8f95645f87ec5ad0fea6",
+  "sha256": "ef9f4b7736a7a1138fda45390a058b6d554fb833cb83b2c29c6d72836b5c9b7b",
+  "bytes": 72576,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 58739129,
+      "text": "石头小路弯弯伸向深秋的山中，白云升起处住着人家。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 59239129,
+      "duration": 61005433,
+      "text": "诗人因喜爱傍晚枫林而停车，霜染红叶比春花更鲜艳。"
+    }
+  ],
+  "attempts": 1
+}

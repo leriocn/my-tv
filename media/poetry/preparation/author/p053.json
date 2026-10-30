@@ -1,0 +1,16 @@
+{
+  "id": "p053",
+  "text": "王翰。",
+  "textSha256": "302b907c9c9772e416a68295e48b99301a04f29ddd2351bf95877594e44420ec",
+  "sha256": "105dc402af9e6836b395917baeaab5f6db01b73971794a1e7feccad0697ee07a",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 11999999,
+      "text": "王翰。"
+    }
+  ],
+  "attempts": 1
+}

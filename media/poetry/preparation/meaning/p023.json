@@ -1,0 +1,22 @@
+{
+  "id": "p023",
+  "text": "原野上的草年年枯萎又繁盛。野火不能彻底烧尽它的生命，春风一来便重新萌发，表现出顽强的生命力。",
+  "textSha256": "17ee067d3bf0f456c56949cccd90201dcc8e4885c01fb5b622d58dfc7b079bb8",
+  "sha256": "0b07183981ba3e716255fff33b84a9483f5da7b8e5624eb51957507624894e33",
+  "bytes": 65808,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 32516303,
+      "text": "原野上的草年年枯萎又繁盛。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 33016303,
+      "duration": 76086955,
+      "text": "野火不能彻底烧尽它的生命，春风一来便重新萌发，表现出顽强的生命力。"
+    }
+  ],
+  "attempts": 1
+}

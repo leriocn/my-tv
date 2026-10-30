@@ -1,0 +1,22 @@
+{
+  "id": "p042",
+  "text": "诗人喜爱涧边幽草，听着深树中黄鹂鸣叫。傍晚春雨涨潮，荒野渡口没有人，只有一条小船横在水面。",
+  "textSha256": "1e71e781183e5fa82e00e2a63919f72451716950e53dc85c8d7ff3ec9710a430",
+  "sha256": "7bbe3d5621d24e3aac9434c6226cdfdd8ec26522e0d43edee867e10a72736a74",
+  "bytes": 64224,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 46646738,
+      "text": "诗人喜爱涧边幽草，听着深树中黄鹂鸣叫。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 47146738,
+      "duration": 59239129,
+      "text": "傍晚春雨涨潮，荒野渡口没有人，只有一条小船横在水面。"
+    }
+  ],
+  "attempts": 2
+}

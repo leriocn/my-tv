@@ -1,0 +1,22 @@
+{
+  "id": "p076",
+  "text": "半亩池塘像明镜，映着天光云影。水如此清澈，是因为不断有源头活水流入，也启发人持续学习、吸收新知。",
+  "textSha256": "8d89901558202d69732e097b1986a6ba413ac86be15aa326eaa3dd3f60b36d57",
+  "sha256": "b96acec0fa9fc7e6503cffe9dfafde61a795e6620e3d7e58c4bced2e578f6498",
+  "bytes": 71136,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 36999999,
+      "text": "半亩池塘像明镜，映着天光云影。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 37499999,
+      "duration": 80434781,
+      "text": "水如此清澈，是因为不断有源头活水流入，也启发人持续学习、吸收新知。"
+    }
+  ],
+  "attempts": 1
+}

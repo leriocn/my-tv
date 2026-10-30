@@ -1,0 +1,22 @@
+{
+  "id": "p015",
+  "text": "头发蓬乱的孩子侧身坐在苔草间学钓鱼。路人问路，他连忙远远招手，不敢出声，生怕惊走鱼儿。",
+  "textSha256": "5c792265c32d94d859bda37e8d88843947bb86d2af7a687c932250a8b8892cc9",
+  "sha256": "4872f295954b05b54c63f03568b89c7f9d0f00ae61609641bc5fcbe8915fdb5f",
+  "bytes": 63792,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 45423912,
+      "text": "头发蓬乱的孩子侧身坐在苔草间学钓鱼。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 45923912,
+      "duration": 59782607,
+      "text": "路人问路，他连忙远远招手，不敢出声，生怕惊走鱼儿。"
+    }
+  ],
+  "attempts": 1
+}

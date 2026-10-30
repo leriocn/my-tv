@@ -1,0 +1,28 @@
+{
+  "id": "p072",
+  "text": "空山新雨后，傍晚透着秋凉。明月照松林，清泉流石间；洗衣姑娘归来，渔船拨开莲叶。这样的山中景致令人愿意留下。",
+  "textSha256": "f7515c2c80d44790a3f37c39ba021b360aa8592e7476f9d26cb8f3dbb1f00dcc",
+  "sha256": "587984f4ff95c366839f36811286dda7a07b80e642032ed62084c5b436aa31fb",
+  "bytes": 80064,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 33739129,
+      "text": "空山新雨后，傍晚透着秋凉。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 34239129,
+      "duration": 66032607,
+      "text": "明月照松林，清泉流石间；洗衣姑娘归来，渔船拨开莲叶。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 100271737,
+      "duration": 32472825,
+      "text": "这样的山中景致令人愿意留下。"
+    }
+  ],
+  "attempts": 1
+}

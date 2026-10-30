@@ -1,0 +1,22 @@
+{
+  "id": "p044",
+  "text": "清明时细雨纷纷，赶路的人心情惆怅。诗人询问哪里有酒家，牧童指向远处的杏花村。",
+  "textSha256": "495ced6a34c8c26a2db8b2698ae5157a88790aadb9e8d17dd1368289ee775a18",
+  "sha256": "354b9ea384dcf6dc1fbc042fca4e0b5965ead177d4cab3357732a8a89030ff91",
+  "bytes": 56736,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 42298912,
+      "text": "清明时细雨纷纷，赶路的人心情惆怅。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 42798912,
+      "duration": 51086955,
+      "text": "诗人询问哪里有酒家，牧童指向远处的杏花村。"
+    }
+  ],
+  "attempts": 1
+}

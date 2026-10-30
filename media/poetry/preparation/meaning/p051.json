@@ -1,0 +1,22 @@
+{
+  "id": "p051",
+  "text": "烛影映着云母屏风渐渐变深，银河西沉、晨星将落。诗人借嫦娥夜夜独处月宫的传说，寄托孤寂的心情。",
+  "textSha256": "ed6020fef6bcb1af97e5e2c6654ffc40a55116dc31773b26e979c4759e0024f8",
+  "sha256": "8719d81b1bb011bcef0b45064fd4de59cffa5c683fa4471abb1c4565bb0d00e1",
+  "bytes": 68976,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 58331520,
+      "text": "烛影映着云母屏风渐渐变深，银河西沉、晨星将落。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 58831520,
+      "duration": 55570651,
+      "text": "诗人借嫦娥夜夜独处月宫的传说，寄托孤寂的心情。"
+    }
+  ],
+  "attempts": 1
+}

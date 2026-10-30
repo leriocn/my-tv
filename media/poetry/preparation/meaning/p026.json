@@ -1,0 +1,22 @@
+{
+  "id": "p026",
+  "text": "春天播下一粒谷种，秋天便可收获许多粮食。天下没有荒闲的田地，辛苦耕作的农人却仍有人饿死，流露出对农人的同情。",
+  "textSha256": "4eebef20d199441e50d334eadd690b632fe26919301829b9894b0b41faf4c755",
+  "sha256": "192da79e64ff284f60585749688634d1c2e585cce030e61a985b62d35d4a41bf",
+  "bytes": 78336,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 48820651,
+      "text": "春天播下一粒谷种，秋天便可收获许多粮食。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 49320651,
+      "duration": 80570650,
+      "text": "天下没有荒闲的田地，辛苦耕作的农人却仍有人饿死，流露出对农人的同情。"
+    }
+  ],
+  "attempts": 1
+}

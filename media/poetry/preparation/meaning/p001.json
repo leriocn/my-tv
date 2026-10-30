@@ -1,0 +1,16 @@
+{
+  "id": "p001",
+  "text": "白鹅伸长脖子向天空鸣叫，白羽浮在绿水上，红色的脚掌轻轻划开水波，写出了鹅的姿态、颜色和动作。",
+  "textSha256": "e240f64fdc43296b1e26f35b8d43b09cf4dad2dcf9a9d0926ae95c3f0248656d",
+  "sha256": "e59e7f55f685eebb2c4bc570b449d0a18b88ac68670d28e697bff81db960a867",
+  "bytes": 67968,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 111635867,
+      "text": "白鹅伸长脖子向天空鸣叫，白羽浮在绿水上，红色的脚掌轻轻划开水波，写出了鹅的姿态、颜色和动作。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p031",
+  "text": "梧桐叶沙沙作响，江上秋风勾起旅人的思乡之情。夜深时篱笆旁还有灯火，诗人猜想是孩子正在捉蟋蟀。",
+  "textSha256": "67eeffb5dcf70c6ca9995f7404315574d0ea7caee8a06cb57b6c301196032db3",
+  "sha256": "5427787fed48d8856aa3b01f85b31f177e4d6d3802a4faba402a4bd4472650d5",
+  "bytes": 70992,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 55342390,
+      "text": "梧桐叶沙沙作响，江上秋风勾起旅人的思乡之情。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 55842390,
+      "duration": 61820651,
+      "text": "夜深时篱笆旁还有灯火，诗人猜想是孩子正在捉蟋蟀。"
+    }
+  ],
+  "attempts": 1
+}

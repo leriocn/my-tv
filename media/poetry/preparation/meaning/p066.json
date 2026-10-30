@@ -1,0 +1,22 @@
+{
+  "id": "p066",
+  "text": "洗砚池边的梅树开着淡墨色花朵。诗人不求别人赞美鲜艳颜色，只愿留下清正的气节，借墨梅表明自己的志向。",
+  "textSha256": "4e05be30fcb96a491f50c26d85d92d9c73851236592b9eb078e0e67a08aaf16b",
+  "sha256": "5bffed23c4139fc478dd503cf9e9796eda9525d8ce81646eff8f5890a8d8d516",
+  "bytes": 71712,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 37679347,
+      "text": "洗砚池边的梅树开着淡墨色花朵。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 38179347,
+      "duration": 80706520,
+      "text": "诗人不求别人赞美鲜艳颜色，只愿留下清正的气节，借墨梅表明自己的志向。"
+    }
+  ],
+  "attempts": 1
+}

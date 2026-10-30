@@ -1,0 +1,22 @@
+{
+  "id": "p009",
+  "text": "诗人乘船将走，忽然听见岸上传来踏歌送别声。即使桃花潭水深达千尺，也比不上汪伦相送的情谊。",
+  "textSha256": "93485c091153349fa4490eb225d3b0888e8d0696a3d9a5cee9c978746e2cd202",
+  "sha256": "5cd7ca19e27bcc96aab4955f03b1c28438b26e3d4c21c629f27953a63ebea94a",
+  "bytes": 65376,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 51945651,
+      "text": "诗人乘船将走，忽然听见岸上传来踏歌送别声。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 52445651,
+      "duration": 55842390,
+      "text": "即使桃花潭水深达千尺，也比不上汪伦相送的情谊。"
+    }
+  ],
+  "attempts": 1
+}

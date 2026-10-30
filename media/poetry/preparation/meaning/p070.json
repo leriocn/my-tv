@@ -1,0 +1,22 @@
+{
+  "id": "p070",
+  "text": "国家焕发生机需要变革，沉默压抑的局面令人悲哀。诗人希望打破陈规，用不拘一格的方式发现和任用人才。",
+  "textSha256": "4c0e9588760497f2437e4a4b07aa26c564282aed50cee6d7757d1160f550a3ad",
+  "sha256": "f3cd104453a8cdbb2a494a8ed0cf8022a6b0fbfc83d0775c828c1923ad1d7f3b",
+  "bytes": 69264,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 55342390,
+      "text": "国家焕发生机需要变革，沉默压抑的局面令人悲哀。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 55842390,
+      "duration": 59103259,
+      "text": "诗人希望打破陈规，用不拘一格的方式发现和任用人才。"
+    }
+  ],
+  "attempts": 1
+}

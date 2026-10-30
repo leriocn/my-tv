@@ -1,0 +1,16 @@
+{
+  "id": "p068",
+  "text": "陆游。",
+  "textSha256": "4c4d79baf0f66ddac3eb54a2e80ecd2fd5fbf0f09d5703678ed1ec5084f6a3f5",
+  "sha256": "75c32d2b1b7781719a8c933ae3330f2d2da213d3168662616b2a27191e1b5a96",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 11864130,
+      "text": "陆游。"
+    }
+  ],
+  "attempts": 1
+}

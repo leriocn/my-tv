@@ -1,0 +1,16 @@
+{
+  "id": "p024",
+  "text": "杜甫。",
+  "textSha256": "42a072ca979f2e5ddf5db777c302f4f03d30edc966f0b809aaefbf1cc4f73af9",
+  "sha256": "71eccc51cf5cb320a4ec89d38001de766e90c7428eab47921a72407ef07fadaf",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 12135869,
+      "text": "杜甫。"
+    }
+  ],
+  "attempts": 1
+}

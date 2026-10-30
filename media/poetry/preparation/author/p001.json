@@ -1,0 +1,16 @@
+{
+  "id": "p001",
+  "text": "骆宾王。",
+  "textSha256": "aa7ef2a2712108d5f82344b00348bec503e0d67aab1f93b6c8a3d16414dd268b",
+  "sha256": "06acfc2fb4e91af566401c3ea38991a494321137e1aed09d9de5dd42a571fce9",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 13766304,
+      "text": "骆宾王。"
+    }
+  ],
+  "attempts": 1
+}

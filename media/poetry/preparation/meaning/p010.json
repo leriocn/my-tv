@@ -1,0 +1,16 @@
+{
+  "id": "p010",
+  "text": "床前的月光明亮得像地上的白霜，诗人抬头望月，又低头思念故乡，借月色写出乡愁。",
+  "textSha256": "25069f148f96105286ddc3453dff57ddc1f0b01f32671e625fffea14c7d90ec7",
+  "sha256": "8f19fc2966bdb7e07edd17c899443598ebc983d95b05264335271e3a8df6c190",
+  "bytes": 56592,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 93114128,
+      "text": "床前的月光明亮得像地上的白霜，诗人抬头望月，又低头思念故乡，借月色写出乡愁。"
+    }
+  ],
+  "attempts": 1
+}

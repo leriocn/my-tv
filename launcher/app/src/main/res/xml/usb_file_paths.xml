@@ -1,0 +1,3 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <root-path name="usb_storage" path="storage/" />
+</paths>

@@ -1,0 +1,16 @@
+{
+  "id": "p013",
+  "text": "唐寅。",
+  "textSha256": "b2338dacf9ef7b6513f3c9e2a2d48c019e793ddc3cf2d2776d21bde11810991d",
+  "sha256": "b50e7eba0e54155f6c47b2f89775e4a5bc458510e394280e1aac951252fed527",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 12407608,
+      "text": "唐寅。"
+    }
+  ],
+  "attempts": 1
+}

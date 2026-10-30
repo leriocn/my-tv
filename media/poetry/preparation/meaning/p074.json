@@ -1,0 +1,22 @@
+{
+  "id": "p074",
+  "text": "京城的早春细雨滋润如酥，远望一片草色，走近却稀疏难辨。这正是一年中最好的春景，胜过后来烟柳满城的时候。",
+  "textSha256": "a47fd94abe9e1b37c00ed0761d1bde3542e30b708c2f8d0048ddaa340f614924",
+  "sha256": "ab2c5eeda06dc55fe4f36a51e40a935850073fca51517d596366f9da193065d4",
+  "bytes": 72288,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 65804346,
+      "text": "京城的早春细雨滋润如酥，远望一片草色，走近却稀疏难辨。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 66304346,
+      "duration": 53668477,
+      "text": "这正是一年中最好的春景，胜过后来烟柳满城的时候。"
+    }
+  ],
+  "attempts": 1
+}

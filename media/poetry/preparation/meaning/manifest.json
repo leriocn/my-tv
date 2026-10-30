@@ -1,0 +1,1814 @@
+[
+  {
+    "id": "p001",
+    "text": "白鹅伸长脖子向天空鸣叫，白羽浮在绿水上，红色的脚掌轻轻划开水波，写出了鹅的姿态、颜色和动作。",
+    "textSha256": "e240f64fdc43296b1e26f35b8d43b09cf4dad2dcf9a9d0926ae95c3f0248656d",
+    "sha256": "e59e7f55f685eebb2c4bc570b449d0a18b88ac68670d28e697bff81db960a867",
+    "bytes": 67968,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 111635867,
+        "text": "白鹅伸长脖子向天空鸣叫，白羽浮在绿水上，红色的脚掌轻轻划开水波，写出了鹅的姿态、颜色和动作。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p002",
+    "text": "画里的远山色彩清楚，近处流水却听不到声音；春天过去花仍盛开，人走近了鸟也不惊飞，这些特点点明眼前是一幅画。",
+    "textSha256": "127832cdc06a2bc5af2e294197fc09c7f58ec2734f20cb523dded4013b79494a",
+    "sha256": "c504b43521f91aeb8e44cc497372eeb2b7a73845f81eba8bc19c136cf4f56932",
+    "bytes": 76320,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 125494562,
+        "text": "画里的远山色彩清楚，近处流水却听不到声音；春天过去花仍盛开，人走近了鸟也不惊飞，这些特点点明眼前是一幅画。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p003",
+    "text": "农人在正午锄地，汗水滴进泥土；碗中的每一粒粮食，都凝聚着辛勤劳作，要珍惜粮食。",
+    "textSha256": "a436ad95e0d1763342820a5708ebd32c507b77ac1e62a106b299c4bbdee81296",
+    "sha256": "9b3cbf09a8afb3f6d02322f4e11980ec8066cfe13939997169482ebd5e6d4f7d",
+    "bytes": 55728,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 91755433,
+        "text": "农人在正午锄地，汗水滴进泥土；碗中的每一粒粮食，都凝聚着辛勤劳作，要珍惜粮食。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p004",
+    "text": "江南正适合采莲，莲叶茂盛相连。鱼儿在莲叶间来回游动，东西南北都充满了活泼的生机。",
+    "textSha256": "b03ae214a0b534b67d3d0dfcb53314cb9d31c452b73a7a1f4e36a20d49145d4d",
+    "sha256": "01fe6acb3d66491254a295e1ad3d3c72d305dd51df32bdeb98e45953808adbac",
+    "bytes": 59904,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 41076086,
+        "text": "江南正适合采莲，莲叶茂盛相连。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 41576086,
+        "duration": 57744564,
+        "text": "鱼儿在莲叶间来回游动，东西南北都充满了活泼的生机。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p005",
+    "text": "小时候不认识月亮，把它叫作白玉做的圆盘，又猜它是神仙的镜子，飞到了高高的云间，表现了孩子的好奇。",
+    "textSha256": "e66199c8b6d9106f814dab016a71d08aceb6df21ff9b280ba2c928204799146c",
+    "sha256": "2321a4f30515b5aac62f97e5feef486dd35e008880ec8ac9c42c2740e6d1008c",
+    "bytes": 63936,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 104978258,
+        "text": "小时候不认识月亮，把它叫作白玉做的圆盘，又猜它是神仙的镜子，飞到了高高的云间，表现了孩子的好奇。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p006",
+    "text": "风让深秋的叶子落下，也使春花开放；吹过江面掀起高浪，进入竹林又让万竿竹子倾斜，写出无形的风带来的变化。",
+    "textSha256": "596707d65f3a5e566550e58da06e8f329dae557f5b2d72ef97e41b60f82448cd",
+    "sha256": "7c8cbc33bc7fcc1f614b53fd8907c3aa16f7875e380106eef993b6eccafd4529",
+    "bytes": 72000,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 118429345,
+        "text": "风让深秋的叶子落下，也使春花开放；吹过江面掀起高浪，进入竹林又让万竿竹子倾斜，写出无形的风带来的变化。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p007",
+    "text": "春天睡得香，不觉天已亮，醒来听见到处有鸟鸣。想起夜里的风雨，又牵挂花朵不知落了多少。",
+    "textSha256": "d3d92a92e777625baaee6d3708ffce79b40793eb142aa5d16da5de33846a6995",
+    "sha256": "371a74faf0349568b41b10e67913d121153469f0dcb13a44baa2cfe5da5afcdd",
+    "bytes": 61056,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 52217390,
+        "text": "春天睡得香，不觉天已亮，醒来听见到处有鸟鸣。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 52717390,
+        "duration": 48369564,
+        "text": "想起夜里的风雨，又牵挂花朵不知落了多少。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p008",
+    "text": "在松树下询问童子，才知道师父采药去了；虽说就在山中，但山高云深，无法知道具体在何处。",
+    "textSha256": "b6eb6551d17c26225fefc05f26e28c02e1d6bf785e1fa7a8c196f3008ae97fe3",
+    "sha256": "fe004288a3ccb964f6d3d7271b4b1491cb12059316c4fda65beb2ce4fb430318",
+    "bytes": 61344,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 100630432,
+        "text": "在松树下询问童子，才知道师父采药去了；虽说就在山中，但山高云深，无法知道具体在何处。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p009",
+    "text": "诗人乘船将走，忽然听见岸上传来踏歌送别声。即使桃花潭水深达千尺，也比不上汪伦相送的情谊。",
+    "textSha256": "93485c091153349fa4490eb225d3b0888e8d0696a3d9a5cee9c978746e2cd202",
+    "sha256": "5cd7ca19e27bcc96aab4955f03b1c28438b26e3d4c21c629f27953a63ebea94a",
+    "bytes": 65376,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 51945651,
+        "text": "诗人乘船将走，忽然听见岸上传来踏歌送别声。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 52445651,
+        "duration": 55842390,
+        "text": "即使桃花潭水深达千尺，也比不上汪伦相送的情谊。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p010",
+    "text": "床前的月光明亮得像地上的白霜，诗人抬头望月，又低头思念故乡，借月色写出乡愁。",
+    "textSha256": "25069f148f96105286ddc3453dff57ddc1f0b01f32671e625fffea14c7d90ec7",
+    "sha256": "8f19fc2966bdb7e07edd17c899443598ebc983d95b05264335271e3a8df6c190",
+    "bytes": 56592,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 93114128,
+        "text": "床前的月光明亮得像地上的白霜，诗人抬头望月，又低头思念故乡，借月色写出乡愁。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p011",
+    "text": "孩子撑小船偷偷采莲回来，却不懂隐藏痕迹；小船推开的浮萍留下一条水路，显出了孩子的天真。",
+    "textSha256": "e871358f8195a14f62d392194afaa4e8ed51515a71c802ec003e580c489b738e",
+    "sha256": "0055dd0acd3d7ed6c77a4899c3f0a9bd0905a985d0bd5c4265944c6ed8835e03",
+    "bytes": 63216,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 1000000,
+        "duration": 103755432,
+        "text": "孩子撑小船偷偷采莲回来，却不懂隐藏痕迹；小船推开的浮萍留下一条水路，显出了孩子的天真。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p012",
+    "text": "泉水悄悄流淌，树影映在水中；小荷叶刚露出尖角，蜻蜓就停在上面，展现了初夏小池的细微生趣。",
+    "textSha256": "80e8099388f58b7047ce25c45e0494e9f35cee1cc494a038af51b7f736a0b7de",
+    "sha256": "8f275e961365435eabbde63b1692553f52d9324dea4a3cfc02f3e8ee495ab529",
+    "bytes": 62784,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 103576085,
+        "text": "泉水悄悄流淌，树影映在水中；小荷叶刚露出尖角，蜻蜓就停在上面，展现了初夏小池的细微生趣。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p013",
+    "text": "雄鸡头顶天然的红冠，披着雪白的羽毛；平常不轻易开口，一旦啼鸣便唤醒千家万户，写出雄鸡的神气。",
+    "textSha256": "d221f882adbfc2b3fc75356dcd66a341c02e67d863e6a3b6c00bdb0011c820f3",
+    "sha256": "61aee4c1c1a095f15946dcd2be7ce2279f4da315560a18bd3ae7464194b90c19",
+    "bytes": 66096,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 109146737,
+        "text": "雄鸡头顶天然的红冠，披着雪白的羽毛；平常不轻易开口，一旦啼鸣便唤醒千家万户，写出雄鸡的神气。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p014",
+    "text": "墙角的梅花独自迎寒开放。远远便知道那不是白雪，因为空气中飘来了清淡的花香，赞美梅花不畏寒冷。",
+    "textSha256": "c6795e4f7971523f26e5f855ffe9c1dcea3b3063c0a69e7c7aa10d1ed444fa09",
+    "sha256": "9c6b99138bf3bf5ff29cdfaa4c2e5b1c2c5c09f82fa36d9daa289a953b2e2cc7",
+    "bytes": 67824,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 32244564,
+        "text": "墙角的梅花独自迎寒开放。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 32744564,
+        "duration": 79755433,
+        "text": "远远便知道那不是白雪，因为空气中飘来了清淡的花香，赞美梅花不畏寒冷。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p015",
+    "text": "头发蓬乱的孩子侧身坐在苔草间学钓鱼。路人问路，他连忙远远招手，不敢出声，生怕惊走鱼儿。",
+    "textSha256": "5c792265c32d94d859bda37e8d88843947bb86d2af7a687c932250a8b8892cc9",
+    "sha256": "4872f295954b05b54c63f03568b89c7f9d0f00ae61609641bc5fcbe8915fdb5f",
+    "bytes": 63792,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 45423912,
+        "text": "头发蓬乱的孩子侧身坐在苔草间学钓鱼。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 45923912,
+        "duration": 59782607,
+        "text": "路人问路，他连忙远远招手，不敢出声，生怕惊走鱼儿。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p016",
+    "text": "夕阳依着山峦落下，黄河向大海奔流。若想把更远的景色看尽，就要再登上一层楼，也启发人不断进取。",
+    "textSha256": "bb8cb423d351e4fb1a1034c4c8cead29dba918701929109135eac53f96a389c2",
+    "sha256": "63b50bd254f6d863c655824d4745a5b29a6b7a769bb51c781e26030eb314f9dc",
+    "bytes": 66816,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 43793477,
+        "text": "夕阳依着山峦落下，黄河向大海奔流。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 44293477,
+        "duration": 66576085,
+        "text": "若想把更远的景色看尽，就要再登上一层楼，也启发人不断进取。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p017",
+    "text": "阳光照着香炉峰，升起紫色云烟，远处瀑布像悬挂的白练。水流从高处直落，仿佛银河从天上倾泻而下。",
+    "textSha256": "10856035733277e56aac50305c25e939610290d1f3563d06ea9513ef976e116e",
+    "sha256": "bc28e6358b6112cf606897522c4a06e14d01054a3336d2522746d3f4a8eaaa40",
+    "bytes": 69552,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 63766303,
+        "text": "阳光照着香炉峰，升起紫色云烟，远处瀑布像悬挂的白练。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 64266303,
+        "duration": 50951086,
+        "text": "水流从高处直落，仿佛银河从天上倾泻而下。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p018",
+    "text": "群山中没有飞鸟，道路上也没有行人。寒冷江面只有一位披蓑戴笠的老人，在孤舟上独自钓鱼。",
+    "textSha256": "296e6385e16cd4091d07a81226479e57a2bd0fddae51d90abc8b1fd6b8f7e650",
+    "sha256": "8af00b8647d67cf94fd3cce487cbd3548106a44a44a4a6506398e8e13cefa7bf",
+    "bytes": 60480,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 39445651,
+        "text": "群山中没有飞鸟，道路上也没有行人。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 39945651,
+        "duration": 60190216,
+        "text": "寒冷江面只有一位披蓑戴笠的老人，在孤舟上独自钓鱼。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p019",
+    "text": "阴山脚下的敕勒川辽阔无边，天空像大帐篷笼罩草原；风吹低牧草，成群的牛羊便显露出来。",
+    "textSha256": "4e10955c9d153746af84b58b5661f7bf6d57df3f59ece2b9291825c13434862c",
+    "sha256": "c84ef9e5fee3ce72788f06915d500d32521a1499ce69b22ef3c011099473b846",
+    "bytes": 60336,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 99499998,
+        "text": "阴山脚下的敕勒川辽阔无边，天空像大帐篷笼罩草原；风吹低牧草，成群的牛羊便显露出来。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p020",
+    "text": "山寺的高楼仿佛高达百尺，伸手似乎能摘下星星。诗人不敢大声说话，担心惊动天上的神仙。",
+    "textSha256": "38ab10301661142677cc52d40c0af6c123789b2d4e3d56b481315b99a7844087",
+    "sha256": "9d3746413df2829bbe0ecd55794fac8a6b8b01344416c2e4c8f24b65cba3f8fc",
+    "bytes": 62352,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 56293477,
+        "text": "山寺的高楼仿佛高达百尺，伸手似乎能摘下星星。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 56793477,
+        "duration": 46467390,
+        "text": "诗人不敢大声说话，担心惊动天上的神仙。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p021",
+    "text": "高高的柳树像用碧玉装扮成，垂下的柳条如千万条绿丝带；细巧的叶子仿佛是二月春风用剪刀裁出来的。",
+    "textSha256": "36b475b753bc691424e1cea8f7073f2330aa37da04caf01128951c2d4fe0f322",
+    "sha256": "681796a0d2ccf7b377f25713140f0b08341c6b87fbde22e22c4a86a34c9c20c0",
+    "bytes": 64080,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 105749998,
+        "text": "高高的柳树像用碧玉装扮成，垂下的柳条如千万条绿丝带；细巧的叶子仿佛是二月春风用剪刀裁出来的。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p022",
+    "text": "二月草长莺飞，柳枝拂着堤岸，笼罩在春日烟气里。孩子们放学早早回来，趁东风兴起放起风筝。",
+    "textSha256": "63c9ff2d959d767e7c24ddfda58d350f1e4b477b794fea32ebc76eeac1273722",
+    "sha256": "b24ce3171bd46d1d1da41e1fee1081b1334ad63502b6779d66d6ed8ede100e4e",
+    "bytes": 64656,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 55342390,
+        "text": "二月草长莺飞，柳枝拂着堤岸，笼罩在春日烟气里。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 55842390,
+        "duration": 51358694,
+        "text": "孩子们放学早早回来，趁东风兴起放起风筝。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p023",
+    "text": "原野上的草年年枯萎又繁盛。野火不能彻底烧尽它的生命，春风一来便重新萌发，表现出顽强的生命力。",
+    "textSha256": "17ee067d3bf0f456c56949cccd90201dcc8e4885c01fb5b622d58dfc7b079bb8",
+    "sha256": "0b07183981ba3e716255fff33b84a9483f5da7b8e5624eb51957507624894e33",
+    "bytes": 65808,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 32516303,
+        "text": "原野上的草年年枯萎又繁盛。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 33016303,
+        "duration": 76086955,
+        "text": "野火不能彻底烧尽它的生命，春风一来便重新萌发，表现出顽强的生命力。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p024",
+    "text": "黄鹂在翠柳间鸣叫，白鹭排成一行飞向蓝天；窗口像画框装着西岭积雪，门前停着从远方东吴来的船。",
+    "textSha256": "6940ed45698eea0d17b33d1491e17548177ce1b94b8306e2b72c8a2d6553d5c6",
+    "sha256": "c6f3de1d8576ebaac4f0c5625e5e99d947261f22a8510247a953c865d404360b",
+    "bytes": 67536,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 111320650,
+        "text": "黄鹂在翠柳间鸣叫，白鹭排成一行飞向蓝天；窗口像画框装着西岭积雪，门前停着从远方东吴来的船。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p025",
+    "text": "六月西湖的风光与其他时节不同：莲叶接天，一望无际地碧绿；荷花映着阳光，红得格外鲜艳。",
+    "textSha256": "c2a36ee8222f3763e7a31e2b86b2ccc7e56a7329506a6ea9bb29cc60b659eb56",
+    "sha256": "fd7534219b3488558c84a4a33d4fe261d16639c3fba32485aceb63f037a4f82d",
+    "bytes": 59616,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 98277172,
+        "text": "六月西湖的风光与其他时节不同：莲叶接天，一望无际地碧绿；荷花映着阳光，红得格外鲜艳。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p026",
+    "text": "春天播下一粒谷种，秋天便可收获许多粮食。天下没有荒闲的田地，辛苦耕作的农人却仍有人饿死，流露出对农人的同情。",
+    "textSha256": "4eebef20d199441e50d334eadd690b632fe26919301829b9894b0b41faf4c755",
+    "sha256": "192da79e64ff284f60585749688634d1c2e585cce030e61a985b62d35d4a41bf",
+    "bytes": 78336,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 48820651,
+        "text": "春天播下一粒谷种，秋天便可收获许多粮食。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 49320651,
+        "duration": 80570650,
+        "text": "天下没有荒闲的田地，辛苦耕作的农人却仍有人饿死，流露出对农人的同情。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p027",
+    "text": "江上来往的人们只赞美鲈鱼味道鲜美，却很少想到捕鱼人的辛劳；请看那小小渔船，正出没在风浪之中。",
+    "textSha256": "9101906f888cb61b0f29ca3b3e0d753438351f9d0c465bb9c3487cec9705788c",
+    "sha256": "53f4330196ef61add04fd2741bb448cb2444fe26c2a76c8464589d5ef0fae077",
+    "bytes": 63360,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 104391302,
+        "text": "江上来往的人们只赞美鲈鱼味道鲜美，却很少想到捕鱼人的辛劳；请看那小小渔船，正出没在风浪之中。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p028",
+    "text": "牧童骑着黄牛，响亮的歌声回荡在林间。忽然想捕捉树上的蝉，便马上闭嘴站住，表现了孩子机灵的神态。",
+    "textSha256": "c295c627112a90bdeabdf29af41f1508eb451b52015905d40b0f98cb86fad004",
+    "sha256": "45f55d87879515670d3c4ca0ac3e3d002c28ef5f70bad5253324fd780281b45e",
+    "bytes": 66096,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 42570651,
+        "text": "牧童骑着黄牛，响亮的歌声回荡在林间。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 43070651,
+        "duration": 66440216,
+        "text": "忽然想捕捉树上的蝉，便马上闭嘴站住，表现了孩子机灵的神态。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p029",
+    "text": "秋月与湖光交融，无风的湖面像未经磨亮的镜子。远望青翠的君山，像白银盘中放着一枚青螺。",
+    "textSha256": "ed85e6147ae9cb9591e2e40259609d9aedba9ae924c02efe358cb679f6286549",
+    "sha256": "d7378831a9ab4faf009dd7e569a08ee76304b27469f7c57c41836c3caabd0f08",
+    "bytes": 62496,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 52760868,
+        "text": "秋月与湖光交融，无风的湖面像未经磨亮的镜子。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 53260868,
+        "duration": 50271738,
+        "text": "远望青翠的君山，像白银盘中放着一枚青螺。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p030",
+    "text": "石头小路弯弯伸向深秋的山中，白云升起处住着人家。诗人因喜爱傍晚枫林而停车，霜染红叶比春花更鲜艳。",
+    "textSha256": "a81d8456f0758920168633b2912906cc0b808be7628c8f95645f87ec5ad0fea6",
+    "sha256": "ef9f4b7736a7a1138fda45390a058b6d554fb833cb83b2c29c6d72836b5c9b7b",
+    "bytes": 72576,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 58739129,
+        "text": "石头小路弯弯伸向深秋的山中，白云升起处住着人家。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 59239129,
+        "duration": 61005433,
+        "text": "诗人因喜爱傍晚枫林而停车，霜染红叶比春花更鲜艳。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p031",
+    "text": "梧桐叶沙沙作响，江上秋风勾起旅人的思乡之情。夜深时篱笆旁还有灯火，诗人猜想是孩子正在捉蟋蟀。",
+    "textSha256": "67eeffb5dcf70c6ca9995f7404315574d0ea7caee8a06cb57b6c301196032db3",
+    "sha256": "5427787fed48d8856aa3b01f85b31f177e4d6d3802a4faba402a4bd4472650d5",
+    "bytes": 70992,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 55342390,
+        "text": "梧桐叶沙沙作响，江上秋风勾起旅人的思乡之情。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 55842390,
+        "duration": 61820651,
+        "text": "夜深时篱笆旁还有灯火，诗人猜想是孩子正在捉蟋蟀。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p032",
+    "text": "漆黑的水面上亮着一盏渔灯，远看如萤火般微小。风吹起细浪，灯光的倒影便散成了满河的星星。",
+    "textSha256": "7df7da13e7a8f2debb37a9c3f8b19b08ac74f7b08556e2e75618dc57ce3cf17b",
+    "sha256": "aea7e79b60fa16296bb9c1cf8f7b2a04bc9b3b254bc8960cf66b872785fd0b34",
+    "bytes": 63216,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 53032607,
+        "text": "漆黑的水面上亮着一盏渔灯，远看如萤火般微小。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 53532607,
+        "duration": 51222825,
+        "text": "风吹起细浪，灯光的倒影便散成了满河的星星。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p033",
+    "text": "清晨告别彩云间的白帝城，一天就顺流到达千里外的江陵。两岸猿啼还在耳边，轻快的小船已越过层层山峦。",
+    "textSha256": "1a581ec5b6b11147d5d3ee5127964fe323871e84310043708a5342b5d11c4aeb",
+    "sha256": "fd377730dff637cac11a359f9aac63c1e71c5872171a54e7d92fb835c49aa67f",
+    "bytes": 70848,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 62271737,
+        "text": "清晨告别彩云间的白帝城，一天就顺流到达千里外的江陵。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 62771737,
+        "duration": 54755433,
+        "text": "两岸猿啼还在耳边，轻快的小船已越过层层山峦。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p034",
+    "text": "空山中看不见人，只听见远处传来人声。夕阳的返照射进深林，又照到青苔上，更显山林幽静。",
+    "textSha256": "1fd0a895d0432736d301cd4e7699ead961688b31d63ecd72cbdb6c3ba70a1683",
+    "sha256": "a7d3619ff8c623dfb6953bd92fdd3057e2e95364cf05a7f8b95ca7d7151b3de8",
+    "bytes": 62064,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 43249999,
+        "text": "空山中看不见人，只听见远处传来人声。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 43749999,
+        "duration": 59103259,
+        "text": "夕阳的返照射进深林，又照到青苔上，更显山林幽静。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p035",
+    "text": "长江冲开天门山，碧绿江水在这里回旋。小船行进中，两岸青山仿佛迎面而来，一片孤帆从日边驶来。",
+    "textSha256": "7aefd26394b44547cc50f357bb16f939a300221e664248fda33afa4cc8c871f5",
+    "sha256": "1f5ddab0119802b09a3f356cf622304d2fa2ace8bd73a4431c858ffca25ec197",
+    "bytes": 67968,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 45831520,
+        "text": "长江冲开天门山，碧绿江水在这里回旋。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 46331520,
+        "duration": 66440216,
+        "text": "小船行进中，两岸青山仿佛迎面而来，一片孤帆从日边驶来。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p036",
+    "text": "晴天的西湖水波闪耀，雨中的山色迷蒙，两种景色都很美。把西湖比作西施，淡妆浓妆各有风韵。",
+    "textSha256": "1a0d4e02b136c26cda59e63a45f3637b0c7500c50f2d49c2cc5f3ea865a00496",
+    "sha256": "b22d567061522782c16e88ef54739c6fbbb95be5aeb349277b3a38e9641e0ee7",
+    "bytes": 63360,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 61864129,
+        "text": "晴天的西湖水波闪耀，雨中的山色迷蒙，两种景色都很美。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 62364129,
+        "duration": 42663042,
+        "text": "把西湖比作西施，淡妆浓妆各有风韵。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p037",
+    "text": "采莲姑娘的绿裙仿佛与荷叶融为一体，荷花又映着她们的面庞。人融入荷塘难以分辨，听到歌声才发现有人。",
+    "textSha256": "b79489892052d6ac57920629daf09b5892991500b323fddd274dcbf89d0d1ab7",
+    "sha256": "1ce2e1027bc5d095570ddba17a9080bbb8f42b19e34543a63b5a4a8a5f560adc",
+    "bytes": 69264,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 65940216,
+        "text": "采莲姑娘的绿裙仿佛与荷叶融为一体，荷花又映着她们的面庞。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 66440216,
+        "duration": 48369564,
+        "text": "人融入荷塘难以分辨，听到歌声才发现有人。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p038",
+    "text": "春日江山明丽，春风送来花草香气。燕子衔着湿泥忙筑巢，鸳鸯安睡在温暖沙地上，描绘出和暖的春景。",
+    "textSha256": "9e6c8f20fb8d61ffa4e54dd9a31c09e481a6d52ba82edade741bb240682cf04c",
+    "sha256": "b890963759f9d73553305b8bfb3b74fed19022a62a01bf8180a806e4a9679b86",
+    "bytes": 68976,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 41347825,
+        "text": "春日江山明丽，春风送来花草香气。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 41847825,
+        "duration": 72554346,
+        "text": "燕子衔着湿泥忙筑巢，鸳鸯安睡在温暖沙地上，描绘出和暖的春景。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p039",
+    "text": "几枝桃花从竹林外开放，鸭子最先感知春江的暖意；蒌蒿长满河滩、芦芽刚出土，正是河豚将要溯江而上的时节。",
+    "textSha256": "a98d1995234e2271726c9d57b7dc5e5957a688dd00f81253d8b372293b649dfc",
+    "sha256": "3038e0d13f00f0d4d6c533eb44eff34fe83450795f8bc95f9bc1cbe39b88dccc",
+    "bytes": 72864,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 120288041,
+        "text": "几枝桃花从竹林外开放，鸭子最先感知春江的暖意；蒌蒿长满河滩、芦芽刚出土，正是河豚将要溯江而上的时节。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p040",
+    "text": "梅子黄熟时连续晴朗，诗人乘船走到溪流尽头，再走山路。浓密的树阴仍如来时，又多了黄鹂清脆的叫声。",
+    "textSha256": "b6db0fce348cf3de56ab215cc0edc6dfddea83c25ae317d18ddb891234761968",
+    "sha256": "860f7f9b0eb5023ef1749421e66c4fd9ac1b630da32b0d152130e101d18ed2c1",
+    "bytes": 54720,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 65260868,
+        "text": "梅子黄熟时连续晴朗，诗人乘船走到溪流尽头，再走山路。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 65760868,
+        "duration": 49184781,
+        "text": "浓密的树阴仍如来时，又多了黄鹂清脆的叫声。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p041",
+    "text": "江南的美景曾经十分熟悉：日出时江边的花红过火焰，春天的江水碧绿如蓝草。这样美的江南，怎能不令人怀念？",
+    "textSha256": "c89902adec3f057779bbb8f4272ba412da7f56b91272e80ee34a723b2fc3852c",
+    "sha256": "9d0000c8d893cbed2770c902fba4ad925c2b3dbb60c15c14978dac4642b5a0bf",
+    "bytes": 74160,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 87815215,
+        "text": "江南的美景曾经十分熟悉：日出时江边的花红过火焰，春天的江水碧绿如蓝草。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 88315215,
+        "duration": 34782608,
+        "text": "这样美的江南，怎能不令人怀念？"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p042",
+    "text": "诗人喜爱涧边幽草，听着深树中黄鹂鸣叫。傍晚春雨涨潮，荒野渡口没有人，只有一条小船横在水面。",
+    "textSha256": "1e71e781183e5fa82e00e2a63919f72451716950e53dc85c8d7ff3ec9710a430",
+    "sha256": "7bbe3d5621d24e3aac9434c6226cdfdd8ec26522e0d43edee867e10a72736a74",
+    "bytes": 64224,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 46646738,
+        "text": "诗人喜爱涧边幽草，听着深树中黄鹂鸣叫。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 47146738,
+        "duration": 59239129,
+        "text": "傍晚春雨涨潮，荒野渡口没有人，只有一条小船横在水面。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p043",
+    "text": "爆竹声送走旧年，春风带来暖意，人们饮屠苏酒迎新。朝阳照进千家万户，大家用新桃符换下旧桃符。",
+    "textSha256": "5680de553c42d6a4e450d339d1d801ac27c5f5bc0d25581ac4b4a39b95df2c42",
+    "sha256": "4feaac6ca02e577205819c6f2cb5eaa846243239c2e09011de32140101f4709c",
+    "bytes": 67824,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 57788042,
+        "text": "爆竹声送走旧年，春风带来暖意，人们饮屠苏酒迎新。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 58288042,
+        "duration": 54211955,
+        "text": "朝阳照进千家万户，大家用新桃符换下旧桃符。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p044",
+    "text": "清明时细雨纷纷，赶路的人心情惆怅。诗人询问哪里有酒家，牧童指向远处的杏花村。",
+    "textSha256": "495ced6a34c8c26a2db8b2698ae5157a88790aadb9e8d17dd1368289ee775a18",
+    "sha256": "354b9ea384dcf6dc1fbc042fca4e0b5965ead177d4cab3357732a8a89030ff91",
+    "bytes": 56736,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 42298912,
+        "text": "清明时细雨纷纷，赶路的人心情惆怅。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 42798912,
+        "duration": 51086955,
+        "text": "诗人询问哪里有酒家，牧童指向远处的杏花村。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p045",
+    "text": "独自在外作客，每逢节日就更加想念亲人。想到兄弟们重阳登高、佩戴茱萸时，发现团聚的人中少了自己。",
+    "textSha256": "2a5a5e30a7282c728d5ce1cae0feaebdea65c4cdacfabd69837c4050d9032be7",
+    "sha256": "5f13372b56c2b7cb66556ed5225b6e20d34df61f68936b80ef3fb1534425c907",
+    "bytes": 69120,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 48548912,
+        "text": "独自在外作客，每逢节日就更加想念亲人。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 49048912,
+        "duration": 65624998,
+        "text": "想到兄弟们重阳登高、佩戴茱萸时，发现团聚的人中少了自己。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p046",
+    "text": "山下四月百花已谢，山寺里的桃花却刚盛开。诗人原本惋惜春天难寻，没想到春色竟留在这高山寺院中。",
+    "textSha256": "f2c7e5deefcd5cf3da2245a3ac962f0e2bc6f631635d7539305068b1a9a8fa14",
+    "sha256": "33f81881a2986a36917d7dc2a6e1a0914ce5af8e74f010e2bacd7cd1cf99df27",
+    "bytes": 70704,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 49907607,
+        "text": "山下四月百花已谢，山寺里的桃花却刚盛开。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 50407607,
+        "duration": 66711955,
+        "text": "诗人原本惋惜春天难寻，没想到春色竟留在这高山寺院中。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p047",
+    "text": "荷叶已枯，菊花虽残仍有傲霜枝干。一年中橙黄橘绿的深秋同样美好，诗人以此勉励朋友珍惜成熟的时光。",
+    "textSha256": "b16e814ceb892a7bc5b97f2e08b9de73e1fdce93dcdc79c7001adc599f371e5d",
+    "sha256": "26794fe1829ca85a73e18d5d2ea26e0c29606602d638b69639c8ca3c17808a77",
+    "bytes": 71568,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 42570651,
+        "text": "荷叶已枯，菊花虽残仍有傲霜枝干。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 43070651,
+        "duration": 75679346,
+        "text": "一年中橙黄橘绿的深秋同样美好，诗人以此勉励朋友珍惜成熟的时光。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p048",
+    "text": "夕阳铺在江面上，一半江水碧绿，一半映出红色。初三的夜晚格外可爱，露珠像珍珠，弯月像一张弓。",
+    "textSha256": "ec049bce24d0f233a8f74cb2192f74f1a9671f93f7d012a77d63018c58999fa9",
+    "sha256": "ec7351c7d810bbe1c5934876e794468ebeeff043142a9c30910be14c384cc773",
+    "bytes": 65232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 52760868,
+        "text": "夕阳铺在江面上，一半江水碧绿，一半映出红色。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 53260868,
+        "duration": 54755433,
+        "text": "初三的夜晚格外可爱，露珠像珍珠，弯月像一张弓。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p049",
+    "text": "从不同方向、远近高低去看，庐山呈现不同形态。之所以难认清它的全貌，正因为自己身在山中，提醒人要开阔观察角度。",
+    "textSha256": "95b06f162bcbe4665588ccf1957e4648e70563d5156cae0d597f5bfe791d6b7d",
+    "sha256": "a5e1495d5dc011792a6aa6c48e4d3692745e31b9569d7f097aba9dd9983cff8e",
+    "bytes": 79344,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 54663042,
+        "text": "从不同方向、远近高低去看，庐山呈现不同形态。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 55163042,
+        "duration": 76494563,
+        "text": "之所以难认清它的全貌，正因为自己身在山中，提醒人要开阔观察角度。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p050",
+    "text": "梅花与白雪争报春色，使诗人难以评判。梅花不如雪洁白，雪却少了梅花的清香，说明各有长处。",
+    "textSha256": "8dd1a87f6535577a469859880b1611a46ff4e89b5e147c9f86c4d95d0277271e",
+    "sha256": "794ffbe619f7c12653c19dc4f5f4465886afa14cccfa12a351b88d1d5d6a3779",
+    "bytes": 62208,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 44608694,
+        "text": "梅花与白雪争报春色，使诗人难以评判。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 45108694,
+        "duration": 58016303,
+        "text": "梅花不如雪洁白，雪却少了梅花的清香，说明各有长处。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p051",
+    "text": "烛影映着云母屏风渐渐变深，银河西沉、晨星将落。诗人借嫦娥夜夜独处月宫的传说，寄托孤寂的心情。",
+    "textSha256": "ed6020fef6bcb1af97e5e2c6654ffc40a55116dc31773b26e979c4759e0024f8",
+    "sha256": "8719d81b1bb011bcef0b45064fd4de59cffa5c683fa4471abb1c4565bb0d00e1",
+    "bytes": 68976,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 58331520,
+        "text": "烛影映着云母屏风渐渐变深，银河西沉、晨星将落。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 58831520,
+        "duration": 55570651,
+        "text": "诗人借嫦娥夜夜独处月宫的传说，寄托孤寂的心情。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p052",
+    "text": "老朋友在繁花似锦的三月告别黄鹤楼，乘船东去扬州。孤帆消失在碧空尽头，送别的人仍望着长江流向天边。",
+    "textSha256": "957cc6000c73a849a275a640e4936f74136b46e580e0675c7929632de5b94580",
+    "sha256": "d669694be4d23bc0d62c4241630376bfa283f1b6cbd777a2bd4229600c2a0713",
+    "bytes": 72720,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 59690216,
+        "text": "老朋友在繁花似锦的三月告别黄鹤楼，乘船东去扬州。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 60190216,
+        "duration": 60461955,
+        "text": "孤帆消失在碧空尽头，送别的人仍望着长江流向天边。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p053",
+    "text": "晶莹酒杯中盛满葡萄酒，正要举杯，琵琶声便催人启程。征人即使醉卧沙场也请不要嘲笑，古往今来出征者又有多少平安归来？",
+    "textSha256": "ec2fea9bb6dbd50efff3c0353cbf2ac99e5a6d10ec6c54038c3f7ead44f5a939",
+    "sha256": "7c25b6f6d6d083a401978eada5e19e561b6bb43e9e6e1ff3bc79beb6765b541d",
+    "bytes": 82800,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 62543477,
+        "text": "晶莹酒杯中盛满葡萄酒，正要举杯，琵琶声便催人启程。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 63043477,
+        "duration": 74320650,
+        "text": "征人即使醉卧沙场也请不要嘲笑，古往今来出征者又有多少平安归来？"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p054",
+    "text": "边关明月依旧，征战却延续了漫长岁月，远征的人仍未归来。诗人盼望有英勇将领守护边疆，使百姓免受战乱。",
+    "textSha256": "2c717935f8ac6452ee4fd3b6e7d021f247dee18fca61ae59e1934526b6215442",
+    "sha256": "1116fe3d5c1b77bd3d6b0dae3fe8367bba3223aa0f54724a7836c7221f59ddfb",
+    "bytes": 73296,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 65532607,
+        "text": "边关明月依旧，征战却延续了漫长岁月，远征的人仍未归来。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 66032607,
+        "duration": 55570651,
+        "text": "诗人盼望有英勇将领守护边疆，使百姓免受战乱。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p055",
+    "text": "活着应做人中的豪杰，死后也应成为英勇的鬼魂。诗人怀念不肯逃回江东的项羽，表达了坚持气节的态度。",
+    "textSha256": "2fcfbfc2954656165c179a60b3ad1e1f1bb7e9b1316b340d1face5f5e194f6f4",
+    "sha256": "869f8fa901b1f129e7e020bf916f10793dd4fbf5c1e15bf4e72c40bb13333a4c",
+    "bytes": 67680,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 51945651,
+        "text": "活着应做人中的豪杰，死后也应成为英勇的鬼魂。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 52445651,
+        "duration": 59782607,
+        "text": "诗人怀念不肯逃回江东的项羽，表达了坚持气节的态度。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p056",
+    "text": "昏黄云天遮住太阳，北风吹着雁群，雪花纷飞。诗人劝即将远行的朋友不要担心前路没有知己，天下谁不知道你的才华呢？",
+    "textSha256": "db127aeffe6007833b2e1151267ced0b161c9615986e0c5c3e2fa6936a6afdfe",
+    "sha256": "4509f4031e1b7f9c9e9394b8267959da74bd2bd1b8e966ff93d109a2b6fbea1d",
+    "bytes": 76608,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 52217390,
+        "text": "昏黄云天遮住太阳，北风吹着雁群，雪花纷飞。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 52717390,
+        "duration": 74320650,
+        "text": "诗人劝即将远行的朋友不要担心前路没有知己，天下谁不知道你的才华呢？"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p057",
+    "text": "初夏梅子金黄、杏子饱满，麦花雪白、菜花渐稀。白天变长，村民忙于田事，篱边少有人经过，只有蜻蜓蝴蝶飞舞。",
+    "textSha256": "5805ddf6c04ea940803f37baa0ab22dc2fa9e4f8f9e9802d61c9c2b8c5add76d",
+    "sha256": "845569d2196e837327b9c761e07ee0a4a228e6a7fa65cb13f50f0415442f2530",
+    "bytes": 77328,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 56429346,
+        "text": "初夏梅子金黄、杏子饱满，麦花雪白、菜花渐稀。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 56929346,
+        "duration": 71331520,
+        "text": "白天变长，村民忙于田事，篱边少有人经过，只有蜻蜓蝴蝶飞舞。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p058",
+    "text": "稀疏篱笆旁的小路伸向远处，树上新叶还未形成浓阴。孩子奔跑着追赶黄蝴蝶，蝴蝶飞入菜花中便找不到了。",
+    "textSha256": "3e113554b6d5cb409332e5c6001a6ec8f47789d069db36931ad7b1ab65b8ac8d",
+    "sha256": "ed01ca64b557a1a9cb5755df32ac830f4cb306aa42cf4b1054cb908e2f2d1946",
+    "bytes": 70704,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 59690216,
+        "text": "稀疏篱笆旁的小路伸向远处，树上新叶还未形成浓阴。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 60190216,
+        "duration": 56929346,
+        "text": "孩子奔跑着追赶黄蝴蝶，蝴蝶飞入菜花中便找不到了。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p059",
+    "text": "低矮茅屋旁溪水清清、青草碧绿，老夫妻用吴地方言亲切交谈。大儿子锄豆，中儿子编鸡笼，小儿子卧在溪边剥莲蓬，展现乡村家庭的温暖日常。",
+    "textSha256": "8f7ab76d465ef376e62cbb21155e641c497689f780091a2dce8d01cfe043725e",
+    "sha256": "6fca0cc84f31bbc65515e8c04bf2989f43abd2ef9494538f97f769d875191934",
+    "bytes": 94896,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 70288042,
+        "text": "低矮茅屋旁溪水清清、青草碧绿，老夫妻用吴地方言亲切交谈。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 70788042,
+        "duration": 86820650,
+        "text": "大儿子锄豆，中儿子编鸡笼，小儿子卧在溪边剥莲蓬，展现乡村家庭的温暖日常。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p060",
+    "text": "风雨送别春天，飞雪又迎来春的消息；梅花在冰雪中挺立绽放。它不为争春而开放，只传递春讯，待群花盛开便含笑其中，赞美坚韧与谦逊。",
+    "textSha256": "112fc357b1bc7796b08240a59e93a32e98c9cf06302f236e70396e775a6a1343",
+    "sha256": "36d984fffbb607ccb93fe1473789295a32c5e2ecea390e36b826eba34c8b9e97",
+    "bytes": 94320,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 70423911,
+        "text": "风雨送别春天，飞雪又迎来春的消息；梅花在冰雪中挺立绽放。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 70923911,
+        "duration": 85733694,
+        "text": "它不为争春而开放，只传递春讯，待群花盛开便含笑其中，赞美坚韧与谦逊。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p061",
+    "text": "黄师塔前江水向东流，春日暖意令人慵懒。临江盛开的桃花仿佛无人作主，深红浅红都使诗人喜爱不已。",
+    "textSha256": "990a2246d0a6948513e62daedfc28235e2dd3fb6a42fe9a5aca3be8a4ae4178e",
+    "sha256": "6ee2a3e44c574d368480da642da4c7d8fcf25e7a010c549cbacee77e42ae83e9",
+    "bytes": 68256,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 46918477,
+        "text": "黄师塔前江水向东流，春日暖意令人慵懒。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 47418477,
+        "duration": 65760868,
+        "text": "临江盛开的桃花仿佛无人作主，深红浅红都使诗人喜爱不已。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p062",
+    "text": "无论平地还是山尖，鲜花盛开的地方都有蜜蜂。它采尽百花酿成蜂蜜后，究竟为谁辛劳，又让谁享受甜美呢？",
+    "textSha256": "c7faae1b6d52cfe63f7c65dc80a867d799a80061ef702327c655b19eb126780e",
+    "sha256": "5e9856cf89ebe7652d0616ec6d430ef661ef2227b4b59cc2b86175da3f45bb61",
+    "bytes": 68544,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 49635868,
+        "text": "无论平地还是山尖，鲜花盛开的地方都有蜜蜂。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 50135868,
+        "duration": 63451085,
+        "text": "它采尽百花酿成蜂蜜后，究竟为谁辛劳，又让谁享受甜美呢？"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p063",
+    "text": "群鸟已飞走，孤云也悠然飘去。诗人与敬亭山久久相望，两不相厌，借山寄托自己的孤独与亲近自然的感情。",
+    "textSha256": "3522a007c3b6867005f7c065a907bace0b54873aad989334c04886aaace820cc",
+    "sha256": "5f4c57eed165afab8851d4c553035fa810c59e6bf788a118725cfe7a0d231ba4",
+    "bytes": 71424,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 35777173,
+        "text": "群鸟已飞走，孤云也悠然飘去。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 36277173,
+        "duration": 82065215,
+        "text": "诗人与敬亭山久久相望，两不相厌，借山寄托自己的孤独与亲近自然的感情。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p064",
+    "text": "寒雨笼罩夜晚的吴地，清晨送别朋友，只留下孤立的楚山。若洛阳亲友问起，就说自己的心仍像玉壶中的冰一样清澈纯洁。",
+    "textSha256": "1e40ded3534bb88b6bef4301878b0da1957aa74014ad75fcaeab77aeacdee63d",
+    "sha256": "583be9a4e59edf1e65a05d38ed6b921c527cb440421c336f34b99f98b085631d",
+    "bytes": 76896,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 60505433,
+        "text": "寒雨笼罩夜晚的吴地，清晨送别朋友，只留下孤立的楚山。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 61005433,
+        "duration": 66576085,
+        "text": "若洛阳亲友问起，就说自己的心仍像玉壶中的冰一样清澈纯洁。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p065",
+    "text": "没有月光的夜里雁群惊飞，敌军首领趁夜逃遁。将士们正要率轻骑追击，大雪已落满弓和刀，写出战士的勇毅。",
+    "textSha256": "e9e5771b2966b88b15a136dce77c00e2ff71846d26fc42f779563040cc592e1a",
+    "sha256": "1c352272b26fa776fb6fd4313f618d672bb44b3a0ce9459c0faa69c0460a68dd",
+    "bytes": 72864,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 51538042,
+        "text": "没有月光的夜里雁群惊飞，敌军首领趁夜逃遁。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 52038042,
+        "duration": 68749998,
+        "text": "将士们正要率轻骑追击，大雪已落满弓和刀，写出战士的勇毅。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p066",
+    "text": "洗砚池边的梅树开着淡墨色花朵。诗人不求别人赞美鲜艳颜色，只愿留下清正的气节，借墨梅表明自己的志向。",
+    "textSha256": "4e05be30fcb96a491f50c26d85d92d9c73851236592b9eb078e0e67a08aaf16b",
+    "sha256": "5bffed23c4139fc478dd503cf9e9796eda9525d8ce81646eff8f5890a8d8d516",
+    "bytes": 71712,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 37679347,
+        "text": "洗砚池边的梅树开着淡墨色花朵。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 38179347,
+        "duration": 80706520,
+        "text": "诗人不求别人赞美鲜艳颜色，只愿留下清正的气节，借墨梅表明自己的志向。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p067",
+    "text": "七夕夜，人们望着天空，想象牛郎织女渡过鹊桥。家家面对秋月穿针引线，祈求心灵手巧，描绘了传统节日习俗。",
+    "textSha256": "17b87d8f0e25c55d4b2ed0ebcc7e665c5ffa96ef2528cdd27fd2ba7644054176",
+    "sha256": "709e6d04faae5871044a5fff890002629152360f3b022e7f7d2a968f84953411",
+    "bytes": 74736,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 53440216,
+        "text": "七夕夜，人们望着天空，想象牛郎织女渡过鹊桥。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 53940216,
+        "duration": 70108694,
+        "text": "家家面对秋月穿针引线，祈求心灵手巧，描绘了传统节日习俗。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p068",
+    "text": "诗人临终仍遗憾没有见到国家统一。他叮嘱儿子：当军队收复中原时，家祭一定要把这个消息告诉父亲。",
+    "textSha256": "319d2013bb1903fec27be30c63fa9dbcb50455d2b53dd9d69fd346b850067217",
+    "sha256": "498c750fc5b2a4160ea75274cfe8fe8afbf61b6bc521a3fd9885166c8d563a1d",
+    "bytes": 65520,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 39853260,
+        "text": "诗人临终仍遗憾没有见到国家统一。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 40353260,
+        "duration": 68342390,
+        "text": "他叮嘱儿子：当军队收复中原时，家祭一定要把这个消息告诉父亲。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p069",
+    "text": "西湖边青山与楼阁层层相连，歌舞不休。诗人讽刺只顾享乐、忘记失地的人们，竟把临时安居的杭州当成故都汴州。",
+    "textSha256": "4b6b0aff699522f8b91261ede92b4c89d7a7f19641e131b0ac4a5df613451896",
+    "sha256": "62be0a29998d9c6a0d0fec10bca6e118273cadc971fa5bc529d1eaa01a82fcad",
+    "bytes": 75888,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 45967390,
+        "text": "西湖边青山与楼阁层层相连，歌舞不休。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 46467390,
+        "duration": 79347824,
+        "text": "诗人讽刺只顾享乐、忘记失地的人们，竟把临时安居的杭州当成故都汴州。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p070",
+    "text": "国家焕发生机需要变革，沉默压抑的局面令人悲哀。诗人希望打破陈规，用不拘一格的方式发现和任用人才。",
+    "textSha256": "4c0e9588760497f2437e4a4b07aa26c564282aed50cee6d7757d1160f550a3ad",
+    "sha256": "f3cd104453a8cdbb2a494a8ed0cf8022a6b0fbfc83d0775c828c1923ad1d7f3b",
+    "bytes": 69264,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 55342390,
+        "text": "国家焕发生机需要变革，沉默压抑的局面令人悲哀。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 55842390,
+        "duration": 59103259,
+        "text": "诗人希望打破陈规，用不拘一格的方式发现和任用人才。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p071",
+    "text": "母亲拿着针线，为即将远行的儿子缝衣，临行缝得格外细密，担心他迟迟不归。小草般的子女心意，难以报答春日阳光般的母爱。",
+    "textSha256": "293ce43eb847d156da9515f57143d87aea48cad734620f2d05a915adeeb25db8",
+    "sha256": "74e2ddc1baea6a23d2b765605815dffeb25b482a5b72961b2c5fe63c4e177f24",
+    "bytes": 79776,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 81021737,
+        "text": "母亲拿着针线，为即将远行的儿子缝衣，临行缝得格外细密，担心他迟迟不归。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 81521737,
+        "duration": 50815216,
+        "text": "小草般的子女心意，难以报答春日阳光般的母爱。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p072",
+    "text": "空山新雨后，傍晚透着秋凉。明月照松林，清泉流石间；洗衣姑娘归来，渔船拨开莲叶。这样的山中景致令人愿意留下。",
+    "textSha256": "f7515c2c80d44790a3f37c39ba021b360aa8592e7476f9d26cb8f3dbb1f00dcc",
+    "sha256": "587984f4ff95c366839f36811286dda7a07b80e642032ed62084c5b436aa31fb",
+    "bytes": 80064,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 33739129,
+        "text": "空山新雨后，傍晚透着秋凉。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 34239129,
+        "duration": 66032607,
+        "text": "明月照松林，清泉流石间；洗衣姑娘归来，渔船拨开莲叶。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 100271737,
+        "duration": 32472825,
+        "text": "这样的山中景致令人愿意留下。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p073",
+    "text": "月落乌啼、霜气满天，诗人对着江边枫树和渔火难以入睡。夜半时，姑苏城外寒山寺的钟声传到了客船。",
+    "textSha256": "7672478df78a3ee28182968c4c3b8a95aaca2d8ac1496d3fe1716c2c4a901881",
+    "sha256": "e7767c60e20b30f33150e4b5293a9b3d111a381a40088f4a741054bd109f0c70",
+    "bytes": 70272,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 64309781,
+        "text": "月落乌啼、霜气满天，诗人对着江边枫树和渔火难以入睡。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 64809781,
+        "duration": 51766303,
+        "text": "夜半时，姑苏城外寒山寺的钟声传到了客船。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p074",
+    "text": "京城的早春细雨滋润如酥，远望一片草色，走近却稀疏难辨。这正是一年中最好的春景，胜过后来烟柳满城的时候。",
+    "textSha256": "a47fd94abe9e1b37c00ed0761d1bde3542e30b708c2f8d0048ddaa340f614924",
+    "sha256": "ab2c5eeda06dc55fe4f36a51e40a935850073fca51517d596366f9da193065d4",
+    "bytes": 72288,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 65804346,
+        "text": "京城的早春细雨滋润如酥，远望一片草色，走近却稀疏难辨。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 66304346,
+        "duration": 53668477,
+        "text": "这正是一年中最好的春景，胜过后来烟柳满城的时候。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p075",
+    "text": "西塞山前白鹭飞翔，桃花映着流水，鳜鱼正肥。渔人戴青箬笠、披绿蓑衣，在斜风细雨中垂钓，流连不愿回去。",
+    "textSha256": "881e234e82b832cd6a518528d45390d7ec91a8c72ab826d343361c8e147ef681",
+    "sha256": "11e12229d9d6ed9af14053c4817e9b31048b112cea2ebe9eb3d2e325b612134b",
+    "bytes": 73440,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 53032607,
+        "text": "西塞山前白鹭飞翔，桃花映着流水，鳜鱼正肥。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 53532607,
+        "duration": 68206520,
+        "text": "渔人戴青箬笠、披绿蓑衣，在斜风细雨中垂钓，流连不愿回去。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p076",
+    "text": "半亩池塘像明镜，映着天光云影。水如此清澈，是因为不断有源头活水流入，也启发人持续学习、吸收新知。",
+    "textSha256": "8d89901558202d69732e097b1986a6ba413ac86be15aa326eaa3dd3f60b36d57",
+    "sha256": "b96acec0fa9fc7e6503cffe9dfafde61a795e6620e3d7e58c4bced2e578f6498",
+    "bytes": 71136,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 36999999,
+        "text": "半亩池塘像明镜，映着天光云影。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 37499999,
+        "duration": 80434781,
+        "text": "水如此清澈，是因为不断有源头活水流入，也启发人持续学习、吸收新知。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p077",
+    "text": "村里男女白天除草，夜间搓麻，各自承担劳动。孩子虽还不会耕田织布，也在桑树阴下学着种瓜，展现农家生活的勤劳与童趣。",
+    "textSha256": "19e3e60c8e4e572d69b0155d325b9f723dc3b7f704ca221ed49e81f0dba8e7f6",
+    "sha256": "828d2408f56dc1c29105c5d8c0cadb5f79a6dfd816bb985f8bb40e074f4bc56e",
+    "bytes": 81216,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 52624999,
+        "text": "村里男女白天除草，夜间搓麻，各自承担劳动。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 53124999,
+        "duration": 81521737,
+        "text": "孩子虽还不会耕田织布，也在桑树阴下学着种瓜，展现农家生活的勤劳与童趣。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p078",
+    "text": "清晨，孩子从金属盆里取出冰块，用彩线穿起当锣敲；声音清脆传过树林，忽然冰块落地，像玻璃一样碎开。",
+    "textSha256": "616f4f35ba0d04b386b827206ce9deaa1c1cb3f46c12482cb905e12c0cf1a6f7",
+    "sha256": "93177954838a0727e991cf971fb66ae7f4f0887d1f5d810a07718ab510664eb6",
+    "bytes": 70128,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 115804345,
+        "text": "清晨，孩子从金属盆里取出冰块，用彩线穿起当锣敲；声音清脆传过树林，忽然冰块落地，像玻璃一样碎开。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p079",
+    "text": "池塘长满青草，水几乎漫上塘岸，落日与山影映在水波中。牧童横坐牛背，随意吹着短笛，展现乡村傍晚的自在。",
+    "textSha256": "ac6f4e0fe67bb8665822a8511bc12540a4f315f31e679f673e8a6142ec454d18",
+    "sha256": "2077d1d2ab4ba682fea67dc437fb3351603365d59ba4923e8fdced8b68e69efe",
+    "bytes": 75168,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 65668477,
+        "text": "池塘长满青草，水几乎漫上塘岸，落日与山影映在水波中。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 66168477,
+        "duration": 58423911,
+        "text": "牧童横坐牛背，随意吹着短笛，展现乡村傍晚的自在。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p080",
+    "text": "母亲拿着针线，为即将远行的儿子缝衣，临行缝得格外细密，担心他迟迟不归。小草般的子女心意，难以报答春日阳光般的母爱。",
+    "textSha256": "293ce43eb847d156da9515f57143d87aea48cad734620f2d05a915adeeb25db8",
+    "sha256": "5dd961e03169e51278a1f719584cd6e2a7be206b3851b0568757e7c73fdb227c",
+    "bytes": 79776,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 81021737,
+        "text": "母亲拿着针线，为即将远行的儿子缝衣，临行缝得格外细密，担心他迟迟不归。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 81521737,
+        "duration": 50815216,
+        "text": "小草般的子女心意，难以报答春日阳光般的母爱。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p081",
+    "text": "人心闲静，桂花轻落，春山夜里一片宁静。月亮升起惊动了山鸟，不时有鸟鸣从春涧中传出，以声音衬托幽静。",
+    "textSha256": "99bc8afc2e57e6646bb045a01d717133bfeeeac521891e189883033be9596d51",
+    "sha256": "7f46f41d4154222e12cf7d3445ea410a452be528bcf6a540ad2c9ceaac34ad28",
+    "bytes": 74592,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 48413042,
+        "text": "人心闲静，桂花轻落，春山夜里一片宁静。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 48913042,
+        "duration": 74728259,
+        "text": "月亮升起惊动了山鸟，不时有鸟鸣从春涧中传出，以声音衬托幽静。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p082",
+    "text": "青海上空长云遮住雪山，远望边关玉门。将士们历经战斗，铠甲都磨损了，仍立下不战胜敌人决不回乡的誓言。",
+    "textSha256": "1dbc400e16b90ff71349681b5a73f6a8e6b24c8f29e530908d9b1e3a7d63e1c3",
+    "sha256": "4a7efbf9182e74387e03f2164a1a6a641613b3bd0b3d44ec1b7d69287818f0d3",
+    "bytes": 73008,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 45967390,
+        "text": "青海上空长云遮住雪山，远望边关玉门。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 46467390,
+        "duration": 74728259,
+        "text": "将士们历经战斗，铠甲都磨损了，仍立下不战胜敌人决不回乡的誓言。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p083",
+    "text": "黄河奔流入海，华山高耸入云；沦陷地区的百姓受尽苦难，年复一年向南盼望国家军队归来，表达诗人的忧国之情。",
+    "textSha256": "8f1127cd00eefccad5f72b32f0969d564577c3ba3a27b6ee1f2e135a7c4c8e64",
+    "sha256": "503e247acb0e9c3bee24c0e7b1a2b55310d124854446a6f5cd39f9dd9155ed12",
+    "bytes": 73584,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 121374997,
+        "text": "黄河奔流入海，华山高耸入云；沦陷地区的百姓受尽苦难，年复一年向南盼望国家军队归来，表达诗人的忧国之情。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p084",
+    "text": "听说官军收复失地，诗人激动得泪湿衣裳，家人也一扫愁容。他想放声歌唱、开怀饮酒，趁春光一路乘船返回故乡。",
+    "textSha256": "f50becb2fd602d0908ab4bd1c3fc08f940d35bbd5dcf768b6bbda5e8708b3dcb",
+    "sha256": "b9870d239e9dd6e3a2c65f0f3ac00073c50c1e6cfff347dca4689aac63313b55",
+    "bytes": 76608,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 64445650,
+        "text": "听说官军收复失地，诗人激动得泪湿衣裳，家人也一扫愁容。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 64945650,
+        "duration": 62228259,
+        "text": "他想放声歌唱、开怀饮酒，趁春光一路乘船返回故乡。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p085",
+    "text": "黄河仿佛流向白云深处，孤城立在高山之间。羌笛吹奏着《折杨柳》，令人思乡；边关遥远，连春风似乎也难以到达。",
+    "textSha256": "141e7d505fbc244a18692595213f670cf0d7f68a74066df63551eca34c434e7b",
+    "sha256": "197ace5fd59cdfcb27d0655ec91f6caaab5c3789724d4750e953a2c120827cdd",
+    "bytes": 77040,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 52217390,
+        "text": "黄河仿佛流向白云深处，孤城立在高山之间。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 52717390,
+        "duration": 75135868,
+        "text": "羌笛吹奏着《折杨柳》，令人思乡；边关遥远，连春风似乎也难以到达。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p086",
+    "text": "老朋友在繁花似锦的三月告别黄鹤楼，乘船东去扬州。孤帆消失在碧空尽头，送别的人仍望着长江流向天边。",
+    "textSha256": "957cc6000c73a849a275a640e4936f74136b46e580e0675c7929632de5b94580",
+    "sha256": "1a07685a7d9a70aa50e6bdb552fbd258f45a70478f3e6e649157dfcf97142036",
+    "bytes": 72720,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 59690216,
+        "text": "老朋友在繁花似锦的三月告别黄鹤楼，乘船东去扬州。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 60190216,
+        "duration": 60461955,
+        "text": "孤帆消失在碧空尽头，送别的人仍望着长江流向天边。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p087",
+    "text": "山野一片新绿，水田映出白光，杜鹃声中细雨如烟。乡村四月很少有人闲着，刚忙完养蚕，又赶着下田插秧。",
+    "textSha256": "cf30684762ade0028589afa190a4d34e8de241a46c0c5b90cc6b25c5d8316ede",
+    "sha256": "f3d6e12a2e5c8b031872dba6a32ed9929f33162e0444b85edcefca4006931bcc",
+    "bytes": 72864,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 57108694,
+        "text": "山野一片新绿，水田映出白光，杜鹃声中细雨如烟。"
+      },
+      {
+        "type": "SentenceBoundary",
+        "offset": 57608694,
+        "duration": 63179346,
+        "text": "乡村四月很少有人闲着，刚忙完养蚕，又赶着下田插秧。"
+      }
+    ],
+    "attempts": 1
+  }
+]

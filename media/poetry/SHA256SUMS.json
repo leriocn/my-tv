@@ -1,0 +1,2582 @@
+[
+  {
+    "path": "preparation/author/manifest.json",
+    "bytes": 14879,
+    "sha256": "b6ad7e88f575a8ec22f91033571fd74c02bfee0af1caaa710d89d8b94ffa6df3"
+  },
+  {
+    "path": "preparation/author/p001.json",
+    "bytes": 408,
+    "sha256": "83f2050a39cc76785c04e2bfa6607d2ff517164e491e41303c101bce645dfeee"
+  },
+  {
+    "path": "preparation/author/p001.mp3",
+    "bytes": 11232,
+    "sha256": "06acfc2fb4e91af566401c3ea38991a494321137e1aed09d9de5dd42a571fce9"
+  },
+  {
+    "path": "preparation/author/p002.json",
+    "bytes": 402,
+    "sha256": "e5c5f422e3a4496ca71fa45fb719de0e83491248904be1fb8fda9019229d5bd5"
+  },
+  {
+    "path": "preparation/author/p002.mp3",
+    "bytes": 11232,
+    "sha256": "3a3ca1506da0f3f0705ced9cdd0007e66bd1e5755e336e9defc2b1a0b6b18c9c"
+  },
+  {
+    "path": "preparation/author/p006.json",
+    "bytes": 402,
+    "sha256": "8b886e364a3043bf8859c77155626452e17857eaf4346cfb7f0581693af721d7"
+  },
+  {
+    "path": "preparation/author/p006.mp3",
+    "bytes": 11232,
+    "sha256": "c7dd61531c79efc7852d4863f34fd92a36af5ea64081082c5216c1dfb11be5b9"
+  },
+  {
+    "path": "preparation/author/p008.json",
+    "bytes": 402,
+    "sha256": "6a0324cf11d5c67f8562c1a1c3b499a1a4fb9c0b5fb21d619e2d153c64085a2f"
+  },
+  {
+    "path": "preparation/author/p008.mp3",
+    "bytes": 11232,
+    "sha256": "3e17e34b433876b9a4c388a24221adfbf92c7b6c8364ca1495c1945d5c587d88"
+  },
+  {
+    "path": "preparation/author/p013.json",
+    "bytes": 402,
+    "sha256": "0838939fe5c1ce01f859f1e0c92a5c75e0a0aaa446fa98aedbb1a23ce96d2e85"
+  },
+  {
+    "path": "preparation/author/p013.mp3",
+    "bytes": 11232,
+    "sha256": "b50e7eba0e54155f6c47b2f89775e4a5bc458510e394280e1aac951252fed527"
+  },
+  {
+    "path": "preparation/author/p014.json",
+    "bytes": 408,
+    "sha256": "8f81964302f8e9548893918cb0d7e9ad829935c7a9375f0fffe00c75606e262a"
+  },
+  {
+    "path": "preparation/author/p014.mp3",
+    "bytes": 11232,
+    "sha256": "ce2689463f6cf379fcce9f2abc65f9c8c219fb4bd8857d0e43b381de8aa69b7c"
+  },
+  {
+    "path": "preparation/author/p021.json",
+    "bytes": 408,
+    "sha256": "81c85d5ad7d31df485231aa46f7183781aa079f4b9baf0b47a4733a7db41c3fb"
+  },
+  {
+    "path": "preparation/author/p021.mp3",
+    "bytes": 11232,
+    "sha256": "eb56f300fbc6f26e9a64cf5d5f50580ebf517ea0fab58ca3f17d72cfb14bb05b"
+  },
+  {
+    "path": "preparation/author/p022.json",
+    "bytes": 402,
+    "sha256": "b91eb645b8b8a7fe97c068713494897e5e53e81f0cc7f0159d5fe1d3ed027318"
+  },
+  {
+    "path": "preparation/author/p022.mp3",
+    "bytes": 11232,
+    "sha256": "1debfa817d4a663d372883c03276a59897282f1837d5cbd7c30a29a15bbf6b80"
+  },
+  {
+    "path": "preparation/author/p023.json",
+    "bytes": 408,
+    "sha256": "5066e5779cf437d753e17d988d3a8b1f418aacfbcd6e5595a056af62e117d9eb"
+  },
+  {
+    "path": "preparation/author/p023.mp3",
+    "bytes": 11232,
+    "sha256": "c4959e96a292392f080280a3143513bcf804e6e46bf099bfc97458a77e8908f9"
+  },
+  {
+    "path": "preparation/author/p024.json",
+    "bytes": 402,
+    "sha256": "e0681157be48c070dc7f5e924d8244d400dc3703d7bc862ea3a57a3c5e680d9a"
+  },
+  {
+    "path": "preparation/author/p024.mp3",
+    "bytes": 11232,
+    "sha256": "71eccc51cf5cb320a4ec89d38001de766e90c7428eab47921a72407ef07fadaf"
+  },
+  {
+    "path": "preparation/author/p025.json",
+    "bytes": 408,
+    "sha256": "13c7ce962edec89fc54724f7a3602f88a92093c232cce00741323625f1ac1dfc"
+  },
+  {
+    "path": "preparation/author/p025.mp3",
+    "bytes": 11232,
+    "sha256": "b12ca61dc879c32082d182651f54456ab2c0ffd24096fbbd6731b367e233ed9e"
+  },
+  {
+    "path": "preparation/author/p026.json",
+    "bytes": 402,
+    "sha256": "1d352a28c1d99ae2ec87e130c7c58c5dedc7e36e17854129a33dddafb6b25911"
+  },
+  {
+    "path": "preparation/author/p026.mp3",
+    "bytes": 11232,
+    "sha256": "3929dc05aadeb19be600cb66236b7c9209f35f133747ea1b04946a99c922c0a4"
+  },
+  {
+    "path": "preparation/author/p028.json",
+    "bytes": 402,
+    "sha256": "9ccadc459a4ed910d89f5c0a6097db50a0e9a3827b211ee488f35eb3c9a648f7"
+  },
+  {
+    "path": "preparation/author/p028.mp3",
+    "bytes": 11232,
+    "sha256": "52e084c0a7c0131643b4283caa4d34142b6f8b367fa880d6256fbae1b212087b"
+  },
+  {
+    "path": "preparation/author/p029.json",
+    "bytes": 408,
+    "sha256": "9cc54b4cf0aaf850cad1bdd5fa6fb2d1d7876d3b111ec68bdc9ce35d238ff291"
+  },
+  {
+    "path": "preparation/author/p029.mp3",
+    "bytes": 11232,
+    "sha256": "9cd71823fec8ceefbdeea341a4c148b4bc7acd0963efd5889d289c28805829a9"
+  },
+  {
+    "path": "preparation/author/p030.json",
+    "bytes": 402,
+    "sha256": "cb5526fad27f314c57dd992077a4e010471c8cf022b93c0fb0b482a81d7190a0"
+  },
+  {
+    "path": "preparation/author/p030.mp3",
+    "bytes": 11232,
+    "sha256": "5b4053263b52d64906a8dc2dec9a9821cb7334d9f040394c97b2a1411d1d5fe8"
+  },
+  {
+    "path": "preparation/author/p031.json",
+    "bytes": 408,
+    "sha256": "6a51cdf93271f2cf9610bd9a1c0b9558703d50414509ea372b8fdb7e6e4524dd"
+  },
+  {
+    "path": "preparation/author/p031.mp3",
+    "bytes": 11232,
+    "sha256": "56c84e846724b76c23ef100a2b4a5716503b0426715dd53aa6fdd30ba7816b69"
+  },
+  {
+    "path": "preparation/author/p032.json",
+    "bytes": 408,
+    "sha256": "625817979045df14655d644b163e483a019a03ef612e48edeb49c05208e3be77"
+  },
+  {
+    "path": "preparation/author/p032.mp3",
+    "bytes": 11232,
+    "sha256": "90f79d3fb30a7102bb6878ff6af09226cf7e9ddb018873e71525165406173097"
+  },
+  {
+    "path": "preparation/author/p033.json",
+    "bytes": 402,
+    "sha256": "c1fe9bdf19ccb47833f268a375da7d45a3547d19893d2afbda711a190a057939"
+  },
+  {
+    "path": "preparation/author/p033.mp3",
+    "bytes": 11232,
+    "sha256": "bf087edffd48214f78a0509c6a1fd9a33e02c56729e40851d15f449dca7239ca"
+  },
+  {
+    "path": "preparation/author/p035.json",
+    "bytes": 402,
+    "sha256": "75e9666fc713168aedbf680c230e37c938fcdae3ab1a3bcf4413039c64b29909"
+  },
+  {
+    "path": "preparation/author/p035.mp3",
+    "bytes": 11232,
+    "sha256": "33265ebbc7d1170b5ba0e9e05952f79bf66a185ce50ff61b6e3636af80496e90"
+  },
+  {
+    "path": "preparation/author/p036.json",
+    "bytes": 402,
+    "sha256": "45befaf83281a29fabee235b45e8f89bdaea18ac0746debe7493834f208bc462"
+  },
+  {
+    "path": "preparation/author/p036.mp3",
+    "bytes": 11232,
+    "sha256": "e6d676f86fe6d5e82e740e8b7b114ed1dcb246a2dc4560bbc8365fe73ca3e1a2"
+  },
+  {
+    "path": "preparation/author/p037.json",
+    "bytes": 408,
+    "sha256": "972acf7d4ef531f4eb85ff61a6d464d8430d06aa01af9778eefeb955a151267d"
+  },
+  {
+    "path": "preparation/author/p037.mp3",
+    "bytes": 11232,
+    "sha256": "546910faa1c827984cf9f6ad440cdb2e5e2f9099ee700d5992c8f5e36d3e43e9"
+  },
+  {
+    "path": "preparation/author/p038.json",
+    "bytes": 402,
+    "sha256": "c75bc2fe8c8732330820cca71bc81c6562aff74a216079e77cc9286a02113d09"
+  },
+  {
+    "path": "preparation/author/p038.mp3",
+    "bytes": 11232,
+    "sha256": "10636bd94482cafa08b5a204217d56a93cc99c9e1dfb358856ea7ab2f97cec62"
+  },
+  {
+    "path": "preparation/author/p047.json",
+    "bytes": 402,
+    "sha256": "d27fbed1ad679dc02a69572a45e156a291cc0dd6d45e5d367da40559c4d81f7b"
+  },
+  {
+    "path": "preparation/author/p047.mp3",
+    "bytes": 11232,
+    "sha256": "c2a03b0e238ce963eabe99b6328a7feb3ff07892c33cc85647d1aae3aedb5a63"
+  },
+  {
+    "path": "preparation/author/p048.json",
+    "bytes": 408,
+    "sha256": "3a68312c83d5f53601da27aa55542bf0b3fb53544f377d1242421a48bf46fe77"
+  },
+  {
+    "path": "preparation/author/p048.mp3",
+    "bytes": 11232,
+    "sha256": "72c0963a29f904906c4c5876d03d660b4ced91892ab7f59d814d39fa4d1b6920"
+  },
+  {
+    "path": "preparation/author/p049.json",
+    "bytes": 402,
+    "sha256": "dd11f4191a4c5e8a36c9478ce378a39cdc0270c68a56b61ff91c6a28572be2fb"
+  },
+  {
+    "path": "preparation/author/p049.mp3",
+    "bytes": 11232,
+    "sha256": "7a23ec3a5a67cec45605d72625dd79ce2328feb911162fd1606c50a3d20e60a6"
+  },
+  {
+    "path": "preparation/author/p050.json",
+    "bytes": 402,
+    "sha256": "c872fb00994ec4dff801b5a35c9101d8eca730727a916534d1f0329ba441ae58"
+  },
+  {
+    "path": "preparation/author/p050.mp3",
+    "bytes": 11232,
+    "sha256": "e5e1770ab6a780f1de2f9eeba7f71449c81fb5576870c1b6e58dcb8d4e87dbef"
+  },
+  {
+    "path": "preparation/author/p051.json",
+    "bytes": 408,
+    "sha256": "f6aa6ff6a2ce293bbd99db017368263127629792ec3e6131bc3414e7c939d2d2"
+  },
+  {
+    "path": "preparation/author/p051.mp3",
+    "bytes": 11232,
+    "sha256": "1b48f27850d5fbfd97a964b28b627085413665feca50bb12028702e44fa2d399"
+  },
+  {
+    "path": "preparation/author/p053.json",
+    "bytes": 402,
+    "sha256": "d68db0495d33ae0fe30a2f0a628b6cbc8c096dda98b646c88c902c2e8e824375"
+  },
+  {
+    "path": "preparation/author/p053.mp3",
+    "bytes": 11232,
+    "sha256": "105dc402af9e6836b395917baeaab5f6db01b73971794a1e7feccad0697ee07a"
+  },
+  {
+    "path": "preparation/author/p054.json",
+    "bytes": 408,
+    "sha256": "8a2fc8d6f69ae02e177ee0bb7a8e40867ce2edcd6cad40e26c8cc8090ffcfbc1"
+  },
+  {
+    "path": "preparation/author/p054.mp3",
+    "bytes": 11232,
+    "sha256": "18f4d9425f2837d4de54e2d644ed4fb940b323f46d3e991861801001db07c991"
+  },
+  {
+    "path": "preparation/author/p055.json",
+    "bytes": 408,
+    "sha256": "3175815b709ab8de77ea0b2c04dce75b1b0a454de0c689b8b4685fd99fd46935"
+  },
+  {
+    "path": "preparation/author/p055.mp3",
+    "bytes": 11232,
+    "sha256": "00257b39f5e4f23bed8172047a4274bbeb6f37855c337435855ee1314e50cef8"
+  },
+  {
+    "path": "preparation/author/p056.json",
+    "bytes": 402,
+    "sha256": "5bf60a548864672b76bc7982923f3b09031459563a96e7bc6e81b6e806eca510"
+  },
+  {
+    "path": "preparation/author/p056.mp3",
+    "bytes": 11232,
+    "sha256": "3a8e5f9f74fb7b467bcdf3f317e918bd53d4f83316a12c06ea13d9f47bc3fc77"
+  },
+  {
+    "path": "preparation/author/p068.json",
+    "bytes": 402,
+    "sha256": "a02612153440d838595c742cf938d59529a9821087d65363ddd4a80efb74216d"
+  },
+  {
+    "path": "preparation/author/p068.mp3",
+    "bytes": 11232,
+    "sha256": "75c32d2b1b7781719a8c933ae3330f2d2da213d3168662616b2a27191e1b5a96"
+  },
+  {
+    "path": "preparation/author/p069.json",
+    "bytes": 402,
+    "sha256": "cfacf327166ae140537202f1daef96e2bee21fe123e5ce19078471233854c42d"
+  },
+  {
+    "path": "preparation/author/p069.mp3",
+    "bytes": 11232,
+    "sha256": "ff8fd49661c8eacc78d180986de3a7dd5bbc2cf938cd0a429fddb743efcec374"
+  },
+  {
+    "path": "preparation/author/p070.json",
+    "bytes": 408,
+    "sha256": "e51d07163b0b48b8a1ecb383620569177de61194f8c5539ff66d0bf60c48970e"
+  },
+  {
+    "path": "preparation/author/p070.mp3",
+    "bytes": 11232,
+    "sha256": "bb837f530a43a6c19361621719aa720ef2786199f30a3389007dede3f557aacf"
+  },
+  {
+    "path": "preparation/author/voice.json",
+    "bytes": 360,
+    "sha256": "3d448e7d8688b31f34538c050ef859299db9964e787e364de36fc84331a8a4ce"
+  },
+  {
+    "path": "preparation/meaning/manifest.json",
+    "bytes": 70640,
+    "sha256": "26b0c8b5fddff09275e89b7d30ffad50385add02f0da715294de12e7e8a46cb8"
+  },
+  {
+    "path": "preparation/meaning/p001.json",
+    "bytes": 662,
+    "sha256": "928c6b617b25804b84068f4d475e3cab7eecd175098abc29176506aa92fa28c8"
+  },
+  {
+    "path": "preparation/meaning/p001.mp3",
+    "bytes": 67968,
+    "sha256": "e59e7f55f685eebb2c4bc570b449d0a18b88ac68670d28e697bff81db960a867"
+  },
+  {
+    "path": "preparation/meaning/p002.json",
+    "bytes": 704,
+    "sha256": "860d249be1a59fb8fb8ca71f7b511022f3b4c81d5d0997c2fc6af029487d3f86"
+  },
+  {
+    "path": "preparation/meaning/p002.mp3",
+    "bytes": 76320,
+    "sha256": "c504b43521f91aeb8e44cc497372eeb2b7a73845f81eba8bc19c136cf4f56932"
+  },
+  {
+    "path": "preparation/meaning/p003.json",
+    "bytes": 619,
+    "sha256": "470bdb9e58388450df455cc38f3cabd69dbee40fcf6c3316669e3790c0c5db58"
+  },
+  {
+    "path": "preparation/meaning/p003.mp3",
+    "bytes": 55728,
+    "sha256": "9b3cbf09a8afb3f6d02322f4e11980ec8066cfe13939997169482ebd5e6d4f7d"
+  },
+  {
+    "path": "preparation/meaning/p004.json",
+    "bytes": 749,
+    "sha256": "4c3fb6425ee590644adb6174381a9236d4e750b650074c94e6e57f82423972ec"
+  },
+  {
+    "path": "preparation/meaning/p004.mp3",
+    "bytes": 59904,
+    "sha256": "01fe6acb3d66491254a295e1ad3d3c72d305dd51df32bdeb98e45953808adbac"
+  },
+  {
+    "path": "preparation/meaning/p005.json",
+    "bytes": 674,
+    "sha256": "8fd79418cf4da75fef3f3bc404a4125d3ad2cea6755ff89bb98a45aed7b843ba"
+  },
+  {
+    "path": "preparation/meaning/p005.mp3",
+    "bytes": 63936,
+    "sha256": "2321a4f30515b5aac62f97e5feef486dd35e008880ec8ac9c42c2740e6d1008c"
+  },
+  {
+    "path": "preparation/meaning/p006.json",
+    "bytes": 692,
+    "sha256": "f040b17e49616260d6e7fd6851d585d7f0bad008f06c9678cdbe430c3c0e98a0"
+  },
+  {
+    "path": "preparation/meaning/p006.mp3",
+    "bytes": 72000,
+    "sha256": "7c8cbc33bc7fcc1f614b53fd8907c3aa16f7875e380106eef993b6eccafd4529"
+  },
+  {
+    "path": "preparation/meaning/p007.json",
+    "bytes": 761,
+    "sha256": "3cee8f8d92315fb752e2d3e55cc367992374fc3e358ca87aaaf3be79eb6affb8"
+  },
+  {
+    "path": "preparation/meaning/p007.mp3",
+    "bytes": 61056,
+    "sha256": "371a74faf0349568b41b10e67913d121153469f0dcb13a44baa2cfe5da5afcdd"
+  },
+  {
+    "path": "preparation/meaning/p008.json",
+    "bytes": 638,
+    "sha256": "dab7ec885457fa814de95a82f301ff8d163822a38569aaedee167599065ef214"
+  },
+  {
+    "path": "preparation/meaning/p008.mp3",
+    "bytes": 61344,
+    "sha256": "fe004288a3ccb964f6d3d7271b4b1491cb12059316c4fda65beb2ce4fb430318"
+  },
+  {
+    "path": "preparation/meaning/p009.json",
+    "bytes": 773,
+    "sha256": "11e17b293eb7453e4f20898425f577a6c3d84d137e2768ab7add6c21d42111f5"
+  },
+  {
+    "path": "preparation/meaning/p009.mp3",
+    "bytes": 65376,
+    "sha256": "5cd7ca19e27bcc96aab4955f03b1c28438b26e3d4c21c629f27953a63ebea94a"
+  },
+  {
+    "path": "preparation/meaning/p010.json",
+    "bytes": 613,
+    "sha256": "a87aaf88fd33d23ffd2e9fb3ce1691461f8b29d79f64f66103db673be75a2b21"
+  },
+  {
+    "path": "preparation/meaning/p010.mp3",
+    "bytes": 56592,
+    "sha256": "8f19fc2966bdb7e07edd17c899443598ebc983d95b05264335271e3a8df6c190"
+  },
+  {
+    "path": "preparation/meaning/p011.json",
+    "bytes": 644,
+    "sha256": "76e8382e738700c1e38710fcc759ab02d10167b30d148cc4883d6034aca4216e"
+  },
+  {
+    "path": "preparation/meaning/p011.mp3",
+    "bytes": 63216,
+    "sha256": "0055dd0acd3d7ed6c77a4899c3f0a9bd0905a985d0bd5c4265944c6ed8835e03"
+  },
+  {
+    "path": "preparation/meaning/p012.json",
+    "bytes": 649,
+    "sha256": "c090413254421b2e9cf53e1694c049849c5f93dcf8e30ab86d5371dd58368f5c"
+  },
+  {
+    "path": "preparation/meaning/p012.mp3",
+    "bytes": 62784,
+    "sha256": "8f275e961365435eabbde63b1692553f52d9324dea4a3cfc02f3e8ee495ab529"
+  },
+  {
+    "path": "preparation/meaning/p013.json",
+    "bytes": 661,
+    "sha256": "dbee397e63c6c9f6430dc81003bac89b07c2b6e7beac6eda4acab1622894271b"
+  },
+  {
+    "path": "preparation/meaning/p013.mp3",
+    "bytes": 66096,
+    "sha256": "61aee4c1c1a095f15946dcd2be7ce2279f4da315560a18bd3ae7464194b90c19"
+  },
+  {
+    "path": "preparation/meaning/p014.json",
+    "bytes": 784,
+    "sha256": "7af93595309ef0dfc1e2944f2b4edcff08b5253f5e6a8bd2bcdbf64fd93925bd"
+  },
+  {
+    "path": "preparation/meaning/p014.mp3",
+    "bytes": 67824,
+    "sha256": "9c6b99138bf3bf5ff29cdfaa4c2e5b1c2c5c09f82fa36d9daa289a953b2e2cc7"
+  },
+  {
+    "path": "preparation/meaning/p015.json",
+    "bytes": 766,
+    "sha256": "57ca9fca6c1b8616cdbd28c4f314fd73c78d9a636cf97cffd26362d35d2874f8"
+  },
+  {
+    "path": "preparation/meaning/p015.mp3",
+    "bytes": 63792,
+    "sha256": "4872f295954b05b54c63f03568b89c7f9d0f00ae61609641bc5fcbe8915fdb5f"
+  },
+  {
+    "path": "preparation/meaning/p016.json",
+    "bytes": 784,
+    "sha256": "dc04b0e4dee0e26f950000d52741ae7b871afd9f929eb44631b909d52850c72e"
+  },
+  {
+    "path": "preparation/meaning/p016.mp3",
+    "bytes": 66816,
+    "sha256": "63b50bd254f6d863c655824d4745a5b29a6b7a769bb51c781e26030eb314f9dc"
+  },
+  {
+    "path": "preparation/meaning/p017.json",
+    "bytes": 784,
+    "sha256": "b811679b4b43c1a13e83efaa433983c8f5599a480b34e0e4e77b0c016c1f8c0d"
+  },
+  {
+    "path": "preparation/meaning/p017.mp3",
+    "bytes": 69552,
+    "sha256": "bc28e6358b6112cf606897522c4a06e14d01054a3336d2522746d3f4a8eaaa40"
+  },
+  {
+    "path": "preparation/meaning/p018.json",
+    "bytes": 760,
+    "sha256": "f85888ac08b144f1843197d104ff5e959fb63f3b075799604c3f028248211a03"
+  },
+  {
+    "path": "preparation/meaning/p018.mp3",
+    "bytes": 60480,
+    "sha256": "8af00b8647d67cf94fd3cce487cbd3548106a44a44a4a6506398e8e13cefa7bf"
+  },
+  {
+    "path": "preparation/meaning/p019.json",
+    "bytes": 630,
+    "sha256": "43a225c8e0d2f54187ca34d2d7c264cfea19e3caf91c02e2e27c54f5d3392c98"
+  },
+  {
+    "path": "preparation/meaning/p019.mp3",
+    "bytes": 60336,
+    "sha256": "c84ef9e5fee3ce72788f06915d500d32521a1499ce69b22ef3c011099473b846"
+  },
+  {
+    "path": "preparation/meaning/p020.json",
+    "bytes": 754,
+    "sha256": "7331323c281bbad22f7a6ea44be7276a671d8e87972cf8f10930af39473e0551"
+  },
+  {
+    "path": "preparation/meaning/p020.mp3",
+    "bytes": 62352,
+    "sha256": "9d3746413df2829bbe0ecd55794fac8a6b8b01344416c2e4c8f24b65cba3f8fc"
+  },
+  {
+    "path": "preparation/meaning/p021.json",
+    "bytes": 661,
+    "sha256": "368229607ab3f5013f15e41a75513f71999b9cec7357af75185305fb4dd4216f"
+  },
+  {
+    "path": "preparation/meaning/p021.mp3",
+    "bytes": 64080,
+    "sha256": "681796a0d2ccf7b377f25713140f0b08341c6b87fbde22e22c4a86a34c9c20c0"
+  },
+  {
+    "path": "preparation/meaning/p022.json",
+    "bytes": 766,
+    "sha256": "2a64720055fcef4f2a1119f98f59dd5d38fc6346b1b300f91163ab9950c23d9b"
+  },
+  {
+    "path": "preparation/meaning/p022.mp3",
+    "bytes": 64656,
+    "sha256": "b24ce3171bd46d1d1da41e1fee1081b1334ad63502b6779d66d6ed8ede100e4e"
+  },
+  {
+    "path": "preparation/meaning/p023.json",
+    "bytes": 784,
+    "sha256": "1f360b6b61135f5177ce902fb6861f48a645c57d1b9f977324d1575cf41bdbe3"
+  },
+  {
+    "path": "preparation/meaning/p023.mp3",
+    "bytes": 65808,
+    "sha256": "0b07183981ba3e716255fff33b84a9483f5da7b8e5624eb51957507624894e33"
+  },
+  {
+    "path": "preparation/meaning/p024.json",
+    "bytes": 655,
+    "sha256": "5568f113ab1d803d31806742686894f69ad2cbe3a5dbc7a4f6e41d4e0686067f"
+  },
+  {
+    "path": "preparation/meaning/p024.mp3",
+    "bytes": 67536,
+    "sha256": "c6f3de1d8576ebaac4f0c5625e5e99d947261f22a8510247a953c865d404360b"
+  },
+  {
+    "path": "preparation/meaning/p025.json",
+    "bytes": 636,
+    "sha256": "da16294d59ebbca2fb4949836321419cc677095700bc3c6b22a43d94d0d286e5"
+  },
+  {
+    "path": "preparation/meaning/p025.mp3",
+    "bytes": 59616,
+    "sha256": "fd7534219b3488558c84a4a33d4fe261d16639c3fba32485aceb63f037a4f82d"
+  },
+  {
+    "path": "preparation/meaning/p026.json",
+    "bytes": 832,
+    "sha256": "dd7e57bcf7aba4f1860d70b457f599b3f7f4f6628e1c9a67cb9752221b21b5c5"
+  },
+  {
+    "path": "preparation/meaning/p026.mp3",
+    "bytes": 78336,
+    "sha256": "192da79e64ff284f60585749688634d1c2e585cce030e61a985b62d35d4a41bf"
+  },
+  {
+    "path": "preparation/meaning/p027.json",
+    "bytes": 661,
+    "sha256": "0cf3e270a7dc3d37ff7b38815cab5444175a389fc0b0dadadadf18c0a5cc666e"
+  },
+  {
+    "path": "preparation/meaning/p027.mp3",
+    "bytes": 63360,
+    "sha256": "53f4330196ef61add04fd2741bb448cb2444fe26c2a76c8464589d5ef0fae077"
+  },
+  {
+    "path": "preparation/meaning/p028.json",
+    "bytes": 790,
+    "sha256": "227ad1f83dc16600f3b3bf8706a79ac1b403ab553aff4cb32f021d077f66e007"
+  },
+  {
+    "path": "preparation/meaning/p028.mp3",
+    "bytes": 66096,
+    "sha256": "45f55d87879515670d3c4ca0ac3e3d002c28ef5f70bad5253324fd780281b45e"
+  },
+  {
+    "path": "preparation/meaning/p029.json",
+    "bytes": 760,
+    "sha256": "4d7f280c5492d870b9742b93a8687af717cfa76eb63d301d602a7b28f0847a95"
+  },
+  {
+    "path": "preparation/meaning/p029.mp3",
+    "bytes": 62496,
+    "sha256": "d7378831a9ab4faf009dd7e569a08ee76304b27469f7c57c41836c3caabd0f08"
+  },
+  {
+    "path": "preparation/meaning/p030.json",
+    "bytes": 796,
+    "sha256": "272a54829287349388f54e0cbc96594c41be53caeedee0222cf867c52b963ba4"
+  },
+  {
+    "path": "preparation/meaning/p030.mp3",
+    "bytes": 72576,
+    "sha256": "ef9f4b7736a7a1138fda45390a058b6d554fb833cb83b2c29c6d72836b5c9b7b"
+  },
+  {
+    "path": "preparation/meaning/p031.json",
+    "bytes": 784,
+    "sha256": "0e20dd3cc49d9731fe3b3f04fe6bd5947ef4954b52f02a7615352571c6524b23"
+  },
+  {
+    "path": "preparation/meaning/p031.mp3",
+    "bytes": 70992,
+    "sha256": "5427787fed48d8856aa3b01f85b31f177e4d6d3802a4faba402a4bd4472650d5"
+  },
+  {
+    "path": "preparation/meaning/p032.json",
+    "bytes": 766,
+    "sha256": "3f090adc9d3de89b1f2385207baf65354e5bce046529dcd9536392c4d8847e8f"
+  },
+  {
+    "path": "preparation/meaning/p032.mp3",
+    "bytes": 63216,
+    "sha256": "aea7e79b60fa16296bb9c1cf8f7b2a04bc9b3b254bc8960cf66b872785fd0b34"
+  },
+  {
+    "path": "preparation/meaning/p033.json",
+    "bytes": 796,
+    "sha256": "80afda28d623bd3bd7cd7d4b236a6543c8d5fe67b21d7f563817a2be3d13cce5"
+  },
+  {
+    "path": "preparation/meaning/p033.mp3",
+    "bytes": 70848,
+    "sha256": "fd377730dff637cac11a359f9aac63c1e71c5872171a54e7d92fb835c49aa67f"
+  },
+  {
+    "path": "preparation/meaning/p034.json",
+    "bytes": 760,
+    "sha256": "bf522c72922d52b24f5c74c12164c0ff688e829638c607fc43d47abe241b50bd"
+  },
+  {
+    "path": "preparation/meaning/p034.mp3",
+    "bytes": 62064,
+    "sha256": "a7d3619ff8c623dfb6953bd92fdd3057e2e95364cf05a7f8b95ca7d7151b3de8"
+  },
+  {
+    "path": "preparation/meaning/p035.json",
+    "bytes": 778,
+    "sha256": "22637e960305c682935cdd7319111858d77804ba771e46743382085430836da0"
+  },
+  {
+    "path": "preparation/meaning/p035.mp3",
+    "bytes": 67968,
+    "sha256": "1f5ddab0119802b09a3f356cf622304d2fa2ace8bd73a4431c858ffca25ec197"
+  },
+  {
+    "path": "preparation/meaning/p036.json",
+    "bytes": 766,
+    "sha256": "d797d21b12c062c2eb2ebe75c6c3ac677962e6db733a874abc223add31b71fab"
+  },
+  {
+    "path": "preparation/meaning/p036.mp3",
+    "bytes": 63360,
+    "sha256": "b22d567061522782c16e88ef54739c6fbbb95be5aeb349277b3a38e9641e0ee7"
+  },
+  {
+    "path": "preparation/meaning/p037.json",
+    "bytes": 796,
+    "sha256": "ff0b37bd114c955c5d53772d23fdee89cc678a8d3c65f3d77a1a8d7b4d3acaa1"
+  },
+  {
+    "path": "preparation/meaning/p037.mp3",
+    "bytes": 69264,
+    "sha256": "1ce2e1027bc5d095570ddba17a9080bbb8f42b19e34543a63b5a4a8a5f560adc"
+  },
+  {
+    "path": "preparation/meaning/p038.json",
+    "bytes": 784,
+    "sha256": "cb2c2e98ee53373ff0c1d6082345fa4d440f55d0f59adf08fc5c3e65701092d0"
+  },
+  {
+    "path": "preparation/meaning/p038.mp3",
+    "bytes": 68976,
+    "sha256": "b890963759f9d73553305b8bfb3b74fed19022a62a01bf8180a806e4a9679b86"
+  },
+  {
+    "path": "preparation/meaning/p039.json",
+    "bytes": 685,
+    "sha256": "1414b7f7b78fa415adfa95b8362fb964b17c3bb65848e874e7964c958328823c"
+  },
+  {
+    "path": "preparation/meaning/p039.mp3",
+    "bytes": 72864,
+    "sha256": "3038e0d13f00f0d4d6c533eb44eff34fe83450795f8bc95f9bc1cbe39b88dccc"
+  },
+  {
+    "path": "preparation/meaning/p040.json",
+    "bytes": 790,
+    "sha256": "f24f6481939c4501ca7d70336e6fc40f2fc7826ed73c1a95db538625edf38bed"
+  },
+  {
+    "path": "preparation/meaning/p040.mp3",
+    "bytes": 54720,
+    "sha256": "860f7f9b0eb5023ef1749421e66c4fd9ac1b630da32b0d152130e101d18ed2c1"
+  },
+  {
+    "path": "preparation/meaning/p041.json",
+    "bytes": 808,
+    "sha256": "b1a1be396f16315e9084ce83688493eb143fcfd624f6e5445036b8c8b5af91ca"
+  },
+  {
+    "path": "preparation/meaning/p041.mp3",
+    "bytes": 74160,
+    "sha256": "9d0000c8d893cbed2770c902fba4ad925c2b3dbb60c15c14978dac4642b5a0bf"
+  },
+  {
+    "path": "preparation/meaning/p042.json",
+    "bytes": 778,
+    "sha256": "5e1449fb8999cf95bccb82cf9ef7be586db4f4c18b78b15068f39088a0fee2f7"
+  },
+  {
+    "path": "preparation/meaning/p042.mp3",
+    "bytes": 64224,
+    "sha256": "7bbe3d5621d24e3aac9434c6226cdfdd8ec26522e0d43edee867e10a72736a74"
+  },
+  {
+    "path": "preparation/meaning/p043.json",
+    "bytes": 778,
+    "sha256": "4f199368b8f14ac856b939cf7e3e741fd76c292f16216c2043a94c232ff5d50a"
+  },
+  {
+    "path": "preparation/meaning/p043.mp3",
+    "bytes": 67824,
+    "sha256": "4feaac6ca02e577205819c6f2cb5eaa846243239c2e09011de32140101f4709c"
+  },
+  {
+    "path": "preparation/meaning/p044.json",
+    "bytes": 736,
+    "sha256": "61b848f15094a848784816974dc9d811ae815b3f63da9f90931b7e26085d0cb0"
+  },
+  {
+    "path": "preparation/meaning/p044.mp3",
+    "bytes": 56736,
+    "sha256": "354b9ea384dcf6dc1fbc042fca4e0b5965ead177d4cab3357732a8a89030ff91"
+  },
+  {
+    "path": "preparation/meaning/p045.json",
+    "bytes": 790,
+    "sha256": "e1cb7f353fa0ad786789bf6b94f738c83b92b0ce7a428f36003426c009bbe6d0"
+  },
+  {
+    "path": "preparation/meaning/p045.mp3",
+    "bytes": 69120,
+    "sha256": "5f13372b56c2b7cb66556ed5225b6e20d34df61f68936b80ef3fb1534425c907"
+  },
+  {
+    "path": "preparation/meaning/p046.json",
+    "bytes": 784,
+    "sha256": "833e2050042a623ac1ce915add0f51afac0c469c983d670dd8487ad30944fe35"
+  },
+  {
+    "path": "preparation/meaning/p046.mp3",
+    "bytes": 70704,
+    "sha256": "33f81881a2986a36917d7dc2a6e1a0914ce5af8e74f010e2bacd7cd1cf99df27"
+  },
+  {
+    "path": "preparation/meaning/p047.json",
+    "bytes": 790,
+    "sha256": "95192a3f24e7c5a82bf0c24cefc5d099f8d36c08d2043bddf59e69c8830aa8f3"
+  },
+  {
+    "path": "preparation/meaning/p047.mp3",
+    "bytes": 71568,
+    "sha256": "26794fe1829ca85a73e18d5d2ea26e0c29606602d638b69639c8ca3c17808a77"
+  },
+  {
+    "path": "preparation/meaning/p048.json",
+    "bytes": 778,
+    "sha256": "b5dfc5cbff5818e2fd61904ba6da548754073d1174ed24ba5803e8eac0ceb0a2"
+  },
+  {
+    "path": "preparation/meaning/p048.mp3",
+    "bytes": 65232,
+    "sha256": "ec7351c7d810bbe1c5934876e794468ebeeff043142a9c30910be14c384cc773"
+  },
+  {
+    "path": "preparation/meaning/p049.json",
+    "bytes": 832,
+    "sha256": "8f1bfccc29a9cf1b3aefb0a3858b9ac929fa77c1404709dbdf6999280ce8663a"
+  },
+  {
+    "path": "preparation/meaning/p049.mp3",
+    "bytes": 79344,
+    "sha256": "a5e1495d5dc011792a6aa6c48e4d3692745e31b9569d7f097aba9dd9983cff8e"
+  },
+  {
+    "path": "preparation/meaning/p050.json",
+    "bytes": 766,
+    "sha256": "adfa37594b40696b803ac7d828aecc12e109e61cde5cadf6249c891f2c229ceb"
+  },
+  {
+    "path": "preparation/meaning/p050.mp3",
+    "bytes": 62208,
+    "sha256": "794ffbe619f7c12653c19dc4f5f4465886afa14cccfa12a351b88d1d5d6a3779"
+  },
+  {
+    "path": "preparation/meaning/p051.json",
+    "bytes": 784,
+    "sha256": "8b3b8ef3f2efd29207e7c18972b72a325b04cc3895d3881b214fb29992ef6539"
+  },
+  {
+    "path": "preparation/meaning/p051.mp3",
+    "bytes": 68976,
+    "sha256": "8719d81b1bb011bcef0b45064fd4de59cffa5c683fa4471abb1c4565bb0d00e1"
+  },
+  {
+    "path": "preparation/meaning/p052.json",
+    "bytes": 796,
+    "sha256": "9facd2cc0e87baff8a075cf2ab14b99f66dd8d4635dbcc8d395590954d780e8b"
+  },
+  {
+    "path": "preparation/meaning/p052.mp3",
+    "bytes": 72720,
+    "sha256": "d669694be4d23bc0d62c4241630376bfa283f1b6cbd777a2bd4229600c2a0713"
+  },
+  {
+    "path": "preparation/meaning/p053.json",
+    "bytes": 844,
+    "sha256": "8ae4c6097235354338d57332b903cb66de7cbabd31b8d530f921fa6f770b7813"
+  },
+  {
+    "path": "preparation/meaning/p053.mp3",
+    "bytes": 82800,
+    "sha256": "7c25b6f6d6d083a401978eada5e19e561b6bb43e9e6e1ff3bc79beb6765b541d"
+  },
+  {
+    "path": "preparation/meaning/p054.json",
+    "bytes": 802,
+    "sha256": "454bd64f4ae2ceaab49e1d246ccef7547dae024bb346b27a66a71c6b67412e0b"
+  },
+  {
+    "path": "preparation/meaning/p054.mp3",
+    "bytes": 73296,
+    "sha256": "1116fe3d5c1b77bd3d6b0dae3fe8367bba3223aa0f54724a7836c7221f59ddfb"
+  },
+  {
+    "path": "preparation/meaning/p055.json",
+    "bytes": 790,
+    "sha256": "c74850ac92a70fd14bc80e706bc61636268e707b9b72ff9cee3f4cce23dbffd0"
+  },
+  {
+    "path": "preparation/meaning/p055.mp3",
+    "bytes": 67680,
+    "sha256": "869f8fa901b1f129e7e020bf916f10793dd4fbf5c1e15bf4e72c40bb13333a4c"
+  },
+  {
+    "path": "preparation/meaning/p056.json",
+    "bytes": 832,
+    "sha256": "62800a8d90957ce51ded2e9bf374fbe29f4cde60b44e9f469e2e98a177e99d2a"
+  },
+  {
+    "path": "preparation/meaning/p056.mp3",
+    "bytes": 76608,
+    "sha256": "4509f4031e1b7f9c9e9394b8267959da74bd2bd1b8e966ff93d109a2b6fbea1d"
+  },
+  {
+    "path": "preparation/meaning/p057.json",
+    "bytes": 814,
+    "sha256": "bc10429a67728271d6cc35490d77ccc6b094a0c76dd43189b0c1821d97dd3aca"
+  },
+  {
+    "path": "preparation/meaning/p057.mp3",
+    "bytes": 77328,
+    "sha256": "845569d2196e837327b9c761e07ee0a4a228e6a7fa65cb13f50f0415442f2530"
+  },
+  {
+    "path": "preparation/meaning/p058.json",
+    "bytes": 796,
+    "sha256": "a037683b8eed22a9943d53b39271b1dc862c7e205b495fd5b2b1b18cc842199e"
+  },
+  {
+    "path": "preparation/meaning/p058.mp3",
+    "bytes": 70704,
+    "sha256": "ed01ca64b557a1a9cb5755df32ac830f4cb306aa42cf4b1054cb908e2f2d1946"
+  },
+  {
+    "path": "preparation/meaning/p059.json",
+    "bytes": 892,
+    "sha256": "77e8809f22f09d47a356fc4275be5230592347c40a3604939a9ca9858f4ace80"
+  },
+  {
+    "path": "preparation/meaning/p059.mp3",
+    "bytes": 94896,
+    "sha256": "6fca0cc84f31bbc65515e8c04bf2989f43abd2ef9494538f97f769d875191934"
+  },
+  {
+    "path": "preparation/meaning/p060.json",
+    "bytes": 880,
+    "sha256": "4c59a766b2c691fc862df7aad26f2f8796599e61652cc448a364bc2216149254"
+  },
+  {
+    "path": "preparation/meaning/p060.mp3",
+    "bytes": 94320,
+    "sha256": "36d984fffbb607ccb93fe1473789295a32c5e2ecea390e36b826eba34c8b9e97"
+  },
+  {
+    "path": "preparation/meaning/p061.json",
+    "bytes": 784,
+    "sha256": "89ab7c8bf0f0fc086fb51c0b8d4c665559382766f38b0b97078310897f27ac3e"
+  },
+  {
+    "path": "preparation/meaning/p061.mp3",
+    "bytes": 68256,
+    "sha256": "6ee2a3e44c574d368480da642da4c7d8fcf25e7a010c549cbacee77e42ae83e9"
+  },
+  {
+    "path": "preparation/meaning/p062.json",
+    "bytes": 796,
+    "sha256": "dadc172c91a98f83e019f398e7cc2b18ba02762f58a2ebc5f49c63ff873a780b"
+  },
+  {
+    "path": "preparation/meaning/p062.mp3",
+    "bytes": 68544,
+    "sha256": "5e9856cf89ebe7652d0616ec6d430ef661ef2227b4b59cc2b86175da3f45bb61"
+  },
+  {
+    "path": "preparation/meaning/p063.json",
+    "bytes": 796,
+    "sha256": "8717ea027764a04053b364f191c391507235b57d30f70cfa491eaf68912fbdf3"
+  },
+  {
+    "path": "preparation/meaning/p063.mp3",
+    "bytes": 71424,
+    "sha256": "5f4c57eed165afab8851d4c553035fa810c59e6bf788a118725cfe7a0d231ba4"
+  },
+  {
+    "path": "preparation/meaning/p064.json",
+    "bytes": 832,
+    "sha256": "cbe95eaa11d14d577a9c66fb596e4ba744db90658dc3b8d2c635e895af269ff0"
+  },
+  {
+    "path": "preparation/meaning/p064.mp3",
+    "bytes": 76896,
+    "sha256": "583be9a4e59edf1e65a05d38ed6b921c527cb440421c336f34b99f98b085631d"
+  },
+  {
+    "path": "preparation/meaning/p065.json",
+    "bytes": 802,
+    "sha256": "d15b6e68e4356ebc4143b6d507ddc9f4eee11dd16cc6f86ec7bfa864732cfa46"
+  },
+  {
+    "path": "preparation/meaning/p065.mp3",
+    "bytes": 72864,
+    "sha256": "1c352272b26fa776fb6fd4313f618d672bb44b3a0ce9459c0faa69c0460a68dd"
+  },
+  {
+    "path": "preparation/meaning/p066.json",
+    "bytes": 802,
+    "sha256": "c3fcea5fd3b274d6a40f0299c8fcd5aa2b2992a0151b51183da64c0fb1b92e32"
+  },
+  {
+    "path": "preparation/meaning/p066.mp3",
+    "bytes": 71712,
+    "sha256": "5bffed23c4139fc478dd503cf9e9796eda9525d8ce81646eff8f5890a8d8d516"
+  },
+  {
+    "path": "preparation/meaning/p067.json",
+    "bytes": 808,
+    "sha256": "a12202d47d27484eb426ae274a867e2aacd69246b3bdea9e2332f313a99315fe"
+  },
+  {
+    "path": "preparation/meaning/p067.mp3",
+    "bytes": 74736,
+    "sha256": "709e6d04faae5871044a5fff890002629152360f3b022e7f7d2a968f84953411"
+  },
+  {
+    "path": "preparation/meaning/p068.json",
+    "bytes": 784,
+    "sha256": "798bea728e259a86caca8536c25a7279abbca8e038718d1cc30b941f0dba57c5"
+  },
+  {
+    "path": "preparation/meaning/p068.mp3",
+    "bytes": 65520,
+    "sha256": "498c750fc5b2a4160ea75274cfe8fe8afbf61b6bc521a3fd9885166c8d563a1d"
+  },
+  {
+    "path": "preparation/meaning/p069.json",
+    "bytes": 814,
+    "sha256": "7818ddc42a3d89ddd6dbba79d1ca17ede5c73b3e57c6253fc7aedb90d1d862a7"
+  },
+  {
+    "path": "preparation/meaning/p069.mp3",
+    "bytes": 75888,
+    "sha256": "62be0a29998d9c6a0d0fec10bca6e118273cadc971fa5bc529d1eaa01a82fcad"
+  },
+  {
+    "path": "preparation/meaning/p070.json",
+    "bytes": 796,
+    "sha256": "80fbe6cb4f63ac1f630386e691c8963c262bc4ab9aa3a6f56f27c58a1f3ec807"
+  },
+  {
+    "path": "preparation/meaning/p070.mp3",
+    "bytes": 69264,
+    "sha256": "f3cd104453a8cdbb2a494a8ed0cf8022a6b0fbfc83d0775c828c1923ad1d7f3b"
+  },
+  {
+    "path": "preparation/meaning/p071.json",
+    "bytes": 850,
+    "sha256": "a9987783f9ff2b93bd42caeeb4233a148ec08583e88ad0df6a47360923ee943b"
+  },
+  {
+    "path": "preparation/meaning/p071.mp3",
+    "bytes": 79776,
+    "sha256": "74e2ddc1baea6a23d2b765605815dffeb25b482a5b72961b2c5fe63c4e177f24"
+  },
+  {
+    "path": "preparation/meaning/p072.json",
+    "bytes": 951,
+    "sha256": "91ffd5341d9713477fb2266156c809008a3d06eab69969b5d1737efba55200d8"
+  },
+  {
+    "path": "preparation/meaning/p072.mp3",
+    "bytes": 80064,
+    "sha256": "587984f4ff95c366839f36811286dda7a07b80e642032ed62084c5b436aa31fb"
+  },
+  {
+    "path": "preparation/meaning/p073.json",
+    "bytes": 784,
+    "sha256": "02657eaee7a721f76dea5372c46ee1598c753e919d7f6f08513e479fa573bace"
+  },
+  {
+    "path": "preparation/meaning/p073.mp3",
+    "bytes": 70272,
+    "sha256": "e7767c60e20b30f33150e4b5293a9b3d111a381a40088f4a741054bd109f0c70"
+  },
+  {
+    "path": "preparation/meaning/p074.json",
+    "bytes": 814,
+    "sha256": "3161daf44f2caed782c71139ffdf6beef3b4a863fc39d0a552821bf168a3a432"
+  },
+  {
+    "path": "preparation/meaning/p074.mp3",
+    "bytes": 72288,
+    "sha256": "ab2c5eeda06dc55fe4f36a51e40a935850073fca51517d596366f9da193065d4"
+  },
+  {
+    "path": "preparation/meaning/p075.json",
+    "bytes": 802,
+    "sha256": "a4dbd1b14e12a19c516e707b7d759e1628a2651974d86adfec7a54b4ea3856dd"
+  },
+  {
+    "path": "preparation/meaning/p075.mp3",
+    "bytes": 73440,
+    "sha256": "11e12229d9d6ed9af14053c4817e9b31048b112cea2ebe9eb3d2e325b612134b"
+  },
+  {
+    "path": "preparation/meaning/p076.json",
+    "bytes": 796,
+    "sha256": "a4bd43f817da1531558e14a49d4d3454618a3a50be9cdbb586a124140e94dd7a"
+  },
+  {
+    "path": "preparation/meaning/p076.mp3",
+    "bytes": 71136,
+    "sha256": "b96acec0fa9fc7e6503cffe9dfafde61a795e6620e3d7e58c4bced2e578f6498"
+  },
+  {
+    "path": "preparation/meaning/p077.json",
+    "bytes": 844,
+    "sha256": "563386f4d83ddc7dad0e3c5a4468e798ced1694763d435ad44befc718114539b"
+  },
+  {
+    "path": "preparation/meaning/p077.mp3",
+    "bytes": 81216,
+    "sha256": "828d2408f56dc1c29105c5d8c0cadb5f79a6dfd816bb985f8bb40e074f4bc56e"
+  },
+  {
+    "path": "preparation/meaning/p078.json",
+    "bytes": 673,
+    "sha256": "7ec57d9bd1f3146ffaa61b64db04994d0ecafa5ea25e42f335c3682cc6dec10b"
+  },
+  {
+    "path": "preparation/meaning/p078.mp3",
+    "bytes": 70128,
+    "sha256": "93177954838a0727e991cf971fb66ae7f4f0887d1f5d810a07718ab510664eb6"
+  },
+  {
+    "path": "preparation/meaning/p079.json",
+    "bytes": 808,
+    "sha256": "880d8ebfa683eab9a24fb16b41e8700f7843303d2c5c41cd9724dc5c3e231c69"
+  },
+  {
+    "path": "preparation/meaning/p079.mp3",
+    "bytes": 75168,
+    "sha256": "2077d1d2ab4ba682fea67dc437fb3351603365d59ba4923e8fdced8b68e69efe"
+  },
+  {
+    "path": "preparation/meaning/p080.json",
+    "bytes": 850,
+    "sha256": "39e2cf6c70a945ba9a05422628eb166415c4c22bb629a9c5ff743cc7920ffc98"
+  },
+  {
+    "path": "preparation/meaning/p080.mp3",
+    "bytes": 79776,
+    "sha256": "5dd961e03169e51278a1f719584cd6e2a7be206b3851b0568757e7c73fdb227c"
+  },
+  {
+    "path": "preparation/meaning/p081.json",
+    "bytes": 802,
+    "sha256": "67a7a7751b3da9b22d28cb1b00578081fd5cabf8dc1aa914eb979d0b647f7676"
+  },
+  {
+    "path": "preparation/meaning/p081.mp3",
+    "bytes": 74592,
+    "sha256": "7f46f41d4154222e12cf7d3445ea410a452be528bcf6a540ad2c9ceaac34ad28"
+  },
+  {
+    "path": "preparation/meaning/p082.json",
+    "bytes": 802,
+    "sha256": "ee76d835b160510649a919f7bb1ef419997cea834f51bd048f20eec92f0e6bfb"
+  },
+  {
+    "path": "preparation/meaning/p082.mp3",
+    "bytes": 73008,
+    "sha256": "4a7efbf9182e74387e03f2164a1a6a641613b3bd0b3d44ec1b7d69287818f0d3"
+  },
+  {
+    "path": "preparation/meaning/p083.json",
+    "bytes": 691,
+    "sha256": "8fce5579cf3ccec1379f0ceec8014760ae833ff239112ffe076653bad9a389b9"
+  },
+  {
+    "path": "preparation/meaning/p083.mp3",
+    "bytes": 73584,
+    "sha256": "503e247acb0e9c3bee24c0e7b1a2b55310d124854446a6f5cd39f9dd9155ed12"
+  },
+  {
+    "path": "preparation/meaning/p084.json",
+    "bytes": 814,
+    "sha256": "4edae1d1097cbb8ad4fc044697ff83a92909b6f26da820748b33e13932ebd214"
+  },
+  {
+    "path": "preparation/meaning/p084.mp3",
+    "bytes": 76608,
+    "sha256": "b9870d239e9dd6e3a2c65f0f3ac00073c50c1e6cfff347dca4689aac63313b55"
+  },
+  {
+    "path": "preparation/meaning/p085.json",
+    "bytes": 820,
+    "sha256": "add1ab17bee07a5a97f78a8ec35bbfb32ed488d09c8ec719fae7de66c6e43643"
+  },
+  {
+    "path": "preparation/meaning/p085.mp3",
+    "bytes": 77040,
+    "sha256": "197ace5fd59cdfcb27d0655ec91f6caaab5c3789724d4750e953a2c120827cdd"
+  },
+  {
+    "path": "preparation/meaning/p086.json",
+    "bytes": 796,
+    "sha256": "4daa6a72b60ac28d9e6b1e6d8f2381728f283eb107f842ee18457fbe1fe93fc8"
+  },
+  {
+    "path": "preparation/meaning/p086.mp3",
+    "bytes": 72720,
+    "sha256": "1a07685a7d9a70aa50e6bdb552fbd258f45a70478f3e6e649157dfcf97142036"
+  },
+  {
+    "path": "preparation/meaning/p087.json",
+    "bytes": 796,
+    "sha256": "6e65179bed2de0606368a6a6bc39343ea54e9dee3a58509086a6b849ba80aa35"
+  },
+  {
+    "path": "preparation/meaning/p087.mp3",
+    "bytes": 72864,
+    "sha256": "f3d6e12a2e5c8b031872dba6a32ed9929f33162e0444b85edcefca4006931bcc"
+  },
+  {
+    "path": "preparation/meaning/voice.json",
+    "bytes": 361,
+    "sha256": "d3cfc2ca3e9d42e8ab781b16ed2d87d7b0a6af6e508cc6b6fe5a6934a3488947"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2950,
+    "sha256": "50e894b2ae31ca576dd3383db5a27bd415aa0b61b26937bf655998a49901b411"
+  },
+  {
+    "path": "samples/xiaochi.mp3",
+    "bytes": 650255,
+    "sha256": "7a33f093d1678676649be3a4b9cf8cbf60cf8f67a79712cdc993c08f16141561"
+  },
+  {
+    "path": "usb/poetry/audio/p001-edge-meaning.m4a",
+    "bytes": 88693,
+    "sha256": "7802ff97c22dfa2b2b2fd46831abdc24ea178b432ebc88ea6b2e7582b52e835b"
+  },
+  {
+    "path": "usb/poetry/audio/p001-human.m4a",
+    "bytes": 140375,
+    "sha256": "1b18b71923ee69192405a96f6225db0166847776cd68027c786ef794b06b43f2"
+  },
+  {
+    "path": "usb/poetry/audio/p001.m4a",
+    "bytes": 390905,
+    "sha256": "c7e5e78719055abf50e1a5b41415a0ebe6feae2b069a3d8a4a783983a942be05"
+  },
+  {
+    "path": "usb/poetry/audio/p002-edge-meaning.m4a",
+    "bytes": 103471,
+    "sha256": "d16f7d3d156ecda967bb3206c6ac808e6d853406a0884ee709a7acd51eb43f8c"
+  },
+  {
+    "path": "usb/poetry/audio/p002-human.m4a",
+    "bytes": 150418,
+    "sha256": "29961589697df51cd8a36d1d23f8efe1cd54c1a94d9679e0f26e2b9fd672ddb4"
+  },
+  {
+    "path": "usb/poetry/audio/p002.m4a",
+    "bytes": 253922,
+    "sha256": "81b9a9c8f1e8a8ef131655929dd144e55925ed7aa3278899825032cb141b99e6"
+  },
+  {
+    "path": "usb/poetry/audio/p003-edge-meaning.m4a",
+    "bytes": 71499,
+    "sha256": "a4eb8f06b0b43cc3c1dcfe9d72f78f2f1da35348104482a7c2248b5726485eba"
+  },
+  {
+    "path": "usb/poetry/audio/p003-human.m4a",
+    "bytes": 223024,
+    "sha256": "3586c1573129b434698cbfc2384f13115fad4af9840a2d041fd44b16ea71d3e8"
+  },
+  {
+    "path": "usb/poetry/audio/p003.m4a",
+    "bytes": 431528,
+    "sha256": "ca06b80ccecae4ebe71e927c17721ad702d288a47e30501cb7bacb78197f9d24"
+  },
+  {
+    "path": "usb/poetry/audio/p004-edge-meaning.m4a",
+    "bytes": 78316,
+    "sha256": "85dcb1792b2a3f85866b443811af8945dad8477146adc2e262c325dcd5d566b3"
+  },
+  {
+    "path": "usb/poetry/audio/p004-human.m4a",
+    "bytes": 280526,
+    "sha256": "0d71ebfd8d86a0ea3f32ca72e8848496d89fdf21c1ca52b6febe1b499b49888a"
+  },
+  {
+    "path": "usb/poetry/audio/p004.m4a",
+    "bytes": 427318,
+    "sha256": "77947fe3c97757d98cbf5f3f1ff802403de60b087360abe4f3dbc7861057078c"
+  },
+  {
+    "path": "usb/poetry/audio/p005-edge-meaning.m4a",
+    "bytes": 83643,
+    "sha256": "07b532eeb293f2b76ff9d984ff69774bf915e6c4c63a5ed4ed600f8de6911848"
+  },
+  {
+    "path": "usb/poetry/audio/p005-human.m4a",
+    "bytes": 185426,
+    "sha256": "2881202584c6476d0dc4ea0119d6c1306ff219a1c10aa19d09af5e7fa4bc7022"
+  },
+  {
+    "path": "usb/poetry/audio/p005.m4a",
+    "bytes": 320134,
+    "sha256": "06c6bc80a856ff4f69f28a52c7039229d768f828a5e555fabcb7745c7745ea5e"
+  },
+  {
+    "path": "usb/poetry/audio/p006-edge-meaning.m4a",
+    "bytes": 94404,
+    "sha256": "e19685bff7e3aa94de402e49e32534545999d200c5a98a40f681d0966d926da8"
+  },
+  {
+    "path": "usb/poetry/audio/p006-human.m4a",
+    "bytes": 147533,
+    "sha256": "3900445304f053ed96d5e30583cb49054179b82cebb4889f10801f261ef32d43"
+  },
+  {
+    "path": "usb/poetry/audio/p006.m4a",
+    "bytes": 446812,
+    "sha256": "cd7fba339eb2005361ed6f8810959e37006689da7e8dd6cb93c0bbf0953761c4"
+  },
+  {
+    "path": "usb/poetry/audio/p007-edge-meaning.m4a",
+    "bytes": 78917,
+    "sha256": "d083d7c9e09a21e9ca8f709ed2fd84047f089111936b5b022a3dbf65bce2c725"
+  },
+  {
+    "path": "usb/poetry/audio/p007-human.m4a",
+    "bytes": 172205,
+    "sha256": "a60b4c127464f8c6f7c0efca5398d8747314c8697c47d93fa7eca2aa20a1b3d5"
+  },
+  {
+    "path": "usb/poetry/audio/p007.m4a",
+    "bytes": 318467,
+    "sha256": "d2cacf9fcb27077312cdead91e74cbb841a7927480c8dad281bd07433acc2441"
+  },
+  {
+    "path": "usb/poetry/audio/p008-edge-meaning.m4a",
+    "bytes": 80015,
+    "sha256": "525013fe6de90b1fd0bf3b1dc20b9dd20f4393308df0153e537f1188e76c7667"
+  },
+  {
+    "path": "usb/poetry/audio/p008-human.m4a",
+    "bytes": 149325,
+    "sha256": "f1d218562393f95fc4999d0b0d00d0a9fc9933d48216cb1d520fc5a2a03ab5de"
+  },
+  {
+    "path": "usb/poetry/audio/p008.m4a",
+    "bytes": 301349,
+    "sha256": "4a8830d833fed43a3e9f3ad8873014bd9ba99efb3441e668945eecfcf4f0615e"
+  },
+  {
+    "path": "usb/poetry/audio/p009-edge-meaning.m4a",
+    "bytes": 85280,
+    "sha256": "70d0c6a6fd28947bd37d7a3331e994b441058f003b72ac7a638bfc04eb4ba684"
+  },
+  {
+    "path": "usb/poetry/audio/p009-human.m4a",
+    "bytes": 275426,
+    "sha256": "2a9020a0ff6c2cd644cd1fd81a94b09cc470d151a54f2fd797f2d92ece1aeea2"
+  },
+  {
+    "path": "usb/poetry/audio/p009.m4a",
+    "bytes": 493097,
+    "sha256": "dfa810b806d8dcd33cc822652b901065613f8c01bb54b70b4962c7492f1e653f"
+  },
+  {
+    "path": "usb/poetry/audio/p010-edge-meaning.m4a",
+    "bytes": 73205,
+    "sha256": "14940d24cf55492b4eba1139c2f4d64d95d2794466c603d67943dd7f59266ad2"
+  },
+  {
+    "path": "usb/poetry/audio/p010-human.m4a",
+    "bytes": 200024,
+    "sha256": "a020076f7a77e4a588598e52164c7d509ecd757295b7cc5a458825a34861d884"
+  },
+  {
+    "path": "usb/poetry/audio/p010.m4a",
+    "bytes": 372946,
+    "sha256": "2bc67a7b5cb0db582d4da282eabf601aa577886527ce79f14d3ed808fb036acd"
+  },
+  {
+    "path": "usb/poetry/audio/p011-edge-meaning.m4a",
+    "bytes": 82782,
+    "sha256": "6a9fb830fbf08c055ff481bab6fc2e2a3e8f623213ea9f289131699a99a0de0f"
+  },
+  {
+    "path": "usb/poetry/audio/p011-human.m4a",
+    "bytes": 192735,
+    "sha256": "24d488b65d392c97f030c9c68dae9bae2b5cfe7c43ceaba277d1bea8d314f506"
+  },
+  {
+    "path": "usb/poetry/audio/p011.m4a",
+    "bytes": 350894,
+    "sha256": "748a58ecdd50e4849b6b94674eca16485aec851d1c9182fd9fe1612487820ddc"
+  },
+  {
+    "path": "usb/poetry/audio/p012-edge-meaning.m4a",
+    "bytes": 85103,
+    "sha256": "0badfc3a0882be94918a38a1fe52afa832b054f5251c0b1022eeca2b8ab7181c"
+  },
+  {
+    "path": "usb/poetry/audio/p012-human.m4a",
+    "bytes": 227025,
+    "sha256": "6cbd22116ca471a8e28866d09694e90b967a641654eb5b5219bd5eef1880b5af"
+  },
+  {
+    "path": "usb/poetry/audio/p012.m4a",
+    "bytes": 480162,
+    "sha256": "2b3ad15dbcdad75e621977c9932a44c8758ab62e7806210108265e711eed7161"
+  },
+  {
+    "path": "usb/poetry/audio/p013-edge-meaning.m4a",
+    "bytes": 89360,
+    "sha256": "ac7b3c5d3a84bb9bee5fb6576fd3f077dc20d419f30f83dd8c62abbe47fe593e"
+  },
+  {
+    "path": "usb/poetry/audio/p013-human.m4a",
+    "bytes": 165480,
+    "sha256": "ec3f589b73e81a6bcb41a8321b4d7ee07d5dd6638a744eecf5dedf1e44ffd69d"
+  },
+  {
+    "path": "usb/poetry/audio/p013.m4a",
+    "bytes": 218530,
+    "sha256": "5bcaaac371538212ef10ab9065c115e626de6e7e66a45b4d255d392cb3bac24d"
+  },
+  {
+    "path": "usb/poetry/audio/p014-edge-meaning.m4a",
+    "bytes": 86685,
+    "sha256": "3b2c8b79a49a696958182bb0a884389add3e68bf966b7024f1352a8f0db271bb"
+  },
+  {
+    "path": "usb/poetry/audio/p014-human.m4a",
+    "bytes": 172617,
+    "sha256": "f95e7b8e4208e6b743d8a79e76e6c85111bab5361ffba37d1b8be5077c6ded82"
+  },
+  {
+    "path": "usb/poetry/audio/p014.m4a",
+    "bytes": 299973,
+    "sha256": "01e9e9d299d03e7beec0e933a1a0bdeedad5d4816d4e0b16bbceac375162786f"
+  },
+  {
+    "path": "usb/poetry/audio/p015-edge-meaning.m4a",
+    "bytes": 82174,
+    "sha256": "71f13c143c80f4f69b3a2f4c31f95e23a75f6b5df3a1cca8917028ce2a0d59a5"
+  },
+  {
+    "path": "usb/poetry/audio/p015-human.m4a",
+    "bytes": 207181,
+    "sha256": "bcb90f7e68d90d610fad5205e8f83717cd9b07c067cdfb9c1a24cad1b4078ddd"
+  },
+  {
+    "path": "usb/poetry/audio/p015.m4a",
+    "bytes": 318644,
+    "sha256": "e182e111083d1b9b8e2ceb4d5726553652c44db5b89099b04c03bef2bdd293c3"
+  },
+  {
+    "path": "usb/poetry/audio/p016-edge-meaning.m4a",
+    "bytes": 88111,
+    "sha256": "9006b3e91dcf66c315f770a0bc25b2112d6ed0d8360532c340342512871fb2e7"
+  },
+  {
+    "path": "usb/poetry/audio/p016-human.m4a",
+    "bytes": 164032,
+    "sha256": "644e55438d83d060e5afb695c256ee36cd72e4f15376490a40a66bc11c492c43"
+  },
+  {
+    "path": "usb/poetry/audio/p016.m4a",
+    "bytes": 317243,
+    "sha256": "b7c312891a8f2a7e4e52a14b4bdb9b9a4c1adda36f706f0d6cddd559bb2a1632"
+  },
+  {
+    "path": "usb/poetry/audio/p017-edge-meaning.m4a",
+    "bytes": 91453,
+    "sha256": "e34338a4075943e5aa3d2161558f9537e6453c9554f965bbd5d4f025f23429e5"
+  },
+  {
+    "path": "usb/poetry/audio/p017-human.m4a",
+    "bytes": 197236,
+    "sha256": "3ebdf110f9b7edb704700693e20037c3209feff120273d784070eba6c5fa0b30"
+  },
+  {
+    "path": "usb/poetry/audio/p017.m4a",
+    "bytes": 365530,
+    "sha256": "bcc7929b9869c7836b3ec666e49754d45b39772ed5ea6303fa6ffd7f61300573"
+  },
+  {
+    "path": "usb/poetry/audio/p018-edge-meaning.m4a",
+    "bytes": 79528,
+    "sha256": "d843cec923ccbe9f07ca2d4629f94c475184469d9585027e8f11c427e55140bf"
+  },
+  {
+    "path": "usb/poetry/audio/p018-human.m4a",
+    "bytes": 186318,
+    "sha256": "e8135fe23844e461c10ad240be7cb70df1bc7c9093f75ed3fc837a1fdf93cb55"
+  },
+  {
+    "path": "usb/poetry/audio/p018.m4a",
+    "bytes": 317068,
+    "sha256": "f93533db0e3f63cf452f05827da401a81b9508b3192c391aa0fc3850268c3f02"
+  },
+  {
+    "path": "usb/poetry/audio/p019-edge-meaning.m4a",
+    "bytes": 80303,
+    "sha256": "8d0a749986d1b1312a8983478fbb27a19fe003f79fa197475b409ca1a5431944"
+  },
+  {
+    "path": "usb/poetry/audio/p019-human.m4a",
+    "bytes": 203777,
+    "sha256": "55e9ba9056ef561305755b0b39e6c426ee83dfd84201ad6a89f57f4bf3652690"
+  },
+  {
+    "path": "usb/poetry/audio/p019.m4a",
+    "bytes": 377370,
+    "sha256": "b61ad707427246ffabbdd04d6fd7096111eb2b3903e64ccccf6ea94ea4490059"
+  },
+  {
+    "path": "usb/poetry/audio/p020-edge-meaning.m4a",
+    "bytes": 84836,
+    "sha256": "3025297b0651ac1553094da0bda4da99d8870ed99c8905f3ce7c83659e02a544"
+  },
+  {
+    "path": "usb/poetry/audio/p020-human.m4a",
+    "bytes": 190698,
+    "sha256": "02d22a712e2fd7a577edf1beee0e925008e7f3e10e6a491aaae56eda1c308943"
+  },
+  {
+    "path": "usb/poetry/audio/p020.m4a",
+    "bytes": 384903,
+    "sha256": "8d6ac1e4c6c4d59e6ef5480fe1d2bd9a3a136b15c01384c13d7db4385a309e95"
+  },
+  {
+    "path": "usb/poetry/audio/p021-edge-meaning.m4a",
+    "bytes": 85562,
+    "sha256": "726f7337f1b8a07e0653911379495f71167b0b371df32875d42f7d3a12056916"
+  },
+  {
+    "path": "usb/poetry/audio/p021-human.m4a",
+    "bytes": 182503,
+    "sha256": "19ad878da10cc68dd08f506c2135a539812875605878e56a13f70cf8fea7c69e"
+  },
+  {
+    "path": "usb/poetry/audio/p021.m4a",
+    "bytes": 299282,
+    "sha256": "053b3751db7d8ae8592d07667ce258a30af70972e544f13fcdf2e4f2e1457598"
+  },
+  {
+    "path": "usb/poetry/audio/p022-edge-meaning.m4a",
+    "bytes": 85607,
+    "sha256": "b37f1d86005f9667bb8bceec107cb333a93e3323503a3c4b5b0a4016413fbfa2"
+  },
+  {
+    "path": "usb/poetry/audio/p022-human.m4a",
+    "bytes": 181269,
+    "sha256": "d48ccf6be82309064ecd4e31d409ced628265cea4b4ed0eb38ed324e9dfb5b15"
+  },
+  {
+    "path": "usb/poetry/audio/p022.m4a",
+    "bytes": 392763,
+    "sha256": "f364dc942b9180d77be5d3431f5453510367dac19326b877e60ad2b6931e45dd"
+  },
+  {
+    "path": "usb/poetry/audio/p023-edge-meaning.m4a",
+    "bytes": 86094,
+    "sha256": "d41bea67f039b71760789f02674dbc81bfe90e7f622f23df01d25cf80150cb65"
+  },
+  {
+    "path": "usb/poetry/audio/p023-human.m4a",
+    "bytes": 180832,
+    "sha256": "334a376bf73a203f255693d4d3b16b08fb10a82dfa7b5d25a335b8b77c158087"
+  },
+  {
+    "path": "usb/poetry/audio/p023.m4a",
+    "bytes": 229522,
+    "sha256": "15877268b3599756ec6d86cf1c222de83c2a142997cd88dcfb5464e382baf250"
+  },
+  {
+    "path": "usb/poetry/audio/p024-edge-meaning.m4a",
+    "bytes": 88769,
+    "sha256": "6819625890747b33dcb15061805eb8f5af3eb1048c18f55818a136ff8ba67ba7"
+  },
+  {
+    "path": "usb/poetry/audio/p024-human.m4a",
+    "bytes": 183833,
+    "sha256": "26d02ef7f28f1fdea6728e6596c2b242805bbb77707ad9d77c1ffc079c0989c3"
+  },
+  {
+    "path": "usb/poetry/audio/p024.m4a",
+    "bytes": 252414,
+    "sha256": "ce23122ad97e01b42eb75803a91b1b55eb93085821f9ebaf0df2123a5478fbeb"
+  },
+  {
+    "path": "usb/poetry/audio/p025-edge-meaning.m4a",
+    "bytes": 77047,
+    "sha256": "379dd3bce84d51e84ea367e5e3c01d0933623c51c4e64350ff674e55cdeafc96"
+  },
+  {
+    "path": "usb/poetry/audio/p025-human.m4a",
+    "bytes": 227043,
+    "sha256": "f0b343420dedf2ce84a7d8fd998e84acb4d803fdd2c5926b48b7d2c76845d9e2"
+  },
+  {
+    "path": "usb/poetry/audio/p025.m4a",
+    "bytes": 410719,
+    "sha256": "1d8aedf7a0762babac1c2ff561e4d201a8e92af1620406ff4b1c9f5eee8d7f9d"
+  },
+  {
+    "path": "usb/poetry/audio/p026-edge-meaning.m4a",
+    "bytes": 107452,
+    "sha256": "d1ad24ed23f98b883ee6a3b800331bf02aeafecc72bcccb0989a0e4722053673"
+  },
+  {
+    "path": "usb/poetry/audio/p026-human.m4a",
+    "bytes": 188742,
+    "sha256": "e3eb56ca6fee8863eca99e384f734c9678b767721349667e4ff7dbb37a3b2983"
+  },
+  {
+    "path": "usb/poetry/audio/p026.m4a",
+    "bytes": 261213,
+    "sha256": "f376991abb341130580f1dfd3884159927aa270774fe39eca84c9e76c6005b87"
+  },
+  {
+    "path": "usb/poetry/audio/p027-edge-meaning.m4a",
+    "bytes": 83057,
+    "sha256": "f0c64c0815a3527861c4997c6f65229d7179f4d38c8d051fdf1b152cc1b3adc9"
+  },
+  {
+    "path": "usb/poetry/audio/p027-human.m4a",
+    "bytes": 177673,
+    "sha256": "761acdc78bbfc327452f7c0d7bcbbeabce8b62085e895a506c9f815496b13890"
+  },
+  {
+    "path": "usb/poetry/audio/p027.m4a",
+    "bytes": 277665,
+    "sha256": "22d2af1d5463681c89c4c687ec2a64a5f53929cf435b747106523ae95381efd3"
+  },
+  {
+    "path": "usb/poetry/audio/p028-edge-meaning.m4a",
+    "bytes": 85358,
+    "sha256": "c6d2725d8adcf9f35680fb43801f1ee8109fc9a32ee5e58e4281355c0288cfc7"
+  },
+  {
+    "path": "usb/poetry/audio/p028-human.m4a",
+    "bytes": 135890,
+    "sha256": "987f85a3d5ff166137570186e30a585f7889bbc855a4c5a7a964e561afd814ce"
+  },
+  {
+    "path": "usb/poetry/audio/p028.m4a",
+    "bytes": 209047,
+    "sha256": "6c39bc1f146383b59743a91a86e8c953b1b294978e0e3c4c06e4537089b12b33"
+  },
+  {
+    "path": "usb/poetry/audio/p029-edge-meaning.m4a",
+    "bytes": 79502,
+    "sha256": "2718355d7c370ff3eb77abc94ecde72344ea6dd99a3457ca1c9b2098485adf82"
+  },
+  {
+    "path": "usb/poetry/audio/p029-human.m4a",
+    "bytes": 198103,
+    "sha256": "665b62666187469f9152d78b0b7bfbb94d4fbfe6e7f037d819a95fc2301232ce"
+  },
+  {
+    "path": "usb/poetry/audio/p029.m4a",
+    "bytes": 266486,
+    "sha256": "459adaa57690addd31a8b8508acef093127847cf8a6cee6cafd1897e4e7955fc"
+  },
+  {
+    "path": "usb/poetry/audio/p030-edge-meaning.m4a",
+    "bytes": 96237,
+    "sha256": "0777e9c695916db4c2c23a77f80ed3353b3902b3230dda379f596a988934e47e"
+  },
+  {
+    "path": "usb/poetry/audio/p030-human.m4a",
+    "bytes": 169116,
+    "sha256": "e9ba0a729d65699b5a2c96000780ce97b52cbe561c5cb1843cf61c2f58a7e9e6"
+  },
+  {
+    "path": "usb/poetry/audio/p030.m4a",
+    "bytes": 242164,
+    "sha256": "7f148f27b5bc67018dd7fc23b944785b546203b42648031949a8d31b9d93697d"
+  },
+  {
+    "path": "usb/poetry/audio/p031-edge-meaning.m4a",
+    "bytes": 94187,
+    "sha256": "9c186d4084825ec9c709506170fddcef5b88a657488ac7dc06557ec5d261880a"
+  },
+  {
+    "path": "usb/poetry/audio/p031-human.m4a",
+    "bytes": 204397,
+    "sha256": "ab1b0e76f2cc28884032c513cfb0459da0846b48d45aad6ba798a61bf1cee5d0"
+  },
+  {
+    "path": "usb/poetry/audio/p031.m4a",
+    "bytes": 256361,
+    "sha256": "b99aebd8e341504f8206afd3916216e7c573470be4f52ffbb2fda45072f3de3e"
+  },
+  {
+    "path": "usb/poetry/audio/p032-edge-meaning.m4a",
+    "bytes": 82195,
+    "sha256": "85303d8a263f51b6d07191eaafaa59d7bbc1fc23ee8ca7dd3fecc3a913188d93"
+  },
+  {
+    "path": "usb/poetry/audio/p032-human.m4a",
+    "bytes": 179896,
+    "sha256": "ef815120b980dcc3c8ee669d213f0f07499ead0a9429c7da33ab04b3f651fbb2"
+  },
+  {
+    "path": "usb/poetry/audio/p032.m4a",
+    "bytes": 389276,
+    "sha256": "b1c4ff47ab2e58de35809f95d4977bfd06c389d27506b1f704985192db8356fe"
+  },
+  {
+    "path": "usb/poetry/audio/p033-edge-meaning.m4a",
+    "bytes": 94760,
+    "sha256": "baf5099e9d6f70093cb402f2c3a86bd0eb6d7eedca84df1b1a0794520a6b3a0a"
+  },
+  {
+    "path": "usb/poetry/audio/p033-human.m4a",
+    "bytes": 179445,
+    "sha256": "3bb825b18874f18df9e4da048f0c8ede52ef912d3168b4e6f7a2049172a43ca3"
+  },
+  {
+    "path": "usb/poetry/audio/p033.m4a",
+    "bytes": 336894,
+    "sha256": "6bef95adc78588d5beff835c91d5d166774831fb4fc41f9f123b4f96607e084a"
+  },
+  {
+    "path": "usb/poetry/audio/p034-edge-meaning.m4a",
+    "bytes": 82004,
+    "sha256": "87b95ed2e4028cecad4c22c2ccbf2bcd4539b61e7a0212fd99045e9de54846e1"
+  },
+  {
+    "path": "usb/poetry/audio/p034-human.m4a",
+    "bytes": 132651,
+    "sha256": "68b90a09fc5291d01a26341e8276c7adce1b749bb1f19a1e98ef966919d76e50"
+  },
+  {
+    "path": "usb/poetry/audio/p034.m4a",
+    "bytes": 222994,
+    "sha256": "98bd0a1e9b5c0a919b4c3dd5ad4894d86b369f4d99dc18bd7764cf64a8168e08"
+  },
+  {
+    "path": "usb/poetry/audio/p035-edge-meaning.m4a",
+    "bytes": 90647,
+    "sha256": "7707b567f948612c59381b211b27dcabddbb253481543e66d035f14962255e9c"
+  },
+  {
+    "path": "usb/poetry/audio/p035-human.m4a",
+    "bytes": 213823,
+    "sha256": "75584ce465916c75d6c2d3c1e4558f4ae537c3a7e52cbb8c362066a38267fd23"
+  },
+  {
+    "path": "usb/poetry/audio/p035.m4a",
+    "bytes": 287156,
+    "sha256": "3f4576877cf55aa2c9177a5bac89a56b39c8c1e6ca0d1b8daf0d98d907655558"
+  },
+  {
+    "path": "usb/poetry/audio/p036-edge-meaning.m4a",
+    "bytes": 83252,
+    "sha256": "e3baa7f5a8f7b5144660b5bfdbd0a7113e535be163c8592df5d96800b2c9a083"
+  },
+  {
+    "path": "usb/poetry/audio/p036-human.m4a",
+    "bytes": 185454,
+    "sha256": "e6f0bcfca7a958e1671f61dbbb92a075e017005b508856e6bbdb04a5a360972a"
+  },
+  {
+    "path": "usb/poetry/audio/p036.m4a",
+    "bytes": 413874,
+    "sha256": "8385cb72333ea52895fe9183cff44a0f9a26a4b8344c1da9e44687baf89e6ea3"
+  },
+  {
+    "path": "usb/poetry/audio/p037-edge-meaning.m4a",
+    "bytes": 92016,
+    "sha256": "b137015fedf8cb68a28b0130cff7e038a813acc3627f981fcde46edd1788092f"
+  },
+  {
+    "path": "usb/poetry/audio/p037-human.m4a",
+    "bytes": 185921,
+    "sha256": "1489535e351ed2f72ad7f22faead346891ad7cc64e418a58c924a702735547d5"
+  },
+  {
+    "path": "usb/poetry/audio/p037.m4a",
+    "bytes": 277979,
+    "sha256": "a26103b81d5f42959e943834d68036f60b14a4c7507d309a67ae25494358a500"
+  },
+  {
+    "path": "usb/poetry/audio/p038-edge-meaning.m4a",
+    "bytes": 88713,
+    "sha256": "cbd25aad13145913e5a63bdaf2015800349420c2479937a7ad14636f03f5e5a4"
+  },
+  {
+    "path": "usb/poetry/audio/p038-human.m4a",
+    "bytes": 137787,
+    "sha256": "20e5241f394878bf94508fe6fed5c26d923f46105bea3afd6f25b4e5ffb00c9d"
+  },
+  {
+    "path": "usb/poetry/audio/p038.m4a",
+    "bytes": 259294,
+    "sha256": "73a48638c3ad8852b5254c2e6faef296c552dc40d62d06ec956f7accfa690e8f"
+  },
+  {
+    "path": "usb/poetry/audio/p039-edge-meaning.m4a",
+    "bytes": 98165,
+    "sha256": "58bcf76dd0cb645cd48c26afc1482bc9953d3489bb7c775e06a90c60e0a420be"
+  },
+  {
+    "path": "usb/poetry/audio/p039-human.m4a",
+    "bytes": 225286,
+    "sha256": "f727ca3858cb7bcd50e831cd2a65043aaf41d1f7a9e474d4b40d3b07bba025da"
+  },
+  {
+    "path": "usb/poetry/audio/p039.m4a",
+    "bytes": 372545,
+    "sha256": "f73629da8b309ce3008eca5342c81a13a4cc407f7175c0120231bbe53f83c29e"
+  },
+  {
+    "path": "usb/poetry/audio/p040-edge-meaning.m4a",
+    "bytes": 76073,
+    "sha256": "de2a5107cbf544d2aca3eb964475da37193d157de78a2f2fce3bb394daa5777b"
+  },
+  {
+    "path": "usb/poetry/audio/p040-human.m4a",
+    "bytes": 211293,
+    "sha256": "6a634e37aa83dba2f22cdd43e7fa02171d885c8f6145e33a912e5f1c2609fc7a"
+  },
+  {
+    "path": "usb/poetry/audio/p040.m4a",
+    "bytes": 332134,
+    "sha256": "f271b1bc03c094d32ec3957819e282fbbb872969870737bc6f7c98ec6cf30442"
+  },
+  {
+    "path": "usb/poetry/audio/p041-edge-meaning.m4a",
+    "bytes": 96526,
+    "sha256": "dcdac2dcb1dd4a62aeb9f34b577300a0b3754d1b0872fae2b001470630953209"
+  },
+  {
+    "path": "usb/poetry/audio/p041-human.m4a",
+    "bytes": 183848,
+    "sha256": "bd0e74bb2185eaf4aabd91771fd58beb9b26eab2bbfdf223a4cab3b045348ed5"
+  },
+  {
+    "path": "usb/poetry/audio/p041.m4a",
+    "bytes": 336137,
+    "sha256": "9b363e480314186743b1ce48f80e50a3f21cfdc917210327ad3697259f2c3d9c"
+  },
+  {
+    "path": "usb/poetry/audio/p042-edge-meaning.m4a",
+    "bytes": 82584,
+    "sha256": "60ab3e171a8888049f9f8b927aeeeabd8de461ac8530c42310fece6c97f16572"
+  },
+  {
+    "path": "usb/poetry/audio/p042-human.m4a",
+    "bytes": 208021,
+    "sha256": "1c4b9a26e319c8c9a88e760a650a305c13d37e48021643beec404f13a5068dde"
+  },
+  {
+    "path": "usb/poetry/audio/p042.m4a",
+    "bytes": 406653,
+    "sha256": "7a2aea5d6fad47791a6d66e314b173ae9d5ea420ddeee656151b2bee890665b6"
+  },
+  {
+    "path": "usb/poetry/audio/p043-edge-meaning.m4a",
+    "bytes": 89475,
+    "sha256": "105bff412fa30ab21cfcf8bfe706d5845f613344545ac0b0b4e0062c45fd3e69"
+  },
+  {
+    "path": "usb/poetry/audio/p043-human.m4a",
+    "bytes": 218508,
+    "sha256": "83e0a1c10c8e2098c49fb966eb4b137f632a5bebe3cca9cd61d39fc93b513370"
+  },
+  {
+    "path": "usb/poetry/audio/p043.m4a",
+    "bytes": 370642,
+    "sha256": "97e975e6e117a28dc1771fad5c0d7f190e4a4e22b61fa46864e2682b2f081d4c"
+  },
+  {
+    "path": "usb/poetry/audio/p044-edge-meaning.m4a",
+    "bytes": 71999,
+    "sha256": "e4693a57556cea5b03bee153e3aafb2b386591753e4259767f0aa52f02f44304"
+  },
+  {
+    "path": "usb/poetry/audio/p044-human.m4a",
+    "bytes": 207918,
+    "sha256": "74e8324fba3cbb35a94ed702bb0d82569056c596aa19449de01cc06ac40642ad"
+  },
+  {
+    "path": "usb/poetry/audio/p044.m4a",
+    "bytes": 303037,
+    "sha256": "5a45e3ac7b3c1edde79419557db5c183edacac1fd7b2285b7c37ca535dad0410"
+  },
+  {
+    "path": "usb/poetry/audio/p045-edge-meaning.m4a",
+    "bytes": 91284,
+    "sha256": "23c9907977f886b9d76c97f0553bed135c29c754441c8db787e3b8a36ee24bca"
+  },
+  {
+    "path": "usb/poetry/audio/p045-human.m4a",
+    "bytes": 208760,
+    "sha256": "8c403d4e24f5f89c03a1ca2514d6e76fedac2088fdce6a3e31076052afa38e08"
+  },
+  {
+    "path": "usb/poetry/audio/p045.m4a",
+    "bytes": 377839,
+    "sha256": "a5613d6a494257345a8a625f160c250b12bf2ab6abdc7ffa2132ab25dc50597d"
+  },
+  {
+    "path": "usb/poetry/audio/p046-edge-meaning.m4a",
+    "bytes": 92474,
+    "sha256": "6df0acb8f13871f092610d27e0fcedc03ff52655125be4eaa5a8ac944245f16c"
+  },
+  {
+    "path": "usb/poetry/audio/p046-human.m4a",
+    "bytes": 210942,
+    "sha256": "3a95283970aac55113449a61ff96f1a3c093bcefb7c33426f024d993104dc6df"
+  },
+  {
+    "path": "usb/poetry/audio/p046.m4a",
+    "bytes": 325120,
+    "sha256": "e2ce8246b73a76297ffab361178a7071b2e9db97ed831c5a5cee2614946cf67b"
+  },
+  {
+    "path": "usb/poetry/audio/p047-edge-meaning.m4a",
+    "bytes": 95911,
+    "sha256": "3a4e1585d853d0abf7c514ddea31e4d82d6a392a51831924d876da281aa9fc54"
+  },
+  {
+    "path": "usb/poetry/audio/p047-human.m4a",
+    "bytes": 185937,
+    "sha256": "fd73e63a43afc6b59f94c5019a1ae702f4c8ecf82d34aa99045a4c0a4df7fe3b"
+  },
+  {
+    "path": "usb/poetry/audio/p047.m4a",
+    "bytes": 381636,
+    "sha256": "49d019e86b3c604467b4eb30b47f4c75c0ed7aa7bedd8bf4de222ece130589f6"
+  },
+  {
+    "path": "usb/poetry/audio/p048-edge-meaning.m4a",
+    "bytes": 87373,
+    "sha256": "f4e22f330f3847445a66bad37a3600258be66d4a97c7cf4fdf28f4f18c7fde21"
+  },
+  {
+    "path": "usb/poetry/audio/p048-human.m4a",
+    "bytes": 221383,
+    "sha256": "4416f0969512888050448b6f3c266d33df71cf4b0f97958582c5a99ef0e1f6e7"
+  },
+  {
+    "path": "usb/poetry/audio/p048.m4a",
+    "bytes": 563939,
+    "sha256": "740b3a5f55f7ec9f93c2e473f81fd1cac63f6eaf2d56aedd7eb8f07b7250da03"
+  },
+  {
+    "path": "usb/poetry/audio/p049-edge-meaning.m4a",
+    "bytes": 106737,
+    "sha256": "749e19812cf07b2e4b5602551bec4e889921f9eba09ae7cef38ee91cb72ca13e"
+  },
+  {
+    "path": "usb/poetry/audio/p049-human.m4a",
+    "bytes": 173040,
+    "sha256": "7e4cb8428c6c4b12026dfc08eed03cc8a68db226e0b6552e9d43ae651e8d065c"
+  },
+  {
+    "path": "usb/poetry/audio/p049.m4a",
+    "bytes": 347054,
+    "sha256": "7fb82f06e7633362f1a8869286d2abd8ee65cca960507e52cac9043de091167d"
+  },
+  {
+    "path": "usb/poetry/audio/p050-edge-meaning.m4a",
+    "bytes": 81864,
+    "sha256": "8ae9e02294d59ac5b936287f3ce8daad9faa399be65ef04b064da3cd9b498733"
+  },
+  {
+    "path": "usb/poetry/audio/p050-human.m4a",
+    "bytes": 162232,
+    "sha256": "f22b0a82c5d921b0f2c49b353a5973b1f962528d665d0e48d20dd25eda6e4256"
+  },
+  {
+    "path": "usb/poetry/audio/p050.m4a",
+    "bytes": 330434,
+    "sha256": "58cda190181a77c6887e7bf7fef16e0588b3565bb34e5b5562381d70497516fd"
+  },
+  {
+    "path": "usb/poetry/audio/p051-edge-meaning.m4a",
+    "bytes": 91993,
+    "sha256": "f49841530d12a04a24fb406fb113286e508fed8161e1a82af3eabde0f19d1c72"
+  },
+  {
+    "path": "usb/poetry/audio/p051-human.m4a",
+    "bytes": 209510,
+    "sha256": "7c8c02e9e0dcd167de91d30c9b235c4929f35e243ca8b2ff098fbc84d84c3a22"
+  },
+  {
+    "path": "usb/poetry/audio/p051.m4a",
+    "bytes": 324958,
+    "sha256": "31ebb7d7c83b9ec77bee2bac2d5efee2c44a2e2c9db014d63faa747c811d4222"
+  },
+  {
+    "path": "usb/poetry/audio/p052-edge-meaning.m4a",
+    "bytes": 97358,
+    "sha256": "eb3f52a5d267be4c1856cf408e729ff4afa7b22516dac56c797ea7a3d2eb1d22"
+  },
+  {
+    "path": "usb/poetry/audio/p052-human.m4a",
+    "bytes": 257500,
+    "sha256": "ea960b7dd51c0ea75635b0a82cd9dc00535f15cc06a64d29fec3db0565444110"
+  },
+  {
+    "path": "usb/poetry/audio/p052.m4a",
+    "bytes": 444819,
+    "sha256": "d8af7a9662b7bc40f5d8ae424dea3b504a3aa019368445bd072707393f081649"
+  },
+  {
+    "path": "usb/poetry/audio/p053-edge-meaning.m4a",
+    "bytes": 114682,
+    "sha256": "9e046c70ed998d6ac73d821abc09e5ac1af1504446bae867a14c617d011a3d61"
+  },
+  {
+    "path": "usb/poetry/audio/p053-human.m4a",
+    "bytes": 171171,
+    "sha256": "6020a46215de41c522b8032f8b8218c6268ed2eea4f477252133ed2094582eb2"
+  },
+  {
+    "path": "usb/poetry/audio/p053.m4a",
+    "bytes": 346754,
+    "sha256": "c1b64a46658cfec3ff410b50726326d6b621ab9066397b501c2563cee181128a"
+  },
+  {
+    "path": "usb/poetry/audio/p054-edge-meaning.m4a",
+    "bytes": 99037,
+    "sha256": "c7877a848bcfb005a5eb40ec1960a1e3337273a6200e26acd3fce42ba38a5124"
+  },
+  {
+    "path": "usb/poetry/audio/p054-human.m4a",
+    "bytes": 198683,
+    "sha256": "17e1e9ea349e453dc8e422805b92f2f566ef2882052d1e24798f1aa7643c81f6"
+  },
+  {
+    "path": "usb/poetry/audio/p054.m4a",
+    "bytes": 355791,
+    "sha256": "5a882a207287c46ac91d86be1ab14c4d003891a32a77f5df5e3eda5647aebd0b"
+  },
+  {
+    "path": "usb/poetry/audio/p055-edge-meaning.m4a",
+    "bytes": 87907,
+    "sha256": "7f7338715e885c4a772289fdce0801ca25dc323e59149d89fc189d16b60d1295"
+  },
+  {
+    "path": "usb/poetry/audio/p055-human.m4a",
+    "bytes": 146057,
+    "sha256": "aeb328267ecc143b2f124543ca98de1634b7fb3b01008b75cb32de06e5bf4ec2"
+  },
+  {
+    "path": "usb/poetry/audio/p055.m4a",
+    "bytes": 333710,
+    "sha256": "4551cce01879f1ac6e467e86cbebd364efb02b2517649e2c8ea3b6a6e7de715c"
+  },
+  {
+    "path": "usb/poetry/audio/p056-edge-meaning.m4a",
+    "bytes": 103595,
+    "sha256": "6e3a5a5c17ef169936f3a2aa2e7490b4e008585f9b2c6a8e1af3e577e5da2ab2"
+  },
+  {
+    "path": "usb/poetry/audio/p056-human.m4a",
+    "bytes": 200752,
+    "sha256": "1f0b6993632e59c6c4e921092821163578c3185a289a0eaa0c0d11c0dea12386"
+  },
+  {
+    "path": "usb/poetry/audio/p056.m4a",
+    "bytes": 397584,
+    "sha256": "6acd7ba14fecacc9ee3f4336dc29db3a36ffe9159c8f539b6aa02f941840f153"
+  },
+  {
+    "path": "usb/poetry/audio/p057-edge-meaning.m4a",
+    "bytes": 104468,
+    "sha256": "b069a858bf2b5f63e1ed4fcf07d746712e0345a0ea8c1355f64f9a05c7d3185f"
+  },
+  {
+    "path": "usb/poetry/audio/p057-human.m4a",
+    "bytes": 218247,
+    "sha256": "37189c25777fc638a3e338ab94f265193aac37b38ae3af24c7f19a32c8955f5a"
+  },
+  {
+    "path": "usb/poetry/audio/p057.m4a",
+    "bytes": 375735,
+    "sha256": "f39da013ea3abdd9aaa2f6b1322629025d87a742034655061574067995cf6ef5"
+  },
+  {
+    "path": "usb/poetry/audio/p058-edge-meaning.m4a",
+    "bytes": 93109,
+    "sha256": "d1111219d5707cd78336dc6479eba3e1eadedabbf37e8365c7a22fc49b96ee3e"
+  },
+  {
+    "path": "usb/poetry/audio/p058-human.m4a",
+    "bytes": 200912,
+    "sha256": "b6a0453b1ce560cbc62026b1a8cc6eacbfdfbaac8a48edbe55e8f3649f431b4c"
+  },
+  {
+    "path": "usb/poetry/audio/p058.m4a",
+    "bytes": 362773,
+    "sha256": "98874cc5804eedcf92f78787304caef6fe360e354aba574264b94286aff85996"
+  },
+  {
+    "path": "usb/poetry/audio/p059-edge-meaning.m4a",
+    "bytes": 127774,
+    "sha256": "6d2c6818a7c58b488c6bdbc68f1e3859c2aa84b7e75d5d315fd1c1ea169c56fa"
+  },
+  {
+    "path": "usb/poetry/audio/p059-human.m4a",
+    "bytes": 290735,
+    "sha256": "4d56148507517d8010d31cbe4675855456c9eaf1abb98634f5281ee885814b03"
+  },
+  {
+    "path": "usb/poetry/audio/p059.m4a",
+    "bytes": 448323,
+    "sha256": "a895b475abba0fa893b561e0922e8047bd10b8a4b5e2864edc6129cf852f2d9a"
+  },
+  {
+    "path": "usb/poetry/audio/p060-edge-meaning.m4a",
+    "bytes": 128532,
+    "sha256": "333240fa61848d8f6e01926ff07a1b1e4ad8995e2d73f7d302a472401f975109"
+  },
+  {
+    "path": "usb/poetry/audio/p060-human.m4a",
+    "bytes": 332261,
+    "sha256": "09b55ffd7fd4ef353a683caf4ee8367c2ce345eaff588e230f62b0215158ff7b"
+  },
+  {
+    "path": "usb/poetry/audio/p060.m4a",
+    "bytes": 632883,
+    "sha256": "9a6ed9b9444674d46098c6e13dd914b66f7f0fbe627322373924e98d1bcabbe6"
+  },
+  {
+    "path": "usb/poetry/audio/p061-edge-meaning.m4a",
+    "bytes": 87815,
+    "sha256": "443f81ce012b7e5dbccd009d1b75d41e0f26f3f718c17aa66bbbc2f6800970fc"
+  },
+  {
+    "path": "usb/poetry/audio/p061-human.m4a",
+    "bytes": 205250,
+    "sha256": "5b5e2ec6546d22aa4e7bede6aad5f1acf7d676fae550d5e218b644240e01e7fd"
+  },
+  {
+    "path": "usb/poetry/audio/p061.m4a",
+    "bytes": 307743,
+    "sha256": "8970bf98b681b205b8bfe3018f5bfcec6befea22a1b5b33436b33931df6cf136"
+  },
+  {
+    "path": "usb/poetry/audio/p062-edge-meaning.m4a",
+    "bytes": 89557,
+    "sha256": "b99e99511f67dd82bb242d329cab6355940e3dd46cb8467342310dc3282e6b16"
+  },
+  {
+    "path": "usb/poetry/audio/p062-human.m4a",
+    "bytes": 205916,
+    "sha256": "68ba24ad8fbd3b1043551eb6f031ceebc0a004db0d17eaf7679b0d27eb73a3d3"
+  },
+  {
+    "path": "usb/poetry/audio/p062.m4a",
+    "bytes": 360286,
+    "sha256": "e021f956c2c9857b20a6672d1b6e10703983b8af9bdf40a0c546c070fd98e8e1"
+  },
+  {
+    "path": "usb/poetry/audio/p063-edge-meaning.m4a",
+    "bytes": 94234,
+    "sha256": "5149ff1ccf3a55a408542875b6ac06757b14b3fcac6b2f69f9b0f2b841878bea"
+  },
+  {
+    "path": "usb/poetry/audio/p063-human.m4a",
+    "bytes": 195306,
+    "sha256": "e27627edde0d129176fbe7fbce86bd40bab361a964eb9dc8acf0d3ae59baa590"
+  },
+  {
+    "path": "usb/poetry/audio/p063.m4a",
+    "bytes": 333254,
+    "sha256": "f9ba4c10a12113c2f84c067c8b15b00e3d3bf1d62b3ca9518e018dc98522656c"
+  },
+  {
+    "path": "usb/poetry/audio/p064-edge-meaning.m4a",
+    "bytes": 105070,
+    "sha256": "82a32765483cadd23147889232ad11072a0c7bc2a1112c23d9ee8db3da835998"
+  },
+  {
+    "path": "usb/poetry/audio/p064-human.m4a",
+    "bytes": 218039,
+    "sha256": "e38b4e7a32804ac590029c09949bafdb05e292e214be98bc22786c1945e452fb"
+  },
+  {
+    "path": "usb/poetry/audio/p064.m4a",
+    "bytes": 316462,
+    "sha256": "6f7beb5257cdf3f5090728a79a75d770663dde2d707c8b361f1aeae16ce4ce3c"
+  },
+  {
+    "path": "usb/poetry/audio/p065-edge-meaning.m4a",
+    "bytes": 98203,
+    "sha256": "2151217d283a17244b01e3b94f50fca62f2daf8ff9ca3bbaf25fe3a4a119c223"
+  },
+  {
+    "path": "usb/poetry/audio/p065-human.m4a",
+    "bytes": 165778,
+    "sha256": "08d49bde81ada6a117a41a072a8d8d18462fa36af18a423a075752aeedba3138"
+  },
+  {
+    "path": "usb/poetry/audio/p065.m4a",
+    "bytes": 322637,
+    "sha256": "21d57a19e98a0234bfc6d274dbb0f6695fdbc2834dd4a0856e94c99320500dd7"
+  },
+  {
+    "path": "usb/poetry/audio/p066-edge-meaning.m4a",
+    "bytes": 94952,
+    "sha256": "bbc6a7a59aa18423f7cdbf8338cfd11748be63343f0580a799661bcf133cf4d1"
+  },
+  {
+    "path": "usb/poetry/audio/p066-human.m4a",
+    "bytes": 200559,
+    "sha256": "57eaaa064bde2e2c7904258dd847a12e4c422c393a699f89cb0fdd429b679629"
+  },
+  {
+    "path": "usb/poetry/audio/p066.m4a",
+    "bytes": 337746,
+    "sha256": "3e7ffa4bbfa656b166a932ea0aec0f16ab3ff232ec1b1f715536003b0f8e06c9"
+  },
+  {
+    "path": "usb/poetry/audio/p067-edge-meaning.m4a",
+    "bytes": 98373,
+    "sha256": "8cc3fb2aab07a14d57c934800ed74214ce6b75ebc92cd7bdafd3a62c9c84b1fd"
+  },
+  {
+    "path": "usb/poetry/audio/p067-human.m4a",
+    "bytes": 201665,
+    "sha256": "c149e1be98c43098b2fc461e720bd67087d548b42a49c4d59cd9f54f0aaa91a7"
+  },
+  {
+    "path": "usb/poetry/audio/p067.m4a",
+    "bytes": 345064,
+    "sha256": "bcc204f01fd3d5638bca1d7239cf0da58144e9d5017c5a292991b6dfd855b8ef"
+  },
+  {
+    "path": "usb/poetry/audio/p068-edge-meaning.m4a",
+    "bytes": 84796,
+    "sha256": "fd3e0a2694fa1b0e83ab1fd9b697b6c2d31896b1c8c3af54ce67e935f936e179"
+  },
+  {
+    "path": "usb/poetry/audio/p068-human.m4a",
+    "bytes": 177170,
+    "sha256": "0bbd40bfc050c10a413d48985e1974c200f834edf844d8cc9e1dead8fcfe8ae9"
+  },
+  {
+    "path": "usb/poetry/audio/p068.m4a",
+    "bytes": 377114,
+    "sha256": "5f85597fa6caf7ae70dd085052508af9d608622c78043ac8e5b05a95268e9143"
+  },
+  {
+    "path": "usb/poetry/audio/p069-edge-meaning.m4a",
+    "bytes": 101325,
+    "sha256": "32b028c89e41321081f42c9d6266892ecfa19f023c61c30d35643d0133b0e54f"
+  },
+  {
+    "path": "usb/poetry/audio/p069-human.m4a",
+    "bytes": 184068,
+    "sha256": "f292560305772416ed873dbb2b6e0e04da7ebacd212eb8434fa1d84882ad1197"
+  },
+  {
+    "path": "usb/poetry/audio/p069.m4a",
+    "bytes": 427872,
+    "sha256": "215f922125146548d2c08a6ceac2569a3981ba3fbe158c40337e632dbfecd8be"
+  },
+  {
+    "path": "usb/poetry/audio/p070-edge-meaning.m4a",
+    "bytes": 91378,
+    "sha256": "4d9f3f4c4943fe67608790ff84a38c2ae9bc20c6774ded66863c62d0f82140b5"
+  },
+  {
+    "path": "usb/poetry/audio/p070-human.m4a",
+    "bytes": 170150,
+    "sha256": "4733b7dc8229cc1ee4a5a3bc27820d67b13ca720c912d55bd16a4f0fba575808"
+  },
+  {
+    "path": "usb/poetry/audio/p070.m4a",
+    "bytes": 347999,
+    "sha256": "d3751708d49fe385dfec78b39d4b3107b03d69ce1c5a154900ce3a3f7a27bf94"
+  },
+  {
+    "path": "usb/poetry/audio/p071-edge-meaning.m4a",
+    "bytes": 106634,
+    "sha256": "bc8eade94ebe944fa840ecaff868ea04bedf7d6097c3056e5c7024fea07338b1"
+  },
+  {
+    "path": "usb/poetry/audio/p071-human.m4a",
+    "bytes": 228508,
+    "sha256": "53163b3f97e46a4bf99cdf5cb29031072a159d2cfd89c1af710c26e590de84e3"
+  },
+  {
+    "path": "usb/poetry/audio/p071.m4a",
+    "bytes": 346315,
+    "sha256": "0c0ce9d61c5e8e5d42c97e1c69c3ff9e55cbefde38bdcb196c137d9d5fdf13bb"
+  },
+  {
+    "path": "usb/poetry/audio/p072-edge-meaning.m4a",
+    "bytes": 104550,
+    "sha256": "65f63c33f4273349acdfbcf22189f026a4a6f969a833f9b3a291d9599f9e9294"
+  },
+  {
+    "path": "usb/poetry/audio/p072-human.m4a",
+    "bytes": 292287,
+    "sha256": "1e39da9931f6bbbb63809e17cf8531bdc6071d97751fbd41226f4a06e62d34d6"
+  },
+  {
+    "path": "usb/poetry/audio/p072.m4a",
+    "bytes": 503618,
+    "sha256": "30dc649c3b023037c67a399bcd60564692cd4f4e917407bd4299fbbd08c9cdfb"
+  },
+  {
+    "path": "usb/poetry/audio/p073-edge-meaning.m4a",
+    "bytes": 92918,
+    "sha256": "9bc286983b0b9d07d54947597f6b9ebfc99b7f8ec705ee471d9e7532ff1d601c"
+  },
+  {
+    "path": "usb/poetry/audio/p073-human.m4a",
+    "bytes": 194243,
+    "sha256": "7b4bf8f1ffade19790245c690026c22e4a479978694d0ab48e1f154f94a0744d"
+  },
+  {
+    "path": "usb/poetry/audio/p073.m4a",
+    "bytes": 366237,
+    "sha256": "826b54181ecdf0dcef8a9ebb61154b6664a6ff3b9ab8c24a450b68c64819b4e6"
+  },
+  {
+    "path": "usb/poetry/audio/p074-edge-meaning.m4a",
+    "bytes": 96778,
+    "sha256": "e27552d05cad8ec7851f905b4b541956406dee48582acef483122aea8b914b15"
+  },
+  {
+    "path": "usb/poetry/audio/p074-human.m4a",
+    "bytes": 196823,
+    "sha256": "5edfbf4db1574607bcac27bd232273de8fcfe2ad2572ac644460a317274aae32"
+  },
+  {
+    "path": "usb/poetry/audio/p074.m4a",
+    "bytes": 415300,
+    "sha256": "e7b7f8b0c68aa5fa3cbbc4c735941811fb53e146c7c375810335d68bff4748e9"
+  },
+  {
+    "path": "usb/poetry/audio/p075-edge-meaning.m4a",
+    "bytes": 95365,
+    "sha256": "fe80b7f05b34a4ab6aab9d486002fc8a6322c6d0516dca602ed27da619cf1100"
+  },
+  {
+    "path": "usb/poetry/audio/p075-human.m4a",
+    "bytes": 209540,
+    "sha256": "81c74913b80563260342e2656a215d59a5c756ac16c9000a4a0c2b99c905cfd2"
+  },
+  {
+    "path": "usb/poetry/audio/p075.m4a",
+    "bytes": 306429,
+    "sha256": "4ce3933a95253bcbb141c4055e89458788ac14748341d3138367f3e0bc47ac47"
+  },
+  {
+    "path": "usb/poetry/audio/p076-edge-meaning.m4a",
+    "bytes": 94593,
+    "sha256": "a0b8beedb4248d37d8171ddc06397660c09c3c32ca1ad5cdd8e55179b0c55b97"
+  },
+  {
+    "path": "usb/poetry/audio/p076-human.m4a",
+    "bytes": 214844,
+    "sha256": "2c4e08b50f0c44f6edd6ff053979826ee6a6329280e0f664c3d196de1907aae8"
+  },
+  {
+    "path": "usb/poetry/audio/p076.m4a",
+    "bytes": 325882,
+    "sha256": "7d0912f83ab84a24957597587a1f08277b8b0c245f44d22d8f6f5607b2886505"
+  },
+  {
+    "path": "usb/poetry/audio/p077-edge-meaning.m4a",
+    "bytes": 109774,
+    "sha256": "8241724132efa4bf399bb1a33e515a849e92bc38fd619319c6ba23d72ae2806f"
+  },
+  {
+    "path": "usb/poetry/audio/p077-human.m4a",
+    "bytes": 184865,
+    "sha256": "2e2d1fd944630211cad11202117fa8fd9afa0a286dc1808ea4fd6cc5737102eb"
+  },
+  {
+    "path": "usb/poetry/audio/p077.m4a",
+    "bytes": 364952,
+    "sha256": "d21b887381975d01e8ff8981eaa38fe85e15f1f834e7d51bef744d2b3626d855"
+  },
+  {
+    "path": "usb/poetry/audio/p078-edge-meaning.m4a",
+    "bytes": 91008,
+    "sha256": "11ad2abfb783f70e4b643318228c97bac11fa61d64ad43442063554b3061c618"
+  },
+  {
+    "path": "usb/poetry/audio/p078-human.m4a",
+    "bytes": 215786,
+    "sha256": "d303386913854086f54cd97c4cc87eac5655c2229461d1ec0dcb0043de1ab259"
+  },
+  {
+    "path": "usb/poetry/audio/p078.m4a",
+    "bytes": 347880,
+    "sha256": "55c03374bdeda59715d0a562dc567cab8198136010b5ea8d59cf17a5b0d7a82d"
+  },
+  {
+    "path": "usb/poetry/audio/p079-edge-meaning.m4a",
+    "bytes": 99985,
+    "sha256": "7aa531990482732f49087c8f9a96ba089b00000cb204ca56e8273d98081f305c"
+  },
+  {
+    "path": "usb/poetry/audio/p079-human.m4a",
+    "bytes": 169488,
+    "sha256": "43480ca59830d61e637391a5085b3913151c0f97c1331233b5e1b97a7e6e0275"
+  },
+  {
+    "path": "usb/poetry/audio/p079.m4a",
+    "bytes": 356678,
+    "sha256": "de5c83e36e3083d047d2569cecc0987642881e58598022697db16c5225add5d1"
+  },
+  {
+    "path": "usb/poetry/audio/p080-edge-meaning.m4a",
+    "bytes": 104424,
+    "sha256": "f9b100032efeb8b223e5f8f76050051a121efe69dc7f7c388fc653aafd6e7ffd"
+  },
+  {
+    "path": "usb/poetry/audio/p080-human.m4a",
+    "bytes": 228508,
+    "sha256": "53163b3f97e46a4bf99cdf5cb29031072a159d2cfd89c1af710c26e590de84e3"
+  },
+  {
+    "path": "usb/poetry/audio/p080.m4a",
+    "bytes": 346315,
+    "sha256": "0c0ce9d61c5e8e5d42c97e1c69c3ff9e55cbefde38bdcb196c137d9d5fdf13bb"
+  },
+  {
+    "path": "usb/poetry/audio/p081-edge-meaning.m4a",
+    "bytes": 98450,
+    "sha256": "33e40d19453f137255697e927454e37d5d7f08af54859ea5555a944335ebc768"
+  },
+  {
+    "path": "usb/poetry/audio/p081-human.m4a",
+    "bytes": 180293,
+    "sha256": "32c5b0983c8bb41c3283b7b91b8eca9cbea87b0cdab111afe97734437a70eb72"
+  },
+  {
+    "path": "usb/poetry/audio/p081.m4a",
+    "bytes": 315862,
+    "sha256": "fcc76df21153705d73f1e95709b98fda717c702535ab28bdd8ee95755d203868"
+  },
+  {
+    "path": "usb/poetry/audio/p082-edge-meaning.m4a",
+    "bytes": 97300,
+    "sha256": "90f224f011281fa926b55fbacc807a544b0e85d28dc867c0b0952d462330244e"
+  },
+  {
+    "path": "usb/poetry/audio/p082-human.m4a",
+    "bytes": 186088,
+    "sha256": "7470ab2e866658675368d85ce7af39a6d06026d52de10684f4397b4287adb425"
+  },
+  {
+    "path": "usb/poetry/audio/p082.m4a",
+    "bytes": 321856,
+    "sha256": "2377ddb89be78e30ff0e904dd4a27f56d863ba215504a874d45ba13b701878fd"
+  },
+  {
+    "path": "usb/poetry/audio/p083-edge-meaning.m4a",
+    "bytes": 98048,
+    "sha256": "f50000dd442dc2010c67b84a2488bb8f4fb89ffb861e98c471300f54f00a9187"
+  },
+  {
+    "path": "usb/poetry/audio/p083-human.m4a",
+    "bytes": 242903,
+    "sha256": "a5d7ca672ad0a03b71ebc19ef0213a4edf7f59012b581599b408d44d1da1a2e0"
+  },
+  {
+    "path": "usb/poetry/audio/p083.m4a",
+    "bytes": 376641,
+    "sha256": "52fd960a01f3129dceef03b5517e47c98b9b2306b8a5a6f30a657a16771c65e4"
+  },
+  {
+    "path": "usb/poetry/audio/p084-edge-meaning.m4a",
+    "bytes": 103494,
+    "sha256": "3a9a2be6d58e30ac65b5d9de79783a401fba4a50398c14e526525265413c6027"
+  },
+  {
+    "path": "usb/poetry/audio/p084-human.m4a",
+    "bytes": 339189,
+    "sha256": "00cf6d0e93db23f27578dd9df1e0c542e495df143d6ef5812b4779495a6e4b18"
+  },
+  {
+    "path": "usb/poetry/audio/p084.m4a",
+    "bytes": 447764,
+    "sha256": "c76c2b82b4d29bdee144cfb297de7fa6aa2a7470d4c65b439cc11cb305b522ce"
+  },
+  {
+    "path": "usb/poetry/audio/p085-edge-meaning.m4a",
+    "bytes": 101631,
+    "sha256": "d4837a5d58a9dc27b8d6452d39f672058607e31934c49dcf1eaeb521cd36b7e3"
+  },
+  {
+    "path": "usb/poetry/audio/p085-human.m4a",
+    "bytes": 200172,
+    "sha256": "ce9e2b9b02906688928f7a5c952788f57f86bdc88d1d466fa80862a14c488380"
+  },
+  {
+    "path": "usb/poetry/audio/p085.m4a",
+    "bytes": 454025,
+    "sha256": "910853c8e4372d1f2cb6de7ced20d16481441e001308496ccf98d6c63cdc02cf"
+  },
+  {
+    "path": "usb/poetry/audio/p086-edge-meaning.m4a",
+    "bytes": 96809,
+    "sha256": "33c656a73976af901ccc066d5940ecd917d57dd0a879dd1109906d986445d31a"
+  },
+  {
+    "path": "usb/poetry/audio/p086-human.m4a",
+    "bytes": 257500,
+    "sha256": "ea960b7dd51c0ea75635b0a82cd9dc00535f15cc06a64d29fec3db0565444110"
+  },
+  {
+    "path": "usb/poetry/audio/p086.m4a",
+    "bytes": 444819,
+    "sha256": "d8af7a9662b7bc40f5d8ae424dea3b504a3aa019368445bd072707393f081649"
+  },
+  {
+    "path": "usb/poetry/audio/p087-edge-meaning.m4a",
+    "bytes": 98371,
+    "sha256": "5b591c4d63c9a78400c3e88e2f5fe473d79afa9b73557cfb7e04bdfc92976271"
+  },
+  {
+    "path": "usb/poetry/audio/p087-human.m4a",
+    "bytes": 215168,
+    "sha256": "aa0d70f62d0ec0af420907d3b236d2bd00368424dc2718930ae5a8736011558c"
+  },
+  {
+    "path": "usb/poetry/audio/p087.m4a",
+    "bytes": 357036,
+    "sha256": "024798b47ddc5b28a115cc6a55ac053daeeee4214e09b1b94945e80fd3d7a8b3"
+  },
+  {
+    "path": "usb/poetry/listening-segments.json",
+    "bytes": 19309,
+    "sha256": "d3e901abd20e6a8c2da94962f26d9b2a969c15587e9505b0638a57739aca1770"
+  },
+  {
+    "path": "usb/poetry/listening-sources.json",
+    "bytes": 267699,
+    "sha256": "d9985a8ccc718180d7edb8796c3d07a5d68af481ad3266baee4c8129b66ddbfc"
+  },
+  {
+    "path": "usb/poetry/poems-original.json",
+    "bytes": 62944,
+    "sha256": "bddba869cbc6b343a465af2067c2d71dc98722fb1dd1e9074778b3158a571a75"
+  },
+  {
+    "path": "usb/poetry/poems.json",
+    "bytes": 71905,
+    "sha256": "237cd748644625626cc0d780e3acea8813023ef5765d1fd550a4f437d2a9c580"
+  },
+  {
+    "path": "usb/poetry/sources.json",
+    "bytes": 30331,
+    "sha256": "d42fe7ffa2137686fe2593e3406d28f5f884243b7d113e5b973e21cc442360ab"
+  },
+  {
+    "path": "usb/poetry/使用说明.txt",
+    "bytes": 6319,
+    "sha256": "44596103fffe611fb98ed926d4910d587cbc2661d87fbf68374508502d44d6ae"
+  },
+  {
+    "path": "validation.json",
+    "bytes": 2398,
+    "sha256": "107d35c3a10a8ef17855958aa7b1c15a3058ed9ec5742e43d1952b91384f68c9"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "p032",
+  "text": "查慎行。",
+  "textSha256": "6e630d95ec8fd908e03d3e910b725215accc9638e118d6febaf13cf8514c8885",
+  "sha256": "90f79d3fb30a7102bb6878ff6af09226cf7e9ddb018873e71525165406173097",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 15260869,
+      "text": "查慎行。"
+    }
+  ],
+  "attempts": 2
+}

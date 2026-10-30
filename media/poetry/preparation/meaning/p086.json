@@ -1,0 +1,22 @@
+{
+  "id": "p086",
+  "text": "老朋友在繁花似锦的三月告别黄鹤楼，乘船东去扬州。孤帆消失在碧空尽头，送别的人仍望着长江流向天边。",
+  "textSha256": "957cc6000c73a849a275a640e4936f74136b46e580e0675c7929632de5b94580",
+  "sha256": "1a07685a7d9a70aa50e6bdb552fbd258f45a70478f3e6e649157dfcf97142036",
+  "bytes": 72720,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 59690216,
+      "text": "老朋友在繁花似锦的三月告别黄鹤楼，乘船东去扬州。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 60190216,
+      "duration": 60461955,
+      "text": "孤帆消失在碧空尽头，送别的人仍望着长江流向天边。"
+    }
+  ],
+  "attempts": 1
+}

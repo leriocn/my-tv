@@ -1,0 +1,16 @@
+{
+  "id": "p055",
+  "text": "李清照。",
+  "textSha256": "c474053fe6894aa0455d4db250099654a1875773f1d7e2e8d4c66a9664d38458",
+  "sha256": "00257b39f5e4f23bed8172047a4274bbeb6f37855c337435855ee1314e50cef8",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 13902173,
+      "text": "李清照。"
+    }
+  ],
+  "attempts": 2
+}

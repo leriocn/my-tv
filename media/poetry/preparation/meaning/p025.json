@@ -1,0 +1,16 @@
+{
+  "id": "p025",
+  "text": "六月西湖的风光与其他时节不同：莲叶接天，一望无际地碧绿；荷花映着阳光，红得格外鲜艳。",
+  "textSha256": "c2a36ee8222f3763e7a31e2b86b2ccc7e56a7329506a6ea9bb29cc60b659eb56",
+  "sha256": "fd7534219b3488558c84a4a33d4fe261d16639c3fba32485aceb63f037a4f82d",
+  "bytes": 59616,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 98277172,
+      "text": "六月西湖的风光与其他时节不同：莲叶接天，一望无际地碧绿；荷花映着阳光，红得格外鲜艳。"
+    }
+  ],
+  "attempts": 1
+}

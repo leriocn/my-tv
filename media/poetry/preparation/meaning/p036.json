@@ -1,0 +1,22 @@
+{
+  "id": "p036",
+  "text": "晴天的西湖水波闪耀，雨中的山色迷蒙，两种景色都很美。把西湖比作西施，淡妆浓妆各有风韵。",
+  "textSha256": "1a0d4e02b136c26cda59e63a45f3637b0c7500c50f2d49c2cc5f3ea865a00496",
+  "sha256": "b22d567061522782c16e88ef54739c6fbbb95be5aeb349277b3a38e9641e0ee7",
+  "bytes": 63360,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 61864129,
+      "text": "晴天的西湖水波闪耀，雨中的山色迷蒙，两种景色都很美。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 62364129,
+      "duration": 42663042,
+      "text": "把西湖比作西施，淡妆浓妆各有风韵。"
+    }
+  ],
+  "attempts": 1
+}

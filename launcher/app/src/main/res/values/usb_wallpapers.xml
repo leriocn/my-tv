@@ -1,0 +1,29 @@
+<resources>
+    <string name="usb_shortcut">U 盘</string>
+    <string name="usb_browser_hint">方向键选择，确定打开，返回键回到上一级。图片可直接预览，音视频由已有播放器打开。</string>
+    <string name="usb_no_drive">未检测到可读取的 U 盘</string>
+    <string name="usb_choose_drive">选择 U 盘</string>
+    <string name="usb_preview_media_only">此入口可打开文件夹、图片、音频和视频</string>
+    <string name="live_shortcut">电视直播</string>
+    <string name="weather_city_title">天气城市</string>
+    <string name="weather_city_state">天气城市：%1$s</string>
+    <string name="weather_enabled_state">显示天气：%1$s</string>
+    <string name="weather_source_hint">天气数据：Open-Meteo，每 30 分钟更新；农历和节气离线可用。</string>
+    <string name="app_sort_state">App order: %1$s</string>
+    <string name="app_sort_recent">Recently opened first</string>
+    <string name="app_sort_manual">Manual order</string>
+    <string name="wallpaper_source_title">Wallpaper source</string>
+    <string name="wallpaper_source_usb">USB drive /tv (local fallback)</string>
+    <string name="wallpaper_source_local">Local theme wallpapers</string>
+    <string name="wallpaper_source_state">Wallpaper source: %1$s</string>
+    <string name="wallpaper_usb_count">USB /tv · %1$d pictures</string>
+    <string name="wallpaper_usb_fallback">USB /tv unavailable or empty · using local wallpapers</string>
+    <string name="wallpaper_usb_permission">Allow storage access to read USB /tv</string>
+    <string name="wallpaper_usb_unsupported">This personal USB setup supports Android 8 and 9</string>
+    <string name="wallpaper_interval_title">Slideshow interval</string>
+    <string name="wallpaper_minutes">%1$d minutes</string>
+    <string name="wallpaper_interval_state">Slideshow interval: %1$d minutes</string>
+    <string name="wallpaper_order_state">Slideshow order: %1$s</string>
+    <string name="wallpaper_order_sequential">Filename order</string>
+    <string name="wallpaper_order_shuffle">Random</string>
+</resources>

@@ -1,0 +1,16 @@
+{
+  "id": "p008",
+  "text": "贾岛。",
+  "textSha256": "fd47fb2771300b53ebc6be54712dce47cd12c7674f142bd4bfe32cbb816e8930",
+  "sha256": "3e17e34b433876b9a4c388a24221adfbf92c7b6c8364ca1495c1945d5c587d88",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 12271738,
+      "text": "贾岛。"
+    }
+  ],
+  "attempts": 1
+}

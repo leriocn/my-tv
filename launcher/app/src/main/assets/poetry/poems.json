@@ -1,0 +1,1579 @@
+{
+  "version": 1,
+  "description": "人教版/统编六三学制一至五年级十册诗词，2026-10整理；文本与教材节选，含跨册复习。释义为本项目简明改写。",
+  "poems": [
+    {
+      "id": "p001",
+      "order": 1,
+      "grade": 1,
+      "term": 1,
+      "title": "咏鹅",
+      "author": "骆宾王",
+      "dynasty": "唐",
+      "lines": [
+        "鹅，鹅，鹅，曲项向天歌。",
+        "白毛浮绿水，红掌拨清波。"
+      ],
+      "meaning": "白鹅伸长脖子向天空鸣叫，白羽浮在绿水上，红色的脚掌轻轻划开水波，写出了鹅的姿态、颜色和动作。",
+      "audio": "audio/p001.m4a",
+      "narrator": "李辉",
+      "source": "https://www.gushiwenku.cn/shiwen/168f4f7/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450204.html"
+    },
+    {
+      "id": "p002",
+      "order": 2,
+      "grade": 1,
+      "term": 1,
+      "title": "画",
+      "author": "佚名",
+      "dynasty": "",
+      "lines": [
+        "远看山有色，近听水无声。",
+        "春去花还在，人来鸟不惊。"
+      ],
+      "meaning": "画里的远山色彩清楚，近处流水却听不到声音；春天过去花仍盛开，人走近了鸟也不惊飞，这些特点点明眼前是一幅画。",
+      "audio": "audio/p002.m4a",
+      "narrator": "徐曼",
+      "source": "https://www.gushiwenku.cn/shiwen/ac411ec/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450214.html"
+    },
+    {
+      "id": "p003",
+      "order": 3,
+      "grade": 1,
+      "term": 1,
+      "title": "悯农（其二）",
+      "author": "李绅",
+      "dynasty": "唐",
+      "lines": [
+        "锄禾日当午，汗滴禾下土。",
+        "谁知盘中餐，粒粒皆辛苦？"
+      ],
+      "meaning": "农人在正午锄地，汗水滴进泥土；碗中的每一粒粮食，都凝聚着辛勤劳作，要珍惜粮食。",
+      "audio": "audio/p003.m4a",
+      "narrator": "方亮",
+      "source": "https://www.gushiwenku.cn/shiwen/5f3cd93/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534537.html"
+    },
+    {
+      "id": "p004",
+      "order": 4,
+      "grade": 1,
+      "term": 1,
+      "title": "江南",
+      "author": "汉乐府",
+      "dynasty": "汉",
+      "lines": [
+        "江南可采莲，莲叶何田田，鱼戏莲叶间。",
+        "鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北。"
+      ],
+      "meaning": "江南正适合采莲，莲叶茂盛相连。鱼儿在莲叶间来回游动，东西南北都充满了活泼的生机。",
+      "audio": "audio/p004.m4a",
+      "narrator": "马宗武",
+      "source": "https://www.gushiwenku.cn/shiwen/824ac92/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231250.html"
+    },
+    {
+      "id": "p005",
+      "order": 5,
+      "grade": 1,
+      "term": 1,
+      "title": "古朗月行（节选）",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "小时不识月，呼作白玉盘。",
+        "又疑瑶台镜，飞在青云端。"
+      ],
+      "meaning": "小时候不认识月亮，把它叫作白玉做的圆盘，又猜它是神仙的镜子，飞到了高高的云间，表现了孩子的好奇。",
+      "audio": "audio/p005.m4a",
+      "narrator": "林溪",
+      "source": "https://www.gushiwenku.cn/shiwen/9692c5e/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231227/t20231227_526536157.html"
+    },
+    {
+      "id": "p006",
+      "order": 6,
+      "grade": 1,
+      "term": 1,
+      "title": "风",
+      "author": "李峤",
+      "dynasty": "唐",
+      "lines": [
+        "解落三秋叶，能开二月花。",
+        "过江千尺浪，入竹万竿斜。"
+      ],
+      "meaning": "风让深秋的叶子落下，也使春花开放；吹过江面掀起高浪，进入竹林又让万竿竹子倾斜，写出无形的风带来的变化。",
+      "audio": "audio/p006.m4a",
+      "narrator": "任鲁豫",
+      "source": "https://www.gushiwenku.cn/shiwen/3915bf2/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534514.html"
+    },
+    {
+      "id": "p007",
+      "order": 7,
+      "grade": 1,
+      "term": 2,
+      "title": "春晓",
+      "author": "孟浩然",
+      "dynasty": "唐",
+      "lines": [
+        "春眠不觉晓，处处闻啼鸟。",
+        "夜来风雨声，花落知多少。"
+      ],
+      "meaning": "春天睡得香，不觉天已亮，醒来听见到处有鸟鸣。想起夜里的风雨，又牵挂花朵不知落了多少。",
+      "audio": "audio/p007.m4a",
+      "narrator": "林溪",
+      "source": "https://www.gushiwenku.cn/shiwen/9b62b46/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231227/t20231227_526536289.html"
+    },
+    {
+      "id": "p008",
+      "order": 8,
+      "grade": 1,
+      "term": 2,
+      "title": "寻隐者不遇",
+      "author": "贾岛",
+      "dynasty": "唐",
+      "lines": [
+        "松下问童子，言师采药去。",
+        "只在此山中，云深不知处。"
+      ],
+      "meaning": "在松树下询问童子，才知道师父采药去了；虽说就在山中，但山高云深，无法知道具体在何处。",
+      "audio": "audio/p008.m4a",
+      "narrator": "李辉",
+      "source": "https://www.gushiwenku.cn/shiwen/09c8974/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450254.html"
+    },
+    {
+      "id": "p009",
+      "order": 9,
+      "grade": 1,
+      "term": 2,
+      "title": "赠汪伦",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "李白乘舟将欲行，忽闻岸上踏歌声。",
+        "桃花潭水深千尺，不及汪伦送我情。"
+      ],
+      "meaning": "诗人乘船将走，忽然听见岸上传来踏歌送别声。即使桃花潭水深达千尺，也比不上汪伦相送的情谊。",
+      "audio": "audio/p009.m4a",
+      "narrator": "方亮",
+      "source": "https://www.gushiwenku.cn/shiwen/abfc8be/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532346.html"
+    },
+    {
+      "id": "p010",
+      "order": 10,
+      "grade": 1,
+      "term": 2,
+      "title": "静夜思",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "床前明月光，疑是地上霜。",
+        "举头望明月，低头思故乡。"
+      ],
+      "meaning": "床前的月光明亮得像地上的白霜，诗人抬头望月，又低头思念故乡，借月色写出乡愁。",
+      "audio": "audio/p010.m4a",
+      "narrator": "贾际",
+      "source": "https://www.gushiwenku.cn/shiwen/f94de8e/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450239.html"
+    },
+    {
+      "id": "p011",
+      "order": 11,
+      "grade": 1,
+      "term": 2,
+      "title": "池上",
+      "author": "白居易",
+      "dynasty": "唐",
+      "lines": [
+        "小娃撑小艇，偷采白莲回。",
+        "不解藏踪迹，浮萍一道开。"
+      ],
+      "meaning": "孩子撑小船偷偷采莲回来，却不懂隐藏痕迹；小船推开的浮萍留下一条水路，显出了孩子的天真。",
+      "audio": "audio/p011.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/6f2b477/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231329.html"
+    },
+    {
+      "id": "p012",
+      "order": 12,
+      "grade": 1,
+      "term": 2,
+      "title": "小池",
+      "author": "杨万里",
+      "dynasty": "宋",
+      "lines": [
+        "泉眼无声惜细流，树阴照水爱晴柔。",
+        "小荷才露尖尖角，早有蜻蜓立上头。"
+      ],
+      "meaning": "泉水悄悄流淌，树影映在水中；小荷叶刚露出尖角，蜻蜓就停在上面，展现了初夏小池的细微生趣。",
+      "audio": "audio/p012.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/99847c1/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532344.html"
+    },
+    {
+      "id": "p013",
+      "order": 13,
+      "grade": 1,
+      "term": 2,
+      "title": "画鸡",
+      "author": "唐寅",
+      "dynasty": "明",
+      "lines": [
+        "头上红冠不用裁，满身雪白走将来。",
+        "平生不敢轻言语，一叫千门万户开。"
+      ],
+      "meaning": "雄鸡头顶天然的红冠，披着雪白的羽毛；平常不轻易开口，一旦啼鸣便唤醒千家万户，写出雄鸡的神气。",
+      "audio": "audio/p013.m4a",
+      "narrator": "李辉",
+      "source": "https://www.gushiwenku.cn/shiwen/dece85d/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532338.html"
+    },
+    {
+      "id": "p014",
+      "order": 14,
+      "grade": 2,
+      "term": 1,
+      "title": "梅花",
+      "author": "王安石",
+      "dynasty": "宋",
+      "lines": [
+        "墙角数枝梅，凌寒独自开。",
+        "遥知不是雪，为有暗香来。"
+      ],
+      "meaning": "墙角的梅花独自迎寒开放。远远便知道那不是白雪，因为空气中飘来了清淡的花香，赞美梅花不畏寒冷。",
+      "audio": "audio/p014.m4a",
+      "narrator": "李修平",
+      "source": "https://www.gushiwenku.cn/shiwen/76d4ae1/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450294.html"
+    },
+    {
+      "id": "p015",
+      "order": 15,
+      "grade": 2,
+      "term": 1,
+      "title": "小儿垂钓",
+      "author": "胡令能",
+      "dynasty": "唐",
+      "lines": [
+        "蓬头稚子学垂纶，侧坐莓苔草映身。",
+        "路人借问遥招手，怕得鱼惊不应人。"
+      ],
+      "meaning": "头发蓬乱的孩子侧身坐在苔草间学钓鱼。路人问路，他连忙远远招手，不敢出声，生怕惊走鱼儿。",
+      "audio": "audio/p015.m4a",
+      "narrator": "林溪",
+      "source": "https://www.gushiwenku.cn/shiwen/1d8d6f1/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231226/t20231226_526534637.html"
+    },
+    {
+      "id": "p016",
+      "order": 16,
+      "grade": 2,
+      "term": 1,
+      "title": "登鹳雀楼",
+      "author": "王之涣",
+      "dynasty": "唐",
+      "lines": [
+        "白日依山尽，黄河入海流。",
+        "欲穷千里目，更上一层楼。"
+      ],
+      "meaning": "夕阳依着山峦落下，黄河向大海奔流。若想把更远的景色看尽，就要再登上一层楼，也启发人不断进取。",
+      "audio": "audio/p016.m4a",
+      "narrator": "忠诚",
+      "source": "https://www.gushiwenku.cn/shiwen/6be1140/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231244.html"
+    },
+    {
+      "id": "p017",
+      "order": 17,
+      "grade": 2,
+      "term": 1,
+      "title": "望庐山瀑布",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "日照香炉生紫烟，遥看瀑布挂前川。",
+        "飞流直下三千尺，疑是银河落九天。"
+      ],
+      "meaning": "阳光照着香炉峰，升起紫色云烟，远处瀑布像悬挂的白练。水流从高处直落，仿佛银河从天上倾泻而下。",
+      "audio": "audio/p017.m4a",
+      "narrator": "忠诚",
+      "source": "https://www.gushiwenku.cn/shiwen/eae33c6/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450299.html"
+    },
+    {
+      "id": "p018",
+      "order": 18,
+      "grade": 2,
+      "term": 1,
+      "title": "江雪",
+      "author": "柳宗元",
+      "dynasty": "唐",
+      "lines": [
+        "千山鸟飞绝，万径人踪灭。",
+        "孤舟蓑笠翁，独钓寒江雪。"
+      ],
+      "meaning": "群山中没有飞鸟，道路上也没有行人。寒冷江面只有一位披蓑戴笠的老人，在孤舟上独自钓鱼。",
+      "audio": "audio/p018.m4a",
+      "narrator": "林溪",
+      "source": "https://www.gushiwenku.cn/shiwen/689eacb/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231227/t20231227_526536291.html"
+    },
+    {
+      "id": "p019",
+      "order": 19,
+      "grade": 2,
+      "term": 1,
+      "title": "敕勒歌",
+      "author": "北朝民歌",
+      "dynasty": "北朝",
+      "lines": [
+        "敕勒川，阴山下。",
+        "天似穹庐，笼盖四野。",
+        "天苍苍，野茫茫，风吹草低见牛羊。"
+      ],
+      "meaning": "阴山脚下的敕勒川辽阔无边，天空像大帐篷笼罩草原；风吹低牧草，成群的牛羊便显露出来。",
+      "audio": "audio/p019.m4a",
+      "narrator": "方亮",
+      "source": "https://www.gushiwenku.cn/shiwen/9848deb/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231267.html"
+    },
+    {
+      "id": "p020",
+      "order": 20,
+      "grade": 2,
+      "term": 1,
+      "title": "夜宿山寺",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "危楼高百尺，手可摘星辰。",
+        "不敢高声语，恐惊天上人。"
+      ],
+      "meaning": "山寺的高楼仿佛高达百尺，伸手似乎能摘下星星。诗人不敢大声说话，担心惊动天上的神仙。",
+      "audio": "audio/p020.m4a",
+      "narrator": "方亮",
+      "source": "https://www.gushiwenku.cn/shiwen/3ceb10b/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450296.html"
+    },
+    {
+      "id": "p021",
+      "order": 21,
+      "grade": 2,
+      "term": 2,
+      "title": "咏柳",
+      "author": "贺知章",
+      "dynasty": "唐",
+      "lines": [
+        "碧玉妆成一树高，万条垂下绿丝绦。",
+        "不知细叶谁裁出，二月春风似剪刀。"
+      ],
+      "meaning": "高高的柳树像用碧玉装扮成，垂下的柳条如千万条绿丝带；细巧的叶子仿佛是二月春风用剪刀裁出来的。",
+      "audio": "audio/p021.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/4afec3e/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783277.html"
+    },
+    {
+      "id": "p022",
+      "order": 22,
+      "grade": 2,
+      "term": 2,
+      "title": "村居",
+      "author": "高鼎",
+      "dynasty": "清",
+      "lines": [
+        "草长莺飞二月天，拂堤杨柳醉春烟。",
+        "儿童散学归来早，忙趁东风放纸鸢。"
+      ],
+      "meaning": "二月草长莺飞，柳枝拂着堤岸，笼罩在春日烟气里。孩子们放学早早回来，趁东风兴起放起风筝。",
+      "audio": "audio/p022.m4a",
+      "narrator": "朱广权",
+      "source": "https://www.gushiwenku.cn/shiwen/2c39345/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534595.html"
+    },
+    {
+      "id": "p023",
+      "order": 23,
+      "grade": 2,
+      "term": 2,
+      "title": "赋得古原草送别（节选）",
+      "author": "白居易",
+      "dynasty": "唐",
+      "lines": [
+        "离离原上草，一岁一枯荣。",
+        "野火烧不尽，春风吹又生。"
+      ],
+      "meaning": "原野上的草年年枯萎又繁盛。野火不能彻底烧尽它的生命，春风一来便重新萌发，表现出顽强的生命力。",
+      "audio": "audio/p023.m4a",
+      "narrator": "朱广权",
+      "source": "https://www.gushiwenku.cn/shiwen/dca8ec0/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534569.html"
+    },
+    {
+      "id": "p024",
+      "order": 24,
+      "grade": 2,
+      "term": 2,
+      "title": "绝句",
+      "author": "杜甫",
+      "dynasty": "唐",
+      "lines": [
+        "两个黄鹂鸣翠柳，一行白鹭上青天。",
+        "窗含西岭千秋雪，门泊东吴万里船。"
+      ],
+      "meaning": "黄鹂在翠柳间鸣叫，白鹭排成一行飞向蓝天；窗口像画框装着西岭积雪，门前停着从远方东吴来的船。",
+      "audio": "audio/p024.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/25bfe6c/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783741.html"
+    },
+    {
+      "id": "p025",
+      "order": 25,
+      "grade": 2,
+      "term": 2,
+      "title": "晓出净慈寺送林子方",
+      "author": "杨万里",
+      "dynasty": "宋",
+      "lines": [
+        "毕竟西湖六月中，风光不与四时同。",
+        "接天莲叶无穷碧，映日荷花别样红。"
+      ],
+      "meaning": "六月西湖的风光与其他时节不同：莲叶接天，一望无际地碧绿；荷花映着阳光，红得格外鲜艳。",
+      "audio": "audio/p025.m4a",
+      "narrator": "原杰",
+      "source": "https://www.gushiwenku.cn/shiwen/59b23b9/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783743.html"
+    },
+    {
+      "id": "p026",
+      "order": 26,
+      "grade": 2,
+      "term": 2,
+      "title": "悯农（其一）",
+      "author": "李绅",
+      "dynasty": "唐",
+      "lines": [
+        "春种一粒粟，秋收万颗子。",
+        "四海无闲田，农夫犹饿死。"
+      ],
+      "meaning": "春天播下一粒谷种，秋天便可收获许多粮食。天下没有荒闲的田地，辛苦耕作的农人却仍有人饿死，流露出对农人的同情。",
+      "audio": "audio/p026.m4a",
+      "narrator": "原杰",
+      "source": "https://www.gushiwenku.cn/shiwen/aebfdde/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783706.html"
+    },
+    {
+      "id": "p027",
+      "order": 27,
+      "grade": 2,
+      "term": 2,
+      "title": "江上渔者",
+      "author": "范仲淹",
+      "dynasty": "宋",
+      "lines": [
+        "江上往来人，但爱鲈鱼美。",
+        "君看一叶舟，出没风波里。"
+      ],
+      "meaning": "江上来往的人们只赞美鲈鱼味道鲜美，却很少想到捕鱼人的辛劳；请看那小小渔船，正出没在风浪之中。",
+      "audio": "audio/p027.m4a",
+      "narrator": "陈星",
+      "source": "https://www.gushiwenku.cn/shiwen/bc58add/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531301.html"
+    },
+    {
+      "id": "p028",
+      "order": 28,
+      "grade": 3,
+      "term": 1,
+      "title": "所见",
+      "author": "袁枚",
+      "dynasty": "清",
+      "lines": [
+        "牧童骑黄牛，歌声振林樾。",
+        "意欲捕鸣蝉，忽然闭口立。"
+      ],
+      "meaning": "牧童骑着黄牛，响亮的歌声回荡在林间。忽然想捕捉树上的蝉，便马上闭嘴站住，表现了孩子机灵的神态。",
+      "audio": "audio/p028.m4a",
+      "narrator": "贺红梅",
+      "source": "https://www.gushiwenku.cn/shiwen/18a13e2/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533933.html"
+    },
+    {
+      "id": "p029",
+      "order": 29,
+      "grade": 3,
+      "term": 1,
+      "title": "望洞庭",
+      "author": "刘禹锡",
+      "dynasty": "唐",
+      "lines": [
+        "湖光秋月两相和，潭面无风镜未磨。",
+        "遥望洞庭山水翠，白银盘里一青螺。"
+      ],
+      "meaning": "秋月与湖光交融，无风的湖面像未经磨亮的镜子。远望青翠的君山，像白银盘中放着一枚青螺。",
+      "audio": "audio/p029.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/8a92bb1/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784094.html"
+    },
+    {
+      "id": "p030",
+      "order": 30,
+      "grade": 3,
+      "term": 1,
+      "title": "山行",
+      "author": "杜牧",
+      "dynasty": "唐",
+      "lines": [
+        "远上寒山石径斜，白云生处有人家。",
+        "停车坐爱枫林晚，霜叶红于二月花。"
+      ],
+      "meaning": "石头小路弯弯伸向深秋的山中，白云升起处住着人家。诗人因喜爱傍晚枫林而停车，霜染红叶比春花更鲜艳。",
+      "audio": "audio/p030.m4a",
+      "narrator": "黎江",
+      "source": "https://www.gushiwenku.cn/shiwen/ac94142/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784993.html"
+    },
+    {
+      "id": "p031",
+      "order": 31,
+      "grade": 3,
+      "term": 1,
+      "title": "夜书所见",
+      "author": "叶绍翁",
+      "dynasty": "宋",
+      "lines": [
+        "萧萧梧叶送寒声，江上秋风动客情。",
+        "知有儿童挑促织，夜深篱落一灯明。"
+      ],
+      "meaning": "梧桐叶沙沙作响，江上秋风勾起旅人的思乡之情。夜深时篱笆旁还有灯火，诗人猜想是孩子正在捉蟋蟀。",
+      "audio": "audio/p031.m4a",
+      "narrator": "黎江",
+      "source": "https://www.gushiwenku.cn/shiwen/2d2b50a/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784972.html"
+    },
+    {
+      "id": "p032",
+      "order": 32,
+      "grade": 3,
+      "term": 1,
+      "title": "舟夜书所见",
+      "author": "查慎行",
+      "dynasty": "清",
+      "lines": [
+        "月黑见渔灯，孤光一点萤。",
+        "微微风簇浪，散作满河星。"
+      ],
+      "meaning": "漆黑的水面上亮着一盏渔灯，远看如萤火般微小。风吹起细浪，灯光的倒影便散成了满河的星星。",
+      "audio": "audio/p032.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/6c93dc9/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783566.html"
+    },
+    {
+      "id": "p033",
+      "order": 33,
+      "grade": 3,
+      "term": 1,
+      "title": "早发白帝城",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "朝辞白帝彩云间，千里江陵一日还。",
+        "两岸猿声啼不住，轻舟已过万重山。"
+      ],
+      "meaning": "清晨告别彩云间的白帝城，一天就顺流到达千里外的江陵。两岸猿啼还在耳边，轻快的小船已越过层层山峦。",
+      "audio": "audio/p033.m4a",
+      "narrator": "陈智鹏",
+      "source": "https://www.gushiwenku.cn/shiwen/d0c2932/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533931.html"
+    },
+    {
+      "id": "p034",
+      "order": 34,
+      "grade": 3,
+      "term": 1,
+      "title": "鹿柴",
+      "author": "王维",
+      "dynasty": "唐",
+      "lines": [
+        "空山不见人，但闻人语响。",
+        "返景入深林，复照青苔上。"
+      ],
+      "meaning": "空山中看不见人，只听见远处传来人声。夕阳的返照射进深林，又照到青苔上，更显山林幽静。",
+      "audio": "audio/p034.m4a",
+      "narrator": "宝晓峰",
+      "source": "https://www.gushiwenku.cn/shiwen/8f82b5d/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534857.html"
+    },
+    {
+      "id": "p035",
+      "order": 35,
+      "grade": 3,
+      "term": 1,
+      "title": "望天门山",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "天门中断楚江开，碧水东流至此回。",
+        "两岸青山相对出，孤帆一片日边来。"
+      ],
+      "meaning": "长江冲开天门山，碧绿江水在这里回旋。小船行进中，两岸青山仿佛迎面而来，一片孤帆从日边驶来。",
+      "audio": "audio/p035.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/37713ed/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231223/t20231223_526532354.html"
+    },
+    {
+      "id": "p036",
+      "order": 36,
+      "grade": 3,
+      "term": 1,
+      "title": "饮湖上初晴后雨",
+      "author": "苏轼",
+      "dynasty": "宋",
+      "lines": [
+        "水光潋滟晴方好，山色空濛雨亦奇。",
+        "欲把西湖比西子，淡妆浓抹总相宜。"
+      ],
+      "meaning": "晴天的西湖水波闪耀，雨中的山色迷蒙，两种景色都很美。把西湖比作西施，淡妆浓妆各有风韵。",
+      "audio": "audio/p036.m4a",
+      "narrator": "贾际",
+      "source": "https://www.gushiwenku.cn/shiwen/02cdcab/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784106.html"
+    },
+    {
+      "id": "p037",
+      "order": 37,
+      "grade": 3,
+      "term": 1,
+      "title": "采莲曲",
+      "author": "王昌龄",
+      "dynasty": "唐",
+      "lines": [
+        "荷叶罗裙一色裁，芙蓉向脸两边开。",
+        "乱入池中看不见，闻歌始觉有人来。"
+      ],
+      "meaning": "采莲姑娘的绿裙仿佛与荷叶融为一体，荷花又映着她们的面庞。人融入荷塘难以分辨，听到歌声才发现有人。",
+      "audio": "audio/p037.m4a",
+      "narrator": "姚科",
+      "source": "https://www.gushiwenku.cn/shiwen/551211f/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533974.html"
+    },
+    {
+      "id": "p038",
+      "order": 38,
+      "grade": 3,
+      "term": 2,
+      "title": "绝句",
+      "author": "杜甫",
+      "dynasty": "唐",
+      "lines": [
+        "迟日江山丽，春风花草香。",
+        "泥融飞燕子，沙暖睡鸳鸯。"
+      ],
+      "meaning": "春日江山明丽，春风送来花草香气。燕子衔着湿泥忙筑巢，鸳鸯安睡在温暖沙地上，描绘出和暖的春景。",
+      "audio": "audio/p038.m4a",
+      "narrator": "毛舟",
+      "source": "https://www.gushiwenku.cn/shiwen/67d931b/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534576.html"
+    },
+    {
+      "id": "p039",
+      "order": 39,
+      "grade": 3,
+      "term": 2,
+      "title": "惠崇春江晚景",
+      "author": "苏轼",
+      "dynasty": "宋",
+      "lines": [
+        "竹外桃花三两枝，春江水暖鸭先知。",
+        "蒌蒿满地芦芽短，正是河豚欲上时。"
+      ],
+      "meaning": "几枝桃花从竹林外开放，鸭子最先感知春江的暖意；蒌蒿长满河滩、芦芽刚出土，正是河豚将要溯江而上的时节。",
+      "audio": "audio/p039.m4a",
+      "narrator": "王大民",
+      "source": "https://www.gushiwenku.cn/shiwen/4443f41/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534579.html"
+    },
+    {
+      "id": "p040",
+      "order": 40,
+      "grade": 3,
+      "term": 2,
+      "title": "三衢道中",
+      "author": "曾几",
+      "dynasty": "宋",
+      "lines": [
+        "梅子黄时日日晴，小溪泛尽却山行。",
+        "绿阴不减来时路，添得黄鹂四五声。"
+      ],
+      "meaning": "梅子黄熟时连续晴朗，诗人乘船走到溪流尽头，再走山路。浓密的树阴仍如来时，又多了黄鹂清脆的叫声。",
+      "audio": "audio/p040.m4a",
+      "narrator": "毛舟",
+      "source": "https://www.gushiwenku.cn/shiwen/ba4a309/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534580.html"
+    },
+    {
+      "id": "p041",
+      "order": 41,
+      "grade": 3,
+      "term": 2,
+      "title": "忆江南",
+      "author": "白居易",
+      "dynasty": "唐",
+      "lines": [
+        "江南好，风景旧曾谙。",
+        "日出江花红胜火，春来江水绿如蓝。能不忆江南？"
+      ],
+      "meaning": "江南的美景曾经十分熟悉：日出时江边的花红过火焰，春天的江水碧绿如蓝草。这样美的江南，怎能不令人怀念？",
+      "audio": "audio/p041.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/9669172/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534718.html"
+    },
+    {
+      "id": "p042",
+      "order": 42,
+      "grade": 3,
+      "term": 2,
+      "title": "滁州西涧",
+      "author": "韦应物",
+      "dynasty": "唐",
+      "lines": [
+        "独怜幽草涧边生，上有黄鹂深树鸣。",
+        "春潮带雨晚来急，野渡无人舟自横。"
+      ],
+      "meaning": "诗人喜爱涧边幽草，听着深树中黄鹂鸣叫。傍晚春雨涨潮，荒野渡口没有人，只有一条小船横在水面。",
+      "audio": "audio/p042.m4a",
+      "narrator": "刘鹤佳",
+      "source": "https://www.gushiwenku.cn/shiwen/d59b33d/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534735.html"
+    },
+    {
+      "id": "p043",
+      "order": 43,
+      "grade": 3,
+      "term": 2,
+      "title": "元日",
+      "author": "王安石",
+      "dynasty": "宋",
+      "lines": [
+        "爆竹声中一岁除，春风送暖入屠苏。",
+        "千门万户曈曈日，总把新桃换旧符。"
+      ],
+      "meaning": "爆竹声送走旧年，春风带来暖意，人们饮屠苏酒迎新。朝阳照进千家万户，大家用新桃符换下旧桃符。",
+      "audio": "audio/p043.m4a",
+      "narrator": "陆洋",
+      "source": "https://www.gushiwenku.cn/shiwen/dcb4593/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534616.html"
+    },
+    {
+      "id": "p044",
+      "order": 44,
+      "grade": 3,
+      "term": 2,
+      "title": "清明",
+      "author": "杜牧",
+      "dynasty": "唐",
+      "lines": [
+        "清明时节雨纷纷，路上行人欲断魂。",
+        "借问酒家何处有？牧童遥指杏花村。"
+      ],
+      "meaning": "清明时细雨纷纷，赶路的人心情惆怅。诗人询问哪里有酒家，牧童指向远处的杏花村。",
+      "audio": "audio/p044.m4a",
+      "narrator": "张悦",
+      "source": "https://www.gushiwenku.cn/shiwen/5f6d468/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534619.html"
+    },
+    {
+      "id": "p045",
+      "order": 45,
+      "grade": 3,
+      "term": 2,
+      "title": "九月九日忆山东兄弟",
+      "author": "王维",
+      "dynasty": "唐",
+      "lines": [
+        "独在异乡为异客，每逢佳节倍思亲。",
+        "遥知兄弟登高处，遍插茱萸少一人。"
+      ],
+      "meaning": "独自在外作客，每逢节日就更加想念亲人。想到兄弟们重阳登高、佩戴茱萸时，发现团聚的人中少了自己。",
+      "audio": "audio/p045.m4a",
+      "narrator": "杨昶",
+      "source": "https://www.gushiwenku.cn/shiwen/13a36a1/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534620.html"
+    },
+    {
+      "id": "p046",
+      "order": 46,
+      "grade": 3,
+      "term": 2,
+      "title": "大林寺桃花",
+      "author": "白居易",
+      "dynasty": "唐",
+      "lines": [
+        "人间四月芳菲尽，山寺桃花始盛开。",
+        "长恨春归无觅处，不知转入此中来。"
+      ],
+      "meaning": "山下四月百花已谢，山寺里的桃花却刚盛开。诗人原本惋惜春天难寻，没想到春色竟留在这高山寺院中。",
+      "audio": "audio/p046.m4a",
+      "narrator": "张悦",
+      "source": "https://www.gushiwenku.cn/shiwen/2617f2b/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534745.html"
+    },
+    {
+      "id": "p047",
+      "order": 47,
+      "grade": 4,
+      "term": 1,
+      "title": "赠刘景文",
+      "author": "苏轼",
+      "dynasty": "宋",
+      "lines": [
+        "荷尽已无擎雨盖，菊残犹有傲霜枝。",
+        "一年好景君须记，最是橙黄橘绿时。"
+      ],
+      "meaning": "荷叶已枯，菊花虽残仍有傲霜枝干。一年中橙黄橘绿的深秋同样美好，诗人以此勉励朋友珍惜成熟的时光。",
+      "audio": "audio/p047.m4a",
+      "narrator": "常亮",
+      "source": "https://www.gushiwenku.cn/shiwen/5d9b4ac/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784981.html"
+    },
+    {
+      "id": "p048",
+      "order": 48,
+      "grade": 4,
+      "term": 1,
+      "title": "暮江吟",
+      "author": "白居易",
+      "dynasty": "唐",
+      "lines": [
+        "一道残阳铺水中，半江瑟瑟半江红。",
+        "可怜九月初三夜，露似真珠月似弓。"
+      ],
+      "meaning": "夕阳铺在江面上，一半江水碧绿，一半映出红色。初三的夜晚格外可爱，露珠像珍珠，弯月像一张弓。",
+      "audio": "audio/p048.m4a",
+      "narrator": "小草",
+      "source": "https://www.gushiwenku.cn/shiwen/bad340c/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534794.html"
+    },
+    {
+      "id": "p049",
+      "order": 49,
+      "grade": 4,
+      "term": 1,
+      "title": "题西林壁",
+      "author": "苏轼",
+      "dynasty": "宋",
+      "lines": [
+        "横看成岭侧成峰，远近高低各不同。",
+        "不识庐山真面目，只缘身在此山中。"
+      ],
+      "meaning": "从不同方向、远近高低去看，庐山呈现不同形态。之所以难认清它的全貌，正因为自己身在山中，提醒人要开阔观察角度。",
+      "audio": "audio/p049.m4a",
+      "narrator": "任鲁豫",
+      "source": "https://www.gushiwenku.cn/shiwen/f0964ed/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534802.html"
+    },
+    {
+      "id": "p050",
+      "order": 50,
+      "grade": 4,
+      "term": 1,
+      "title": "雪梅",
+      "author": "卢钺",
+      "dynasty": "宋",
+      "lines": [
+        "梅雪争春未肯降，骚人阁笔费评章。",
+        "梅须逊雪三分白，雪却输梅一段香。"
+      ],
+      "meaning": "梅花与白雪争报春色，使诗人难以评判。梅花不如雪洁白，雪却少了梅花的清香，说明各有长处。",
+      "audio": "audio/p050.m4a",
+      "narrator": "贺红梅",
+      "source": "https://www.gushiwenku.cn/shiwen/13e0eb2/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534806.html"
+    },
+    {
+      "id": "p051",
+      "order": 51,
+      "grade": 4,
+      "term": 1,
+      "title": "嫦娥",
+      "author": "李商隐",
+      "dynasty": "唐",
+      "lines": [
+        "云母屏风烛影深，长河渐落晓星沉。",
+        "嫦娥应悔偷灵药，碧海青天夜夜心。"
+      ],
+      "meaning": "烛影映着云母屏风渐渐变深，银河西沉、晨星将落。诗人借嫦娥夜夜独处月宫的传说，寄托孤寂的心情。",
+      "audio": "audio/p051.m4a",
+      "narrator": "于芳",
+      "source": "https://www.gushiwenku.cn/shiwen/b341c34/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534881.html"
+    },
+    {
+      "id": "p052",
+      "order": 52,
+      "grade": 4,
+      "term": 1,
+      "title": "黄鹤楼送孟浩然之广陵",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "故人西辞黄鹤楼，烟花三月下扬州。",
+        "孤帆远影碧空尽，唯见长江天际流。"
+      ],
+      "meaning": "老朋友在繁花似锦的三月告别黄鹤楼，乘船东去扬州。孤帆消失在碧空尽头，送别的人仍望着长江流向天边。",
+      "audio": "audio/p052.m4a",
+      "narrator": "任志宏",
+      "source": "https://www.gushiwenku.cn/shiwen/3d4e45f/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532367.html"
+    },
+    {
+      "id": "p053",
+      "order": 53,
+      "grade": 4,
+      "term": 1,
+      "title": "凉州词",
+      "author": "王翰",
+      "dynasty": "唐",
+      "lines": [
+        "葡萄美酒夜光杯，欲饮琵琶马上催。",
+        "醉卧沙场君莫笑，古来征战几人回？"
+      ],
+      "meaning": "晶莹酒杯中盛满葡萄酒，正要举杯，琵琶声便催人启程。征人即使醉卧沙场也请不要嘲笑，古往今来出征者又有多少平安归来？",
+      "audio": "audio/p053.m4a",
+      "narrator": "原杰",
+      "source": "https://www.gushiwenku.cn/shiwen/049a59e/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534840.html"
+    },
+    {
+      "id": "p054",
+      "order": 54,
+      "grade": 4,
+      "term": 1,
+      "title": "出塞",
+      "author": "王昌龄",
+      "dynasty": "唐",
+      "lines": [
+        "秦时明月汉时关，万里长征人未还。",
+        "但使龙城飞将在，不教胡马度阴山。"
+      ],
+      "meaning": "边关明月依旧，征战却延续了漫长岁月，远征的人仍未归来。诗人盼望有英勇将领守护边疆，使百姓免受战乱。",
+      "audio": "audio/p054.m4a",
+      "narrator": "原杰",
+      "source": "https://www.gushiwenku.cn/shiwen/06105e4/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534838.html"
+    },
+    {
+      "id": "p055",
+      "order": 55,
+      "grade": 4,
+      "term": 1,
+      "title": "夏日绝句",
+      "author": "李清照",
+      "dynasty": "宋",
+      "lines": [
+        "生当作人杰，死亦为鬼雄。",
+        "至今思项羽，不肯过江东。"
+      ],
+      "meaning": "活着应做人中的豪杰，死后也应成为英勇的鬼魂。诗人怀念不肯逃回江东的项羽，表达了坚持气节的态度。",
+      "audio": "audio/p055.m4a",
+      "narrator": "原杰",
+      "source": "https://www.gushiwenku.cn/shiwen/f2c11ce/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534842.html"
+    },
+    {
+      "id": "p056",
+      "order": 56,
+      "grade": 4,
+      "term": 1,
+      "title": "别董大",
+      "author": "高适",
+      "dynasty": "唐",
+      "lines": [
+        "千里黄云白日曛，北风吹雁雪纷纷。",
+        "莫愁前路无知己，天下谁人不识君。"
+      ],
+      "meaning": "昏黄云天遮住太阳，北风吹着雁群，雪花纷飞。诗人劝即将远行的朋友不要担心前路没有知己，天下谁不知道你的才华呢？",
+      "audio": "audio/p056.m4a",
+      "narrator": "陆洋",
+      "source": "https://www.gushiwenku.cn/shiwen/b4189d1/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534907.html"
+    },
+    {
+      "id": "p057",
+      "order": 57,
+      "grade": 4,
+      "term": 2,
+      "title": "四时田园杂兴（其二十五）",
+      "author": "范成大",
+      "dynasty": "宋",
+      "lines": [
+        "梅子金黄杏子肥，麦花雪白菜花稀。",
+        "日长篱落无人过，惟有蜻蜓蛱蝶飞。"
+      ],
+      "meaning": "初夏梅子金黄、杏子饱满，麦花雪白、菜花渐稀。白天变长，村民忙于田事，篱边少有人经过，只有蜻蜓蝴蝶飞舞。",
+      "audio": "audio/p057.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/4153bfc/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534717.html"
+    },
+    {
+      "id": "p058",
+      "order": 58,
+      "grade": 4,
+      "term": 2,
+      "title": "宿新市徐公店",
+      "author": "杨万里",
+      "dynasty": "宋",
+      "lines": [
+        "篱落疏疏一径深，树头新绿未成阴。",
+        "儿童急走追黄蝶，飞入菜花无处寻。"
+      ],
+      "meaning": "稀疏篱笆旁的小路伸向远处，树上新叶还未形成浓阴。孩子奔跑着追赶黄蝴蝶，蝴蝶飞入菜花中便找不到了。",
+      "audio": "audio/p058.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/2dd2173/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534719.html"
+    },
+    {
+      "id": "p059",
+      "order": 59,
+      "grade": 4,
+      "term": 2,
+      "title": "清平乐·村居",
+      "author": "辛弃疾",
+      "dynasty": "宋",
+      "lines": [
+        "茅檐低小，溪上青青草。醉里吴音相媚好，白发谁家翁媪？",
+        "大儿锄豆溪东，中儿正织鸡笼。最喜小儿亡赖，溪头卧剥莲蓬。"
+      ],
+      "meaning": "低矮茅屋旁溪水清清、青草碧绿，老夫妻用吴地方言亲切交谈。大儿子锄豆，中儿子编鸡笼，小儿子卧在溪边剥莲蓬，展现乡村家庭的温暖日常。",
+      "audio": "audio/p059.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/10b8c3d/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534721.html"
+    },
+    {
+      "id": "p060",
+      "order": 60,
+      "grade": 4,
+      "term": 2,
+      "title": "卜算子·咏梅",
+      "author": "毛泽东",
+      "dynasty": "近现代",
+      "lines": [
+        "风雨送春归，飞雪迎春到。已是悬崖百丈冰，犹有花枝俏。",
+        "俏也不争春，只把春来报。待到山花烂漫时，她在丛中笑。"
+      ],
+      "meaning": "风雨送别春天，飞雪又迎来春的消息；梅花在冰雪中挺立绽放。它不为争春而开放，只传递春讯，待群花盛开便含笑其中，赞美坚韧与谦逊。",
+      "audio": "audio/p060.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/bf7f4f0/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534902.html"
+    },
+    {
+      "id": "p061",
+      "order": 61,
+      "grade": 4,
+      "term": 2,
+      "title": "江畔独步寻花",
+      "author": "杜甫",
+      "dynasty": "唐",
+      "lines": [
+        "黄师塔前江水东，春光懒困倚微风。",
+        "桃花一簇开无主，可爱深红爱浅红？"
+      ],
+      "meaning": "黄师塔前江水向东流，春日暖意令人慵懒。临江盛开的桃花仿佛无人作主，深红浅红都使诗人喜爱不已。",
+      "audio": "audio/p061.m4a",
+      "narrator": "闻齐",
+      "source": "https://book.pep.com.cn/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534906.html"
+    },
+    {
+      "id": "p062",
+      "order": 62,
+      "grade": 4,
+      "term": 2,
+      "title": "蜂",
+      "author": "罗隐",
+      "dynasty": "唐",
+      "lines": [
+        "不论平地与山尖，无限风光尽被占。",
+        "采得百花成蜜后，为谁辛苦为谁甜？"
+      ],
+      "meaning": "无论平地还是山尖，鲜花盛开的地方都有蜜蜂。它采尽百花酿成蜂蜜后，究竟为谁辛劳，又让谁享受甜美呢？",
+      "audio": "audio/p062.m4a",
+      "narrator": "康辉",
+      "source": "https://www.gushiwenku.cn/shiwen/bb0e829/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535628.html"
+    },
+    {
+      "id": "p063",
+      "order": 63,
+      "grade": 4,
+      "term": 2,
+      "title": "独坐敬亭山",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "众鸟高飞尽，孤云独去闲。",
+        "相看两不厌，只有敬亭山。"
+      ],
+      "meaning": "群鸟已飞走，孤云也悠然飘去。诗人与敬亭山久久相望，两不相厌，借山寄托自己的孤独与亲近自然的感情。",
+      "audio": "audio/p063.m4a",
+      "narrator": "康辉",
+      "source": "https://www.gushiwenku.cn/shiwen/7c55426/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535623.html"
+    },
+    {
+      "id": "p064",
+      "order": 64,
+      "grade": 4,
+      "term": 2,
+      "title": "芙蓉楼送辛渐",
+      "author": "王昌龄",
+      "dynasty": "唐",
+      "lines": [
+        "寒雨连江夜入吴，平明送客楚山孤。",
+        "洛阳亲友如相问，一片冰心在玉壶。"
+      ],
+      "meaning": "寒雨笼罩夜晚的吴地，清晨送别朋友，只留下孤立的楚山。若洛阳亲友问起，就说自己的心仍像玉壶中的冰一样清澈纯洁。",
+      "audio": "audio/p064.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/c716520/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535596.html"
+    },
+    {
+      "id": "p065",
+      "order": 65,
+      "grade": 4,
+      "term": 2,
+      "title": "塞下曲",
+      "author": "卢纶",
+      "dynasty": "唐",
+      "lines": [
+        "月黑雁飞高，单于夜遁逃。",
+        "欲将轻骑逐，大雪满弓刀。"
+      ],
+      "meaning": "没有月光的夜里雁群惊飞，敌军首领趁夜逃遁。将士们正要率轻骑追击，大雪已落满弓和刀，写出战士的勇毅。",
+      "audio": "audio/p065.m4a",
+      "narrator": "王彤",
+      "source": "https://www.gushiwenku.cn/shiwen/b7eae90/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535597.html"
+    },
+    {
+      "id": "p066",
+      "order": 66,
+      "grade": 4,
+      "term": 2,
+      "title": "墨梅",
+      "author": "王冕",
+      "dynasty": "元",
+      "lines": [
+        "我家洗砚池头树，朵朵花开淡墨痕。",
+        "不要人夸好颜色，只留清气满乾坤。"
+      ],
+      "meaning": "洗砚池边的梅树开着淡墨色花朵。诗人不求别人赞美鲜艳颜色，只愿留下清正的气节，借墨梅表明自己的志向。",
+      "audio": "audio/p066.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/f38e404/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535598.html"
+    },
+    {
+      "id": "p067",
+      "order": 67,
+      "grade": 5,
+      "term": 1,
+      "title": "乞巧",
+      "author": "林杰",
+      "dynasty": "唐",
+      "lines": [
+        "七夕今宵看碧霄，牵牛织女渡河桥。",
+        "家家乞巧望秋月，穿尽红丝几万条。"
+      ],
+      "meaning": "七夕夜，人们望着天空，想象牛郎织女渡过鹊桥。家家面对秋月穿针引线，祈求心灵手巧，描绘了传统节日习俗。",
+      "audio": "audio/p067.m4a",
+      "narrator": "满超",
+      "source": "https://www.gushiwenku.cn/shiwen/cdf026c/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534654.html"
+    },
+    {
+      "id": "p068",
+      "order": 68,
+      "grade": 5,
+      "term": 1,
+      "title": "示儿",
+      "author": "陆游",
+      "dynasty": "宋",
+      "lines": [
+        "死去元知万事空，但悲不见九州同。",
+        "王师北定中原日，家祭无忘告乃翁。"
+      ],
+      "meaning": "诗人临终仍遗憾没有见到国家统一。他叮嘱儿子：当军队收复中原时，家祭一定要把这个消息告诉父亲。",
+      "audio": "audio/p068.m4a",
+      "narrator": "常亮",
+      "source": "https://www.gushiwenku.cn/shiwen/30a881c/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534910.html"
+    },
+    {
+      "id": "p069",
+      "order": 69,
+      "grade": 5,
+      "term": 1,
+      "title": "题临安邸",
+      "author": "林升",
+      "dynasty": "宋",
+      "lines": [
+        "山外青山楼外楼，西湖歌舞几时休？",
+        "暖风熏得游人醉，直把杭州作汴州。"
+      ],
+      "meaning": "西湖边青山与楼阁层层相连，歌舞不休。诗人讽刺只顾享乐、忘记失地的人们，竟把临时安居的杭州当成故都汴州。",
+      "audio": "audio/p069.m4a",
+      "narrator": "常亮",
+      "source": "https://www.gushiwenku.cn/shiwen/031b119/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534908.html"
+    },
+    {
+      "id": "p070",
+      "order": 70,
+      "grade": 5,
+      "term": 1,
+      "title": "己亥杂诗",
+      "author": "龚自珍",
+      "dynasty": "清",
+      "lines": [
+        "九州生气恃风雷，万马齐喑究可哀。",
+        "我劝天公重抖擞，不拘一格降人才。"
+      ],
+      "meaning": "国家焕发生机需要变革，沉默压抑的局面令人悲哀。诗人希望打破陈规，用不拘一格的方式发现和任用人才。",
+      "audio": "audio/p070.m4a",
+      "narrator": "常亮",
+      "source": "https://www.gushiwenku.cn/shiwen/172078f/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534905.html"
+    },
+    {
+      "id": "p071",
+      "order": 71,
+      "grade": 5,
+      "term": 1,
+      "title": "游子吟",
+      "author": "孟郊",
+      "dynasty": "唐",
+      "lines": [
+        "慈母手中线，游子身上衣。",
+        "临行密密缝，意恐迟迟归。",
+        "谁言寸草心，报得三春晖。"
+      ],
+      "meaning": "母亲拿着针线，为即将远行的儿子缝衣，临行缝得格外细密，担心他迟迟不归。小草般的子女心意，难以报答春日阳光般的母爱。",
+      "audio": "audio/p071.m4a",
+      "narrator": "刘静",
+      "source": "https://book.pep.com.cn/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532377.html"
+    },
+    {
+      "id": "p072",
+      "order": 72,
+      "grade": 5,
+      "term": 1,
+      "title": "山居秋暝",
+      "author": "王维",
+      "dynasty": "唐",
+      "lines": [
+        "空山新雨后，天气晚来秋。",
+        "明月松间照，清泉石上流。",
+        "竹喧归浣女，莲动下渔舟。",
+        "随意春芳歇，王孙自可留。"
+      ],
+      "meaning": "空山新雨后，傍晚透着秋凉。明月照松林，清泉流石间；洗衣姑娘归来，渔船拨开莲叶。这样的山中景致令人愿意留下。",
+      "audio": "audio/p072.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/440dd75/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534868.html"
+    },
+    {
+      "id": "p073",
+      "order": 73,
+      "grade": 5,
+      "term": 1,
+      "title": "枫桥夜泊",
+      "author": "张继",
+      "dynasty": "唐",
+      "lines": [
+        "月落乌啼霜满天，江枫渔火对愁眠。",
+        "姑苏城外寒山寺，夜半钟声到客船。"
+      ],
+      "meaning": "月落乌啼、霜气满天，诗人对着江边枫树和渔火难以入睡。夜半时，姑苏城外寒山寺的钟声传到了客船。",
+      "audio": "audio/p073.m4a",
+      "narrator": "肖玉",
+      "source": "https://www.gushiwenku.cn/shiwen/4d77ffc/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534863.html"
+    },
+    {
+      "id": "p074",
+      "order": 74,
+      "grade": 5,
+      "term": 1,
+      "title": "早春呈水部张十八员外",
+      "author": "韩愈",
+      "dynasty": "唐",
+      "lines": [
+        "天街小雨润如酥，草色遥看近却无。",
+        "最是一年春好处，绝胜烟柳满皇都。"
+      ],
+      "meaning": "京城的早春细雨滋润如酥，远望一片草色，走近却稀疏难辨。这正是一年中最好的春景，胜过后来烟柳满城的时候。",
+      "audio": "audio/p074.m4a",
+      "narrator": "王言",
+      "source": "https://www.gushiwenku.cn/shiwen/ee0b85f/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531303.html"
+    },
+    {
+      "id": "p075",
+      "order": 75,
+      "grade": 5,
+      "term": 1,
+      "title": "渔歌子",
+      "author": "张志和",
+      "dynasty": "唐",
+      "lines": [
+        "西塞山前白鹭飞，桃花流水鳜鱼肥。",
+        "青箬笠，绿蓑衣，斜风细雨不须归。"
+      ],
+      "meaning": "西塞山前白鹭飞翔，桃花映着流水，鳜鱼正肥。渔人戴青箬笠、披绿蓑衣，在斜风细雨中垂钓，流连不愿回去。",
+      "audio": "audio/p075.m4a",
+      "narrator": "付淳",
+      "source": "https://www.gushiwenku.cn/shiwen/84a494f/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534666.html"
+    },
+    {
+      "id": "p076",
+      "order": 76,
+      "grade": 5,
+      "term": 1,
+      "title": "观书有感（其一）",
+      "author": "朱熹",
+      "dynasty": "宋",
+      "lines": [
+        "半亩方塘一鉴开，天光云影共徘徊。",
+        "问渠那得清如许？为有源头活水来。"
+      ],
+      "meaning": "半亩池塘像明镜，映着天光云影。水如此清澈，是因为不断有源头活水流入，也启发人持续学习、吸收新知。",
+      "audio": "audio/p076.m4a",
+      "narrator": "黎江",
+      "source": "https://www.gushiwenku.cn/shiwen/943ac55/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534667.html"
+    },
+    {
+      "id": "p077",
+      "order": 77,
+      "grade": 5,
+      "term": 2,
+      "title": "四时田园杂兴（其三十一）",
+      "author": "范成大",
+      "dynasty": "宋",
+      "lines": [
+        "昼出耘田夜绩麻，村庄儿女各当家。",
+        "童孙未解供耕织，也傍桑阴学种瓜。"
+      ],
+      "meaning": "村里男女白天除草，夜间搓麻，各自承担劳动。孩子虽还不会耕田织布，也在桑树阴下学着种瓜，展现农家生活的勤劳与童趣。",
+      "audio": "audio/p077.m4a",
+      "narrator": "常亮",
+      "source": "https://www.gushiwenku.cn/shiwen/1336a1a/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531537.html"
+    },
+    {
+      "id": "p078",
+      "order": 78,
+      "grade": 5,
+      "term": 2,
+      "title": "稚子弄冰",
+      "author": "杨万里",
+      "dynasty": "宋",
+      "lines": [
+        "稚子金盆脱晓冰，彩丝穿取当银钲。",
+        "敲成玉磬穿林响，忽作玻璃碎地声。"
+      ],
+      "meaning": "清晨，孩子从金属盆里取出冰块，用彩线穿起当锣敲；声音清脆传过树林，忽然冰块落地，像玻璃一样碎开。",
+      "audio": "audio/p078.m4a",
+      "narrator": "任志宏",
+      "source": "https://www.gushiwenku.cn/shiwen/eb50dd5/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531535.html"
+    },
+    {
+      "id": "p079",
+      "order": 79,
+      "grade": 5,
+      "term": 2,
+      "title": "村晚",
+      "author": "雷震",
+      "dynasty": "宋",
+      "lines": [
+        "草满池塘水满陂，山衔落日浸寒漪。",
+        "牧童归去横牛背，短笛无腔信口吹。"
+      ],
+      "meaning": "池塘长满青草，水几乎漫上塘岸，落日与山影映在水波中。牧童横坐牛背，随意吹着短笛，展现乡村傍晚的自在。",
+      "audio": "audio/p079.m4a",
+      "narrator": "常亮",
+      "source": "https://www.gushiwenku.cn/shiwen/953cfcb/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531533.html"
+    },
+    {
+      "id": "p080",
+      "order": 80,
+      "grade": 5,
+      "term": 2,
+      "title": "游子吟",
+      "author": "孟郊",
+      "dynasty": "唐",
+      "lines": [
+        "慈母手中线，游子身上衣。",
+        "临行密密缝，意恐迟迟归。",
+        "谁言寸草心，报得三春晖。"
+      ],
+      "meaning": "母亲拿着针线，为即将远行的儿子缝衣，临行缝得格外细密，担心他迟迟不归。小草般的子女心意，难以报答春日阳光般的母爱。",
+      "audio": "audio/p080.m4a",
+      "narrator": "刘静",
+      "source": "https://book.pep.com.cn/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532377.html"
+    },
+    {
+      "id": "p081",
+      "order": 81,
+      "grade": 5,
+      "term": 2,
+      "title": "鸟鸣涧",
+      "author": "王维",
+      "dynasty": "唐",
+      "lines": [
+        "人闲桂花落，夜静春山空。",
+        "月出惊山鸟，时鸣春涧中。"
+      ],
+      "meaning": "人心闲静，桂花轻落，春山夜里一片宁静。月亮升起惊动了山鸟，不时有鸟鸣从春涧中传出，以声音衬托幽静。",
+      "audio": "audio/p081.m4a",
+      "narrator": "原杰",
+      "source": "https://www.gushiwenku.cn/shiwen/0a0cf85/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532372.html"
+    },
+    {
+      "id": "p082",
+      "order": 82,
+      "grade": 5,
+      "term": 2,
+      "title": "从军行",
+      "author": "王昌龄",
+      "dynasty": "唐",
+      "lines": [
+        "青海长云暗雪山，孤城遥望玉门关。",
+        "黄沙百战穿金甲，不破楼兰终不还。"
+      ],
+      "meaning": "青海上空长云遮住雪山，远望边关玉门。将士们历经战斗，铠甲都磨损了，仍立下不战胜敌人决不回乡的誓言。",
+      "audio": "audio/p082.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/aaad75e/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531518.html"
+    },
+    {
+      "id": "p083",
+      "order": 83,
+      "grade": 5,
+      "term": 2,
+      "title": "秋夜将晓出篱门迎凉有感",
+      "author": "陆游",
+      "dynasty": "宋",
+      "lines": [
+        "三万里河东入海，五千仞岳上摩天。",
+        "遗民泪尽胡尘里，南望王师又一年。"
+      ],
+      "meaning": "黄河奔流入海，华山高耸入云；沦陷地区的百姓受尽苦难，年复一年向南盼望国家军队归来，表达诗人的忧国之情。",
+      "audio": "audio/p083.m4a",
+      "narrator": "王彤",
+      "source": "https://www.gushiwenku.cn/shiwen/2bb4287/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531517.html"
+    },
+    {
+      "id": "p084",
+      "order": 84,
+      "grade": 5,
+      "term": 2,
+      "title": "闻官军收河南河北",
+      "author": "杜甫",
+      "dynasty": "唐",
+      "lines": [
+        "剑外忽传收蓟北，初闻涕泪满衣裳。",
+        "却看妻子愁何在，漫卷诗书喜欲狂。",
+        "白日放歌须纵酒，青春作伴好还乡。",
+        "即从巴峡穿巫峡，便下襄阳向洛阳。"
+      ],
+      "meaning": "听说官军收复失地，诗人激动得泪湿衣裳，家人也一扫愁容。他想放声歌唱、开怀饮酒，趁春光一路乘船返回故乡。",
+      "audio": "audio/p084.m4a",
+      "narrator": "雅坤",
+      "source": "https://www.gushiwenku.cn/shiwen/8ff9e79/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531516.html"
+    },
+    {
+      "id": "p085",
+      "order": 85,
+      "grade": 5,
+      "term": 2,
+      "title": "凉州词",
+      "author": "王之涣",
+      "dynasty": "唐",
+      "lines": [
+        "黄河远上白云间，一片孤城万仞山。",
+        "羌笛何须怨杨柳，春风不度玉门关。"
+      ],
+      "meaning": "黄河仿佛流向白云深处，孤城立在高山之间。羌笛吹奏着《折杨柳》，令人思乡；边关遥远，连春风似乎也难以到达。",
+      "audio": "audio/p085.m4a",
+      "narrator": "傅華",
+      "source": "https://www.gushiwenku.cn/shiwen/d0ad9af/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532369.html"
+    },
+    {
+      "id": "p086",
+      "order": 86,
+      "grade": 5,
+      "term": 2,
+      "title": "黄鹤楼送孟浩然之广陵",
+      "author": "李白",
+      "dynasty": "唐",
+      "lines": [
+        "故人西辞黄鹤楼，烟花三月下扬州。",
+        "孤帆远影碧空尽，唯见长江天际流。"
+      ],
+      "meaning": "老朋友在繁花似锦的三月告别黄鹤楼，乘船东去扬州。孤帆消失在碧空尽头，送别的人仍望着长江流向天边。",
+      "audio": "audio/p086.m4a",
+      "narrator": "任志宏",
+      "source": "https://www.gushiwenku.cn/shiwen/3d4e45f/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532367.html"
+    },
+    {
+      "id": "p087",
+      "order": 87,
+      "grade": 5,
+      "term": 2,
+      "title": "乡村四月",
+      "author": "翁卷",
+      "dynasty": "宋",
+      "lines": [
+        "绿遍山原白满川，子规声里雨如烟。",
+        "乡村四月闲人少，才了蚕桑又插田。"
+      ],
+      "meaning": "山野一片新绿，水田映出白光，杜鹃声中细雨如烟。乡村四月很少有人闲着，刚忙完养蚕，又赶着下田插秧。",
+      "audio": "audio/p087.m4a",
+      "narrator": "张悦",
+      "source": "https://www.gushiwenku.cn/shiwen/8f39357/",
+      "audioSource": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231226/t20231226_526534525.html"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p026",
+  "text": "李绅。",
+  "textSha256": "0538e3c89e9c99d00526064362c894225ec5826ef66eb0210a9c00e170a77949",
+  "sha256": "3929dc05aadeb19be600cb66236b7c9209f35f133747ea1b04946a99c922c0a4",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 11999999,
+      "text": "李绅。"
+    }
+  ],
+  "attempts": 1
+}

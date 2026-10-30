@@ -1,0 +1,16 @@
+{
+  "id": "p008",
+  "text": "在松树下询问童子，才知道师父采药去了；虽说就在山中，但山高云深，无法知道具体在何处。",
+  "textSha256": "b6eb6551d17c26225fefc05f26e28c02e1d6bf785e1fa7a8c196f3008ae97fe3",
+  "sha256": "fe004288a3ccb964f6d3d7271b4b1491cb12059316c4fda65beb2ce4fb430318",
+  "bytes": 61344,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 100630432,
+      "text": "在松树下询问童子，才知道师父采药去了；虽说就在山中，但山高云深，无法知道具体在何处。"
+    }
+  ],
+  "attempts": 1
+}

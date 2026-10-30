@@ -1,0 +1,22 @@
+{
+  "id": "p048",
+  "text": "夕阳铺在江面上，一半江水碧绿，一半映出红色。初三的夜晚格外可爱，露珠像珍珠，弯月像一张弓。",
+  "textSha256": "ec049bce24d0f233a8f74cb2192f74f1a9671f93f7d012a77d63018c58999fa9",
+  "sha256": "ec7351c7d810bbe1c5934876e794468ebeeff043142a9c30910be14c384cc773",
+  "bytes": 65232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 52760868,
+      "text": "夕阳铺在江面上，一半江水碧绿，一半映出红色。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 53260868,
+      "duration": 54755433,
+      "text": "初三的夜晚格外可爱，露珠像珍珠，弯月像一张弓。"
+    }
+  ],
+  "attempts": 1
+}

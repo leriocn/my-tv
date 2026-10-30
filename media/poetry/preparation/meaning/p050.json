@@ -1,0 +1,22 @@
+{
+  "id": "p050",
+  "text": "梅花与白雪争报春色，使诗人难以评判。梅花不如雪洁白，雪却少了梅花的清香，说明各有长处。",
+  "textSha256": "8dd1a87f6535577a469859880b1611a46ff4e89b5e147c9f86c4d95d0277271e",
+  "sha256": "794ffbe619f7c12653c19dc4f5f4465886afa14cccfa12a351b88d1d5d6a3779",
+  "bytes": 62208,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 44608694,
+      "text": "梅花与白雪争报春色，使诗人难以评判。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 45108694,
+      "duration": 58016303,
+      "text": "梅花不如雪洁白，雪却少了梅花的清香，说明各有长处。"
+    }
+  ],
+  "attempts": 1
+}

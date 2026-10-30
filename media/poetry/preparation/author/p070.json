@@ -1,0 +1,16 @@
+{
+  "id": "p070",
+  "text": "龚自珍。",
+  "textSha256": "5ebd68662d5c5d863f2e2d51a88048bce7c9b5c5cbe460efd496ed6036f0be4b",
+  "sha256": "bb837f530a43a6c19361621719aa720ef2786199f30a3389007dede3f557aacf",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 13494564,
+      "text": "龚自珍。"
+    }
+  ],
+  "attempts": 1
+}

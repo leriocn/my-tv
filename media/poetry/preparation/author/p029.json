@@ -1,0 +1,16 @@
+{
+  "id": "p029",
+  "text": "刘禹锡。",
+  "textSha256": "bc6cf302e3edcf2691ba68eec14a3e79849fb1327ffdb66bca4e1f7882026476",
+  "sha256": "9cd71823fec8ceefbdeea341a4c148b4bc7acd0963efd5889d289c28805829a9",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 13766304,
+      "text": "刘禹锡。"
+    }
+  ],
+  "attempts": 1
+}

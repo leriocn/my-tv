@@ -1,0 +1,22 @@
+{
+  "id": "p007",
+  "text": "春天睡得香，不觉天已亮，醒来听见到处有鸟鸣。想起夜里的风雨，又牵挂花朵不知落了多少。",
+  "textSha256": "d3d92a92e777625baaee6d3708ffce79b40793eb142aa5d16da5de33846a6995",
+  "sha256": "371a74faf0349568b41b10e67913d121153469f0dcb13a44baa2cfe5da5afcdd",
+  "bytes": 61056,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 52217390,
+      "text": "春天睡得香，不觉天已亮，醒来听见到处有鸟鸣。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 52717390,
+      "duration": 48369564,
+      "text": "想起夜里的风雨，又牵挂花朵不知落了多少。"
+    }
+  ],
+  "attempts": 1
+}

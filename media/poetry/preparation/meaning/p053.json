@@ -1,0 +1,22 @@
+{
+  "id": "p053",
+  "text": "晶莹酒杯中盛满葡萄酒，正要举杯，琵琶声便催人启程。征人即使醉卧沙场也请不要嘲笑，古往今来出征者又有多少平安归来？",
+  "textSha256": "ec2fea9bb6dbd50efff3c0353cbf2ac99e5a6d10ec6c54038c3f7ead44f5a939",
+  "sha256": "7c25b6f6d6d083a401978eada5e19e561b6bb43e9e6e1ff3bc79beb6765b541d",
+  "bytes": 82800,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 62543477,
+      "text": "晶莹酒杯中盛满葡萄酒，正要举杯，琵琶声便催人启程。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 63043477,
+      "duration": 74320650,
+      "text": "征人即使醉卧沙场也请不要嘲笑，古往今来出征者又有多少平安归来？"
+    }
+  ],
+  "attempts": 2
+}

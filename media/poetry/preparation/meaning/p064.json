@@ -1,0 +1,22 @@
+{
+  "id": "p064",
+  "text": "寒雨笼罩夜晚的吴地，清晨送别朋友，只留下孤立的楚山。若洛阳亲友问起，就说自己的心仍像玉壶中的冰一样清澈纯洁。",
+  "textSha256": "1e40ded3534bb88b6bef4301878b0da1957aa74014ad75fcaeab77aeacdee63d",
+  "sha256": "583be9a4e59edf1e65a05d38ed6b921c527cb440421c336f34b99f98b085631d",
+  "bytes": 76896,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 60505433,
+      "text": "寒雨笼罩夜晚的吴地，清晨送别朋友，只留下孤立的楚山。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 61005433,
+      "duration": 66576085,
+      "text": "若洛阳亲友问起，就说自己的心仍像玉壶中的冰一样清澈纯洁。"
+    }
+  ],
+  "attempts": 1
+}

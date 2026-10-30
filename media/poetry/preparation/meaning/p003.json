@@ -1,0 +1,16 @@
+{
+  "id": "p003",
+  "text": "农人在正午锄地，汗水滴进泥土；碗中的每一粒粮食，都凝聚着辛勤劳作，要珍惜粮食。",
+  "textSha256": "a436ad95e0d1763342820a5708ebd32c507b77ac1e62a106b299c4bbdee81296",
+  "sha256": "9b3cbf09a8afb3f6d02322f4e11980ec8066cfe13939997169482ebd5e6d4f7d",
+  "bytes": 55728,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 91755433,
+      "text": "农人在正午锄地，汗水滴进泥土；碗中的每一粒粮食，都凝聚着辛勤劳作，要珍惜粮食。"
+    }
+  ],
+  "attempts": 1
+}

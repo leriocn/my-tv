@@ -1,0 +1,22 @@
+{
+  "id": "p035",
+  "text": "长江冲开天门山，碧绿江水在这里回旋。小船行进中，两岸青山仿佛迎面而来，一片孤帆从日边驶来。",
+  "textSha256": "7aefd26394b44547cc50f357bb16f939a300221e664248fda33afa4cc8c871f5",
+  "sha256": "1f5ddab0119802b09a3f356cf622304d2fa2ace8bd73a4431c858ffca25ec197",
+  "bytes": 67968,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 45831520,
+      "text": "长江冲开天门山，碧绿江水在这里回旋。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 46331520,
+      "duration": 66440216,
+      "text": "小船行进中，两岸青山仿佛迎面而来，一片孤帆从日边驶来。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p038",
+  "text": "春日江山明丽，春风送来花草香气。燕子衔着湿泥忙筑巢，鸳鸯安睡在温暖沙地上，描绘出和暖的春景。",
+  "textSha256": "9e6c8f20fb8d61ffa4e54dd9a31c09e481a6d52ba82edade741bb240682cf04c",
+  "sha256": "b890963759f9d73553305b8bfb3b74fed19022a62a01bf8180a806e4a9679b86",
+  "bytes": 68976,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 41347825,
+      "text": "春日江山明丽，春风送来花草香气。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 41847825,
+      "duration": 72554346,
+      "text": "燕子衔着湿泥忙筑巢，鸳鸯安睡在温暖沙地上，描绘出和暖的春景。"
+    }
+  ],
+  "attempts": 1
+}

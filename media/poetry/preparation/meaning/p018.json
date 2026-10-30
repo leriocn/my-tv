@@ -1,0 +1,22 @@
+{
+  "id": "p018",
+  "text": "群山中没有飞鸟，道路上也没有行人。寒冷江面只有一位披蓑戴笠的老人，在孤舟上独自钓鱼。",
+  "textSha256": "296e6385e16cd4091d07a81226479e57a2bd0fddae51d90abc8b1fd6b8f7e650",
+  "sha256": "8af00b8647d67cf94fd3cce487cbd3548106a44a44a4a6506398e8e13cefa7bf",
+  "bytes": 60480,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 39445651,
+      "text": "群山中没有飞鸟，道路上也没有行人。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 39945651,
+      "duration": 60190216,
+      "text": "寒冷江面只有一位披蓑戴笠的老人，在孤舟上独自钓鱼。"
+    }
+  ],
+  "attempts": 1
+}

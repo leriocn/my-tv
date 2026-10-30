@@ -1,0 +1,22 @@
+{
+  "id": "p022",
+  "text": "二月草长莺飞，柳枝拂着堤岸，笼罩在春日烟气里。孩子们放学早早回来，趁东风兴起放起风筝。",
+  "textSha256": "63c9ff2d959d767e7c24ddfda58d350f1e4b477b794fea32ebc76eeac1273722",
+  "sha256": "b24ce3171bd46d1d1da41e1fee1081b1334ad63502b6779d66d6ed8ede100e4e",
+  "bytes": 64656,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 55342390,
+      "text": "二月草长莺飞，柳枝拂着堤岸，笼罩在春日烟气里。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 55842390,
+      "duration": 51358694,
+      "text": "孩子们放学早早回来，趁东风兴起放起风筝。"
+    }
+  ],
+  "attempts": 1
+}

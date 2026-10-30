@@ -1,0 +1,22 @@
+{
+  "id": "p034",
+  "text": "空山中看不见人，只听见远处传来人声。夕阳的返照射进深林，又照到青苔上，更显山林幽静。",
+  "textSha256": "1fd0a895d0432736d301cd4e7699ead961688b31d63ecd72cbdb6c3ba70a1683",
+  "sha256": "a7d3619ff8c623dfb6953bd92fdd3057e2e95364cf05a7f8b95ca7d7151b3de8",
+  "bytes": 62064,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 43249999,
+      "text": "空山中看不见人，只听见远处传来人声。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 43749999,
+      "duration": 59103259,
+      "text": "夕阳的返照射进深林，又照到青苔上，更显山林幽静。"
+    }
+  ],
+  "attempts": 1
+}

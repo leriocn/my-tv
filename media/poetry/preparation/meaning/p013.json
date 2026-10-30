@@ -1,0 +1,16 @@
+{
+  "id": "p013",
+  "text": "雄鸡头顶天然的红冠，披着雪白的羽毛；平常不轻易开口，一旦啼鸣便唤醒千家万户，写出雄鸡的神气。",
+  "textSha256": "d221f882adbfc2b3fc75356dcd66a341c02e67d863e6a3b6c00bdb0011c820f3",
+  "sha256": "61aee4c1c1a095f15946dcd2be7ce2279f4da315560a18bd3ae7464194b90c19",
+  "bytes": 66096,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 109146737,
+      "text": "雄鸡头顶天然的红冠，披着雪白的羽毛；平常不轻易开口，一旦啼鸣便唤醒千家万户，写出雄鸡的神气。"
+    }
+  ],
+  "attempts": 1
+}

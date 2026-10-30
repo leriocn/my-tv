@@ -1,0 +1,872 @@
+[
+  {
+    "id": "p001",
+    "title": "咏鹅",
+    "narrator": "李辉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450204.html",
+    "file": "audio/p001.m4a",
+    "seconds": 47.253,
+    "bytes": 390905,
+    "sha256": "c7e5e78719055abf50e1a5b41415a0ebe6feae2b069a3d8a4a783983a942be05"
+  },
+  {
+    "id": "p002",
+    "title": "画",
+    "narrator": "徐曼",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450214.html",
+    "file": "audio/p002.m4a",
+    "seconds": 30.976,
+    "bytes": 253922,
+    "sha256": "81b9a9c8f1e8a8ef131655929dd144e55925ed7aa3278899825032cb141b99e6"
+  },
+  {
+    "id": "p003",
+    "title": "悯农（其二）",
+    "narrator": "方亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534537.html",
+    "file": "audio/p003.m4a",
+    "seconds": 54.357917,
+    "bytes": 431528,
+    "sha256": "ca06b80ccecae4ebe71e927c17721ad702d288a47e30501cb7bacb78197f9d24"
+  },
+  {
+    "id": "p004",
+    "title": "江南",
+    "narrator": "马宗武",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231250.html",
+    "file": "audio/p004.m4a",
+    "seconds": 51.648,
+    "bytes": 427318,
+    "sha256": "77947fe3c97757d98cbf5f3f1ff802403de60b087360abe4f3dbc7861057078c"
+  },
+  {
+    "id": "p005",
+    "title": "古朗月行（节选）",
+    "narrator": "林溪",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231227/t20231227_526536157.html",
+    "file": "audio/p005.m4a",
+    "seconds": 37.987833,
+    "bytes": 320134,
+    "sha256": "06c6bc80a856ff4f69f28a52c7039229d768f828a5e555fabcb7745c7745ea5e"
+  },
+  {
+    "id": "p006",
+    "title": "风",
+    "narrator": "任鲁豫",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534514.html",
+    "file": "audio/p006.m4a",
+    "seconds": 53.661375,
+    "bytes": 446812,
+    "sha256": "cd7fba339eb2005361ed6f8810959e37006689da7e8dd6cb93c0bbf0953761c4"
+  },
+  {
+    "id": "p007",
+    "title": "春晓",
+    "narrator": "林溪",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231227/t20231227_526536289.html",
+    "file": "audio/p007.m4a",
+    "seconds": 37.268042,
+    "bytes": 318467,
+    "sha256": "d2cacf9fcb27077312cdead91e74cbb841a7927480c8dad281bd07433acc2441"
+  },
+  {
+    "id": "p008",
+    "title": "寻隐者不遇",
+    "narrator": "李辉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450254.html",
+    "file": "audio/p008.m4a",
+    "seconds": 36.33,
+    "bytes": 301349,
+    "sha256": "4a8830d833fed43a3e9f3ad8873014bd9ba99efb3441e668945eecfcf4f0615e"
+  },
+  {
+    "id": "p009",
+    "title": "赠汪伦",
+    "narrator": "方亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532346.html",
+    "file": "audio/p009.m4a",
+    "seconds": 58.97875,
+    "bytes": 493097,
+    "sha256": "dfa810b806d8dcd33cc822652b901065613f8c01bb54b70b4962c7492f1e653f"
+  },
+  {
+    "id": "p010",
+    "title": "静夜思",
+    "narrator": "贾际",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450239.html",
+    "file": "audio/p010.m4a",
+    "seconds": 45.056,
+    "bytes": 372946,
+    "sha256": "2bc67a7b5cb0db582d4da282eabf601aa577886527ce79f14d3ed808fb036acd"
+  },
+  {
+    "id": "p011",
+    "title": "池上",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231329.html",
+    "file": "audio/p011.m4a",
+    "seconds": 42.56,
+    "bytes": 350894,
+    "sha256": "748a58ecdd50e4849b6b94674eca16485aec851d1c9182fd9fe1612487820ddc"
+  },
+  {
+    "id": "p012",
+    "title": "小池",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532344.html",
+    "file": "audio/p012.m4a",
+    "seconds": 57.144333,
+    "bytes": 480162,
+    "sha256": "2b3ad15dbcdad75e621977c9932a44c8758ab62e7806210108265e711eed7161"
+  },
+  {
+    "id": "p013",
+    "title": "画鸡",
+    "narrator": "李辉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532338.html",
+    "file": "audio/p013.m4a",
+    "seconds": 27.678208,
+    "bytes": 218530,
+    "sha256": "5bcaaac371538212ef10ab9065c115e626de6e7e66a45b4d255d392cb3bac24d"
+  },
+  {
+    "id": "p014",
+    "title": "梅花",
+    "narrator": "李修平",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450294.html",
+    "file": "audio/p014.m4a",
+    "seconds": 36.138,
+    "bytes": 299973,
+    "sha256": "01e9e9d299d03e7beec0e933a1a0bdeedad5d4816d4e0b16bbceac375162786f"
+  },
+  {
+    "id": "p015",
+    "title": "小儿垂钓",
+    "narrator": "林溪",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231226/t20231226_526534637.html",
+    "file": "audio/p015.m4a",
+    "seconds": 37.778875,
+    "bytes": 318644,
+    "sha256": "e182e111083d1b9b8e2ceb4d5726553652c44db5b89099b04c03bef2bdd293c3"
+  },
+  {
+    "id": "p016",
+    "title": "登鹳雀楼",
+    "narrator": "忠诚",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231244.html",
+    "file": "audio/p016.m4a",
+    "seconds": 37.973,
+    "bytes": 317243,
+    "sha256": "b7c312891a8f2a7e4e52a14b4bdb9b9a4c1adda36f706f0d6cddd559bb2a1632"
+  },
+  {
+    "id": "p017",
+    "title": "望庐山瀑布",
+    "narrator": "忠诚",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450299.html",
+    "file": "audio/p017.m4a",
+    "seconds": 44.33,
+    "bytes": 365530,
+    "sha256": "bcc7929b9869c7836b3ec666e49754d45b39772ed5ea6303fa6ffd7f61300573"
+  },
+  {
+    "id": "p018",
+    "title": "江雪",
+    "narrator": "林溪",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231227/t20231227_526536291.html",
+    "file": "audio/p018.m4a",
+    "seconds": 37.082292,
+    "bytes": 317068,
+    "sha256": "f93533db0e3f63cf452f05827da401a81b9508b3192c391aa0fc3850268c3f02"
+  },
+  {
+    "id": "p019",
+    "title": "敕勒歌",
+    "narrator": "方亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231267.html",
+    "file": "audio/p019.m4a",
+    "seconds": 45.44,
+    "bytes": 377370,
+    "sha256": "b61ad707427246ffabbdd04d6fd7096111eb2b3903e64ccccf6ea94ea4490059"
+  },
+  {
+    "id": "p020",
+    "title": "夜宿山寺",
+    "narrator": "方亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450296.html",
+    "file": "audio/p020.m4a",
+    "seconds": 46.293,
+    "bytes": 384903,
+    "sha256": "8d6ac1e4c6c4d59e6ef5480fe1d2bd9a3a136b15c01384c13d7db4385a309e95"
+  },
+  {
+    "id": "p021",
+    "title": "咏柳",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783277.html",
+    "file": "audio/p021.m4a",
+    "seconds": 35.925,
+    "bytes": 299282,
+    "sha256": "053b3751db7d8ae8592d07667ce258a30af70972e544f13fcdf2e4f2e1457598"
+  },
+  {
+    "id": "p022",
+    "title": "村居",
+    "narrator": "朱广权",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534595.html",
+    "file": "audio/p022.m4a",
+    "seconds": 46.881083,
+    "bytes": 392763,
+    "sha256": "f364dc942b9180d77be5d3431f5453510367dac19326b877e60ad2b6931e45dd"
+  },
+  {
+    "id": "p023",
+    "title": "赋得古原草送别（节选）",
+    "narrator": "朱广权",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534569.html",
+    "file": "audio/p023.m4a",
+    "seconds": 26.6565,
+    "bytes": 229522,
+    "sha256": "15877268b3599756ec6d86cf1c222de83c2a142997cd88dcfb5464e382baf250"
+  },
+  {
+    "id": "p024",
+    "title": "绝句",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783741.html",
+    "file": "audio/p024.m4a",
+    "seconds": 30.25,
+    "bytes": 252414,
+    "sha256": "ce23122ad97e01b42eb75803a91b1b55eb93085821f9ebaf0df2123a5478fbeb"
+  },
+  {
+    "id": "p025",
+    "title": "晓出净慈寺送林子方",
+    "narrator": "原杰",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783743.html",
+    "file": "audio/p025.m4a",
+    "seconds": 49.728,
+    "bytes": 410719,
+    "sha256": "1d8aedf7a0762babac1c2ff561e4d201a8e92af1620406ff4b1c9f5eee8d7f9d"
+  },
+  {
+    "id": "p026",
+    "title": "悯农（其一）",
+    "narrator": "原杰",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783706.html",
+    "file": "audio/p026.m4a",
+    "seconds": 31.808,
+    "bytes": 261213,
+    "sha256": "f376991abb341130580f1dfd3884159927aa270774fe39eca84c9e76c6005b87"
+  },
+  {
+    "id": "p027",
+    "title": "江上渔者",
+    "narrator": "陈星",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531301.html",
+    "file": "audio/p027.m4a",
+    "seconds": 32.554375,
+    "bytes": 277665,
+    "sha256": "22d2af1d5463681c89c4c687ec2a64a5f53929cf435b747106523ae95381efd3"
+  },
+  {
+    "id": "p028",
+    "title": "所见",
+    "narrator": "贺红梅",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533933.html",
+    "file": "audio/p028.m4a",
+    "seconds": 25.681292,
+    "bytes": 209047,
+    "sha256": "6c39bc1f146383b59743a91a86e8c953b1b294978e0e3c4c06e4537089b12b33"
+  },
+  {
+    "id": "p029",
+    "title": "望洞庭",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784094.html",
+    "file": "audio/p029.m4a",
+    "seconds": 31.936,
+    "bytes": 266486,
+    "sha256": "459adaa57690addd31a8b8508acef093127847cf8a6cee6cafd1897e4e7955fc"
+  },
+  {
+    "id": "p030",
+    "title": "山行",
+    "narrator": "黎江",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784993.html",
+    "file": "audio/p030.m4a",
+    "seconds": 29.973,
+    "bytes": 242164,
+    "sha256": "7f148f27b5bc67018dd7fc23b944785b546203b42648031949a8d31b9d93697d"
+  },
+  {
+    "id": "p031",
+    "title": "夜书所见",
+    "narrator": "黎江",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784972.html",
+    "file": "audio/p031.m4a",
+    "seconds": 31.488,
+    "bytes": 256361,
+    "sha256": "b99aebd8e341504f8206afd3916216e7c573470be4f52ffbb2fda45072f3de3e"
+  },
+  {
+    "id": "p032",
+    "title": "舟夜书所见",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783566.html",
+    "file": "audio/p032.m4a",
+    "seconds": 47.402,
+    "bytes": 389276,
+    "sha256": "b1c4ff47ab2e58de35809f95d4977bfd06c389d27506b1f704985192db8356fe"
+  },
+  {
+    "id": "p033",
+    "title": "早发白帝城",
+    "narrator": "陈智鹏",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533931.html",
+    "file": "audio/p033.m4a",
+    "seconds": 42.004917,
+    "bytes": 336894,
+    "sha256": "6bef95adc78588d5beff835c91d5d166774831fb4fc41f9f123b4f96607e084a"
+  },
+  {
+    "id": "p034",
+    "title": "鹿柴",
+    "narrator": "宝晓峰",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534857.html",
+    "file": "audio/p034.m4a",
+    "seconds": 25.100792,
+    "bytes": 222994,
+    "sha256": "98bd0a1e9b5c0a919b4c3dd5ad4894d86b369f4d99dc18bd7764cf64a8168e08"
+  },
+  {
+    "id": "p035",
+    "title": "望天门山",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231223/t20231223_526532354.html",
+    "file": "audio/p035.m4a",
+    "seconds": 32.64725,
+    "bytes": 287156,
+    "sha256": "3f4576877cf55aa2c9177a5bac89a56b39c8c1e6ca0d1b8daf0d98d907655558"
+  },
+  {
+    "id": "p036",
+    "title": "饮湖上初晴后雨",
+    "narrator": "贾际",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784106.html",
+    "file": "audio/p036.m4a",
+    "seconds": 52.053,
+    "bytes": 413874,
+    "sha256": "8385cb72333ea52895fe9183cff44a0f9a26a4b8344c1da9e44687baf89e6ea3"
+  },
+  {
+    "id": "p037",
+    "title": "采莲曲",
+    "narrator": "姚科",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533974.html",
+    "file": "audio/p037.m4a",
+    "seconds": 34.086917,
+    "bytes": 277979,
+    "sha256": "a26103b81d5f42959e943834d68036f60b14a4c7507d309a67ae25494358a500"
+  },
+  {
+    "id": "p038",
+    "title": "绝句",
+    "narrator": "毛舟",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534576.html",
+    "file": "audio/p038.m4a",
+    "seconds": 33.274208,
+    "bytes": 259294,
+    "sha256": "73a48638c3ad8852b5254c2e6faef296c552dc40d62d06ec956f7accfa690e8f"
+  },
+  {
+    "id": "p039",
+    "title": "惠崇春江晚景",
+    "narrator": "王大民",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534579.html",
+    "file": "audio/p039.m4a",
+    "seconds": 43.699958,
+    "bytes": 372545,
+    "sha256": "f73629da8b309ce3008eca5342c81a13a4cc407f7175c0120231bbe53f83c29e"
+  },
+  {
+    "id": "p040",
+    "title": "三衢道中",
+    "narrator": "毛舟",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534580.html",
+    "file": "audio/p040.m4a",
+    "seconds": 39.148833,
+    "bytes": 332134,
+    "sha256": "f271b1bc03c094d32ec3957819e282fbbb872969870737bc6f7c98ec6cf30442"
+  },
+  {
+    "id": "p041",
+    "title": "忆江南",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534718.html",
+    "file": "audio/p041.m4a",
+    "seconds": 39.891875,
+    "bytes": 336137,
+    "sha256": "9b363e480314186743b1ce48f80e50a3f21cfdc917210327ad3697259f2c3d9c"
+  },
+  {
+    "id": "p042",
+    "title": "滁州西涧",
+    "narrator": "刘鹤佳",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534735.html",
+    "file": "audio/p042.m4a",
+    "seconds": 49.969333,
+    "bytes": 406653,
+    "sha256": "7a2aea5d6fad47791a6d66e314b173ae9d5ea420ddeee656151b2bee890665b6"
+  },
+  {
+    "id": "p043",
+    "title": "元日",
+    "narrator": "陆洋",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534616.html",
+    "file": "audio/p043.m4a",
+    "seconds": 43.8625,
+    "bytes": 370642,
+    "sha256": "97e975e6e117a28dc1771fad5c0d7f190e4a4e22b61fa46864e2682b2f081d4c"
+  },
+  {
+    "id": "p044",
+    "title": "清明",
+    "narrator": "张悦",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534619.html",
+    "file": "audio/p044.m4a",
+    "seconds": 35.921292,
+    "bytes": 303037,
+    "sha256": "5a45e3ac7b3c1edde79419557db5c183edacac1fd7b2285b7c37ca535dad0410"
+  },
+  {
+    "id": "p045",
+    "title": "九月九日忆山东兄弟",
+    "narrator": "杨昶",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534620.html",
+    "file": "audio/p045.m4a",
+    "seconds": 46.718542,
+    "bytes": 377839,
+    "sha256": "a5613d6a494257345a8a625f160c250b12bf2ab6abdc7ffa2132ab25dc50597d"
+  },
+  {
+    "id": "p046",
+    "title": "大林寺桃花",
+    "narrator": "张悦",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534745.html",
+    "file": "audio/p046.m4a",
+    "seconds": 38.150417,
+    "bytes": 325120,
+    "sha256": "e2ce8246b73a76297ffab361178a7071b2e9db97ed831c5a5cee2614946cf67b"
+  },
+  {
+    "id": "p047",
+    "title": "赠刘景文",
+    "narrator": "常亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784981.html",
+    "file": "audio/p047.m4a",
+    "seconds": 46.378,
+    "bytes": 381636,
+    "sha256": "49d019e86b3c604467b4eb30b47f4c75c0ed7aa7bedd8bf4de222ece130589f6"
+  },
+  {
+    "id": "p048",
+    "title": "暮江吟",
+    "narrator": "小草",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534794.html",
+    "file": "audio/p048.m4a",
+    "seconds": 67.662958,
+    "bytes": 563939,
+    "sha256": "740b3a5f55f7ec9f93c2e473f81fd1cac63f6eaf2d56aedd7eb8f07b7250da03"
+  },
+  {
+    "id": "p049",
+    "title": "题西林壁",
+    "narrator": "任鲁豫",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534802.html",
+    "file": "audio/p049.m4a",
+    "seconds": 41.377958,
+    "bytes": 347054,
+    "sha256": "7fb82f06e7633362f1a8869286d2abd8ee65cca960507e52cac9043de091167d"
+  },
+  {
+    "id": "p050",
+    "title": "雪梅",
+    "narrator": "贺红梅",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534806.html",
+    "file": "audio/p050.m4a",
+    "seconds": 39.056,
+    "bytes": 330434,
+    "sha256": "58cda190181a77c6887e7bf7fef16e0588b3565bb34e5b5562381d70497516fd"
+  },
+  {
+    "id": "p051",
+    "title": "嫦娥",
+    "narrator": "于芳",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534881.html",
+    "file": "audio/p051.m4a",
+    "seconds": 38.638042,
+    "bytes": 324958,
+    "sha256": "31ebb7d7c83b9ec77bee2bac2d5efee2c44a2e2c9db014d63faa747c811d4222"
+  },
+  {
+    "id": "p052",
+    "title": "黄鹤楼送孟浩然之广陵",
+    "narrator": "任志宏",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532367.html",
+    "file": "audio/p052.m4a",
+    "seconds": 53.475583,
+    "bytes": 444819,
+    "sha256": "d8af7a9662b7bc40f5d8ae424dea3b504a3aa019368445bd072707393f081649"
+  },
+  {
+    "id": "p053",
+    "title": "凉州词",
+    "narrator": "原杰",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534840.html",
+    "file": "audio/p053.m4a",
+    "seconds": 41.424417,
+    "bytes": 346754,
+    "sha256": "c1b64a46658cfec3ff410b50726326d6b621ab9066397b501c2563cee181128a"
+  },
+  {
+    "id": "p054",
+    "title": "出塞",
+    "narrator": "原杰",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534838.html",
+    "file": "audio/p054.m4a",
+    "seconds": 42.93375,
+    "bytes": 355791,
+    "sha256": "5a882a207287c46ac91d86be1ab14c4d003891a32a77f5df5e3eda5647aebd0b"
+  },
+  {
+    "id": "p055",
+    "title": "夏日绝句",
+    "narrator": "原杰",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534842.html",
+    "file": "audio/p055.m4a",
+    "seconds": 39.752583,
+    "bytes": 333710,
+    "sha256": "4551cce01879f1ac6e467e86cbebd364efb02b2517649e2c8ea3b6a6e7de715c"
+  },
+  {
+    "id": "p056",
+    "title": "别董大",
+    "narrator": "陆洋",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534907.html",
+    "file": "audio/p056.m4a",
+    "seconds": 47.94925,
+    "bytes": 397584,
+    "sha256": "6acd7ba14fecacc9ee3f4336dc29db3a36ffe9159c8f539b6aa02f941840f153"
+  },
+  {
+    "id": "p057",
+    "title": "四时田园杂兴（其二十五）",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534717.html",
+    "file": "audio/p057.m4a",
+    "seconds": 45.000333,
+    "bytes": 375735,
+    "sha256": "f39da013ea3abdd9aaa2f6b1322629025d87a742034655061574067995cf6ef5"
+  },
+  {
+    "id": "p058",
+    "title": "宿新市徐公店",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534719.html",
+    "file": "audio/p058.m4a",
+    "seconds": 43.46775,
+    "bytes": 362773,
+    "sha256": "98874cc5804eedcf92f78787304caef6fe360e354aba574264b94286aff85996"
+  },
+  {
+    "id": "p059",
+    "title": "清平乐·村居",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534721.html",
+    "file": "audio/p059.m4a",
+    "seconds": 53.684542,
+    "bytes": 448323,
+    "sha256": "a895b475abba0fa893b561e0922e8047bd10b8a4b5e2864edc6129cf852f2d9a"
+  },
+  {
+    "id": "p060",
+    "title": "卜算子·咏梅",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534902.html",
+    "file": "audio/p060.m4a",
+    "seconds": 75.627417,
+    "bytes": 632883,
+    "sha256": "9a6ed9b9444674d46098c6e13dd914b66f7f0fbe627322373924e98d1bcabbe6"
+  },
+  {
+    "id": "p061",
+    "title": "江畔独步寻花",
+    "narrator": "闻齐",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534906.html",
+    "file": "audio/p061.m4a",
+    "seconds": 35.967708,
+    "bytes": 307743,
+    "sha256": "8970bf98b681b205b8bfe3018f5bfcec6befea22a1b5b33436b33931df6cf136"
+  },
+  {
+    "id": "p062",
+    "title": "蜂",
+    "narrator": "康辉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535628.html",
+    "file": "audio/p062.m4a",
+    "seconds": 42.678292,
+    "bytes": 360286,
+    "sha256": "e021f956c2c9857b20a6672d1b6e10703983b8af9bdf40a0c546c070fd98e8e1"
+  },
+  {
+    "id": "p063",
+    "title": "独坐敬亭山",
+    "narrator": "康辉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535623.html",
+    "file": "audio/p063.m4a",
+    "seconds": 39.4275,
+    "bytes": 333254,
+    "sha256": "f9ba4c10a12113c2f84c067c8b15b00e3d3bf1d62b3ca9518e018dc98522656c"
+  },
+  {
+    "id": "p064",
+    "title": "芙蓉楼送辛渐",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535596.html",
+    "file": "audio/p064.m4a",
+    "seconds": 36.873292,
+    "bytes": 316462,
+    "sha256": "6f7beb5257cdf3f5090728a79a75d770663dde2d707c8b361f1aeae16ce4ce3c"
+  },
+  {
+    "id": "p065",
+    "title": "塞下曲",
+    "narrator": "王彤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535597.html",
+    "file": "audio/p065.m4a",
+    "seconds": 37.755667,
+    "bytes": 322637,
+    "sha256": "21d57a19e98a0234bfc6d274dbb0f6695fdbc2834dd4a0856e94c99320500dd7"
+  },
+  {
+    "id": "p066",
+    "title": "墨梅",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535598.html",
+    "file": "audio/p066.m4a",
+    "seconds": 40.240208,
+    "bytes": 337746,
+    "sha256": "3e7ffa4bbfa656b166a932ea0aec0f16ab3ff232ec1b1f715536003b0f8e06c9"
+  },
+  {
+    "id": "p067",
+    "title": "乞巧",
+    "narrator": "满超",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534654.html",
+    "file": "audio/p067.m4a",
+    "seconds": 40.843917,
+    "bytes": 345064,
+    "sha256": "bcc204f01fd3d5638bca1d7239cf0da58144e9d5017c5a292991b6dfd855b8ef"
+  },
+  {
+    "id": "p068",
+    "title": "示儿",
+    "narrator": "常亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534910.html",
+    "file": "audio/p068.m4a",
+    "seconds": 45.116375,
+    "bytes": 377114,
+    "sha256": "5f85597fa6caf7ae70dd085052508af9d608622c78043ac8e5b05a95268e9143"
+  },
+  {
+    "id": "p069",
+    "title": "题临安邸",
+    "narrator": "常亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534908.html",
+    "file": "audio/p069.m4a",
+    "seconds": 51.455417,
+    "bytes": 427872,
+    "sha256": "215f922125146548d2c08a6ceac2569a3981ba3fbe158c40337e632dbfecd8be"
+  },
+  {
+    "id": "p070",
+    "title": "己亥杂诗",
+    "narrator": "常亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534905.html",
+    "file": "audio/p070.m4a",
+    "seconds": 41.610167,
+    "bytes": 347999,
+    "sha256": "d3751708d49fe385dfec78b39d4b3107b03d69ce1c5a154900ce3a3f7a27bf94"
+  },
+  {
+    "id": "p071",
+    "title": "游子吟",
+    "narrator": "刘静",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532377.html",
+    "file": "audio/p071.m4a",
+    "seconds": 41.14575,
+    "bytes": 346315,
+    "sha256": "0c0ce9d61c5e8e5d42c97e1c69c3ff9e55cbefde38bdcb196c137d9d5fdf13bb"
+  },
+  {
+    "id": "p072",
+    "title": "山居秋暝",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534868.html",
+    "file": "audio/p072.m4a",
+    "seconds": 60.186125,
+    "bytes": 503618,
+    "sha256": "30dc649c3b023037c67a399bcd60564692cd4f4e917407bd4299fbbd08c9cdfb"
+  },
+  {
+    "id": "p073",
+    "title": "枫桥夜泊",
+    "narrator": "肖玉",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534863.html",
+    "file": "audio/p073.m4a",
+    "seconds": 43.67675,
+    "bytes": 366237,
+    "sha256": "826b54181ecdf0dcef8a9ebb61154b6664a6ff3b9ab8c24a450b68c64819b4e6"
+  },
+  {
+    "id": "p074",
+    "title": "早春呈水部张十八员外",
+    "narrator": "王言",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531303.html",
+    "file": "audio/p074.m4a",
+    "seconds": 49.110208,
+    "bytes": 415300,
+    "sha256": "e7b7f8b0c68aa5fa3cbbc4c735941811fb53e146c7c375810335d68bff4748e9"
+  },
+  {
+    "id": "p075",
+    "title": "渔歌子",
+    "narrator": "付淳",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534666.html",
+    "file": "audio/p075.m4a",
+    "seconds": 36.478542,
+    "bytes": 306429,
+    "sha256": "4ce3933a95253bcbb141c4055e89458788ac14748341d3138367f3e0bc47ac47"
+  },
+  {
+    "id": "p076",
+    "title": "观书有感（其一）",
+    "narrator": "黎江",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534667.html",
+    "file": "audio/p076.m4a",
+    "seconds": 40.19375,
+    "bytes": 325882,
+    "sha256": "7d0912f83ab84a24957597587a1f08277b8b0c245f44d22d8f6f5607b2886505"
+  },
+  {
+    "id": "p077",
+    "title": "四时田园杂兴（其三十一）",
+    "narrator": "常亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531537.html",
+    "file": "audio/p077.m4a",
+    "seconds": 42.631833,
+    "bytes": 364952,
+    "sha256": "d21b887381975d01e8ff8981eaa38fe85e15f1f834e7d51bef744d2b3626d855"
+  },
+  {
+    "id": "p078",
+    "title": "稚子弄冰",
+    "narrator": "任志宏",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531535.html",
+    "file": "audio/p078.m4a",
+    "seconds": 41.795917,
+    "bytes": 347880,
+    "sha256": "55c03374bdeda59715d0a562dc567cab8198136010b5ea8d59cf17a5b0d7a82d"
+  },
+  {
+    "id": "p079",
+    "title": "村晚",
+    "narrator": "常亮",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531533.html",
+    "file": "audio/p079.m4a",
+    "seconds": 42.771167,
+    "bytes": 356678,
+    "sha256": "de5c83e36e3083d047d2569cecc0987642881e58598022697db16c5225add5d1"
+  },
+  {
+    "id": "p080",
+    "title": "游子吟",
+    "narrator": "刘静",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532377.html",
+    "file": "audio/p080.m4a",
+    "seconds": 41.14575,
+    "bytes": 346315,
+    "sha256": "0c0ce9d61c5e8e5d42c97e1c69c3ff9e55cbefde38bdcb196c137d9d5fdf13bb"
+  },
+  {
+    "id": "p081",
+    "title": "鸟鸣涧",
+    "narrator": "原杰",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532372.html",
+    "file": "audio/p081.m4a",
+    "seconds": 37.686042,
+    "bytes": 315862,
+    "sha256": "fcc76df21153705d73f1e95709b98fda717c702535ab28bdd8ee95755d203868"
+  },
+  {
+    "id": "p082",
+    "title": "从军行",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531518.html",
+    "file": "audio/p082.m4a",
+    "seconds": 38.173625,
+    "bytes": 321856,
+    "sha256": "2377ddb89be78e30ff0e904dd4a27f56d863ba215504a874d45ba13b701878fd"
+  },
+  {
+    "id": "p083",
+    "title": "秋夜将晓出篱门迎凉有感",
+    "narrator": "王彤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531517.html",
+    "file": "audio/p083.m4a",
+    "seconds": 44.559083,
+    "bytes": 376641,
+    "sha256": "52fd960a01f3129dceef03b5517e47c98b9b2306b8a5a6f30a657a16771c65e4"
+  },
+  {
+    "id": "p084",
+    "title": "闻官军收河南河北",
+    "narrator": "雅坤",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531516.html",
+    "file": "audio/p084.m4a",
+    "seconds": 52.291333,
+    "bytes": 447764,
+    "sha256": "c76c2b82b4d29bdee144cfb297de7fa6aa2a7470d4c65b439cc11cb305b522ce"
+  },
+  {
+    "id": "p085",
+    "title": "凉州词",
+    "narrator": "傅華",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532369.html",
+    "file": "audio/p085.m4a",
+    "seconds": 54.822333,
+    "bytes": 454025,
+    "sha256": "910853c8e4372d1f2cb6de7ced20d16481441e001308496ccf98d6c63cdc02cf"
+  },
+  {
+    "id": "p086",
+    "title": "黄鹤楼送孟浩然之广陵",
+    "narrator": "任志宏",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532367.html",
+    "file": "audio/p086.m4a",
+    "seconds": 53.475583,
+    "bytes": 444819,
+    "sha256": "d8af7a9662b7bc40f5d8ae424dea3b504a3aa019368445bd072707393f081649"
+  },
+  {
+    "id": "p087",
+    "title": "乡村四月",
+    "narrator": "张悦",
+    "source": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231226/t20231226_526534525.html",
+    "file": "audio/p087.m4a",
+    "seconds": 42.283542,
+    "bytes": 357036,
+    "sha256": "024798b47ddc5b28a115cc6a55ac053daeeee4214e09b1b94945e80fd3d7a8b3"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "p079",
+  "text": "池塘长满青草，水几乎漫上塘岸，落日与山影映在水波中。牧童横坐牛背，随意吹着短笛，展现乡村傍晚的自在。",
+  "textSha256": "ac6f4e0fe67bb8665822a8511bc12540a4f315f31e679f673e8a6142ec454d18",
+  "sha256": "2077d1d2ab4ba682fea67dc437fb3351603365d59ba4923e8fdced8b68e69efe",
+  "bytes": 75168,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 65668477,
+      "text": "池塘长满青草，水几乎漫上塘岸，落日与山影映在水波中。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 66168477,
+      "duration": 58423911,
+      "text": "牧童横坐牛背，随意吹着短笛，展现乡村傍晚的自在。"
+    }
+  ],
+  "attempts": 1
+}

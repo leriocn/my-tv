@@ -1,0 +1,16 @@
+{
+  "id": "p050",
+  "text": "卢钺。",
+  "textSha256": "2f09cf365902ac32077adb2f36488130591629f8bb23955b1b8d59bd85f13cf1",
+  "sha256": "e5e1770ab6a780f1de2f9eeba7f71449c81fb5576870c1b6e58dcb8d4e87dbef",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 11999999,
+      "text": "卢钺。"
+    }
+  ],
+  "attempts": 1
+}

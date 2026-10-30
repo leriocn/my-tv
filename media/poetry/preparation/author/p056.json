@@ -1,0 +1,16 @@
+{
+  "id": "p056",
+  "text": "高适。",
+  "textSha256": "b50b1f9e4bb2883acfcda646070c24f252eb1532d122ada5f805279543f48a19",
+  "sha256": "3a8e5f9f74fb7b467bcdf3f317e918bd53d4f83316a12c06ea13d9f47bc3fc77",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 12543478,
+      "text": "高适。"
+    }
+  ],
+  "attempts": 1
+}

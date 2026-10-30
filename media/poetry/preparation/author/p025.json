@@ -1,0 +1,16 @@
+{
+  "id": "p025",
+  "text": "杨万里。",
+  "textSha256": "44b0868c7ad07728413c9428b1e02371d98cdf18b36f70e6f09a72163ffb4dee",
+  "sha256": "b12ca61dc879c32082d182651f54456ab2c0ffd24096fbbd6731b367e233ed9e",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 14173912,
+      "text": "杨万里。"
+    }
+  ],
+  "attempts": 1
+}

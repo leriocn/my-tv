@@ -1,0 +1,22 @@
+{
+  "id": "p045",
+  "text": "独自在外作客，每逢节日就更加想念亲人。想到兄弟们重阳登高、佩戴茱萸时，发现团聚的人中少了自己。",
+  "textSha256": "2a5a5e30a7282c728d5ce1cae0feaebdea65c4cdacfabd69837c4050d9032be7",
+  "sha256": "5f13372b56c2b7cb66556ed5225b6e20d34df61f68936b80ef3fb1534425c907",
+  "bytes": 69120,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 48548912,
+      "text": "独自在外作客，每逢节日就更加想念亲人。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 49048912,
+      "duration": 65624998,
+      "text": "想到兄弟们重阳登高、佩戴茱萸时，发现团聚的人中少了自己。"
+    }
+  ],
+  "attempts": 1
+}

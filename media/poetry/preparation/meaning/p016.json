@@ -1,0 +1,22 @@
+{
+  "id": "p016",
+  "text": "夕阳依着山峦落下，黄河向大海奔流。若想把更远的景色看尽，就要再登上一层楼，也启发人不断进取。",
+  "textSha256": "bb8cb423d351e4fb1a1034c4c8cead29dba918701929109135eac53f96a389c2",
+  "sha256": "63b50bd254f6d863c655824d4745a5b29a6b7a769bb51c781e26030eb314f9dc",
+  "bytes": 66816,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 43793477,
+      "text": "夕阳依着山峦落下，黄河向大海奔流。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 44293477,
+      "duration": 66576085,
+      "text": "若想把更远的景色看尽，就要再登上一层楼，也启发人不断进取。"
+    }
+  ],
+  "attempts": 1
+}

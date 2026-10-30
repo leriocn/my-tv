@@ -1,0 +1,16 @@
+{
+  "id": "p006",
+  "text": "李峤。",
+  "textSha256": "3c91b66df86a1406f2728d44628a58545782f811bb2daea9fd20f94cb92d7220",
+  "sha256": "c7dd61531c79efc7852d4863f34fd92a36af5ea64081082c5216c1dfb11be5b9",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 12135869,
+      "text": "李峤。"
+    }
+  ],
+  "attempts": 1
+}

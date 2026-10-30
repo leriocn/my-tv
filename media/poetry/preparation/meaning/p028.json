@@ -1,0 +1,22 @@
+{
+  "id": "p028",
+  "text": "牧童骑着黄牛，响亮的歌声回荡在林间。忽然想捕捉树上的蝉，便马上闭嘴站住，表现了孩子机灵的神态。",
+  "textSha256": "c295c627112a90bdeabdf29af41f1508eb451b52015905d40b0f98cb86fad004",
+  "sha256": "45f55d87879515670d3c4ca0ac3e3d002c28ef5f70bad5253324fd780281b45e",
+  "bytes": 66096,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 42570651,
+      "text": "牧童骑着黄牛，响亮的歌声回荡在林间。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 43070651,
+      "duration": 66440216,
+      "text": "忽然想捕捉树上的蝉，便马上闭嘴站住，表现了孩子机灵的神态。"
+    }
+  ],
+  "attempts": 1
+}

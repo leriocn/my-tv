@@ -1,0 +1,16 @@
+{
+  "id": "p002",
+  "text": "佚名。",
+  "textSha256": "ffd42559648d98e9ed52c847ff4ab2415091bc8e10dfe19bd348a96e2d01376f",
+  "sha256": "3a3ca1506da0f3f0705ced9cdd0007e66bd1e5755e336e9defc2b1a0b6b18c9c",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 11728260,
+      "text": "佚名。"
+    }
+  ],
+  "attempts": 1
+}

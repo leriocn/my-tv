@@ -1,0 +1,22 @@
+{
+  "id": "p040",
+  "text": "梅子黄熟时连续晴朗，诗人乘船走到溪流尽头，再走山路。浓密的树阴仍如来时，又多了黄鹂清脆的叫声。",
+  "textSha256": "b6db0fce348cf3de56ab215cc0edc6dfddea83c25ae317d18ddb891234761968",
+  "sha256": "860f7f9b0eb5023ef1749421e66c4fd9ac1b630da32b0d152130e101d18ed2c1",
+  "bytes": 54720,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 65260868,
+      "text": "梅子黄熟时连续晴朗，诗人乘船走到溪流尽头，再走山路。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 65760868,
+      "duration": 49184781,
+      "text": "浓密的树阴仍如来时，又多了黄鹂清脆的叫声。"
+    }
+  ],
+  "attempts": 1
+}

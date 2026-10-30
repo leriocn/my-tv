@@ -1,0 +1,16 @@
+{
+  "id": "p031",
+  "text": "叶绍翁。",
+  "textSha256": "723fe969c06fc0285c5ed5e04f4b6b022dbee5e1e27fa15ea019661cc45f8014",
+  "sha256": "56c84e846724b76c23ef100a2b4a5716503b0426715dd53aa6fdd30ba7816b69",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 13902173,
+      "text": "叶绍翁。"
+    }
+  ],
+  "attempts": 1
+}

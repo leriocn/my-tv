@@ -1,0 +1,22 @@
+{
+  "id": "p075",
+  "text": "西塞山前白鹭飞翔，桃花映着流水，鳜鱼正肥。渔人戴青箬笠、披绿蓑衣，在斜风细雨中垂钓，流连不愿回去。",
+  "textSha256": "881e234e82b832cd6a518528d45390d7ec91a8c72ab826d343361c8e147ef681",
+  "sha256": "11e12229d9d6ed9af14053c4817e9b31048b112cea2ebe9eb3d2e325b612134b",
+  "bytes": 73440,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 53032607,
+      "text": "西塞山前白鹭飞翔，桃花映着流水，鳜鱼正肥。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 53532607,
+      "duration": 68206520,
+      "text": "渔人戴青箬笠、披绿蓑衣，在斜风细雨中垂钓，流连不愿回去。"
+    }
+  ],
+  "attempts": 1
+}

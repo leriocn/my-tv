@@ -1,0 +1,22 @@
+{
+  "id": "p069",
+  "text": "西湖边青山与楼阁层层相连，歌舞不休。诗人讽刺只顾享乐、忘记失地的人们，竟把临时安居的杭州当成故都汴州。",
+  "textSha256": "4b6b0aff699522f8b91261ede92b4c89d7a7f19641e131b0ac4a5df613451896",
+  "sha256": "62be0a29998d9c6a0d0fec10bca6e118273cadc971fa5bc529d1eaa01a82fcad",
+  "bytes": 75888,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 45967390,
+      "text": "西湖边青山与楼阁层层相连，歌舞不休。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 46467390,
+      "duration": 79347824,
+      "text": "诗人讽刺只顾享乐、忘记失地的人们，竟把临时安居的杭州当成故都汴州。"
+    }
+  ],
+  "attempts": 1
+}

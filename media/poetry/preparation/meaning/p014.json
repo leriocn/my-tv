@@ -1,0 +1,22 @@
+{
+  "id": "p014",
+  "text": "墙角的梅花独自迎寒开放。远远便知道那不是白雪，因为空气中飘来了清淡的花香，赞美梅花不畏寒冷。",
+  "textSha256": "c6795e4f7971523f26e5f855ffe9c1dcea3b3063c0a69e7c7aa10d1ed444fa09",
+  "sha256": "9c6b99138bf3bf5ff29cdfaa4c2e5b1c2c5c09f82fa36d9daa289a953b2e2cc7",
+  "bytes": 67824,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 32244564,
+      "text": "墙角的梅花独自迎寒开放。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 32744564,
+      "duration": 79755433,
+      "text": "远远便知道那不是白雪，因为空气中飘来了清淡的花香，赞美梅花不畏寒冷。"
+    }
+  ],
+  "attempts": 1
+}

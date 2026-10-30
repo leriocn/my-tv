@@ -1,0 +1,11 @@
+{
+  "provider": "Microsoft Edge online natural speech",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "kind": "meaning",
+  "edgeTtsVersion": "7.3.1",
+  "endpoint": "msedge",
+  "transport": "TLS encrypted WebSocket over HTTPS upgrade",
+  "catalogSha256": "bddba869cbc6b343a465af2067c2d71dc98722fb1dd1e9074778b3158a571a75"
+}

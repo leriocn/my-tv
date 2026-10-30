@@ -1,0 +1,16 @@
+{
+  "id": "p069",
+  "text": "林升。",
+  "textSha256": "74338ac80aaee785f5abc84f3c9da1ab088036b62b632dee9ad571560c7d8792",
+  "sha256": "ff8fd49661c8eacc78d180986de3a7dd5bbc2cf938cd0a429fddb743efcec374",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 12135869,
+      "text": "林升。"
+    }
+  ],
+  "attempts": 1
+}

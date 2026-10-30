@@ -1,0 +1,16 @@
+{
+  "id": "p036",
+  "text": "苏轼。",
+  "textSha256": "7905edb9a15527a13fcc016cc1626816973598c10d7d956a534784820c8aff60",
+  "sha256": "e6d676f86fe6d5e82e740e8b7b114ed1dcb246a2dc4560bbc8365fe73ca3e1a2",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 13086956,
+      "text": "苏轼。"
+    }
+  ],
+  "attempts": 1
+}

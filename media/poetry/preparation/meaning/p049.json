@@ -1,0 +1,22 @@
+{
+  "id": "p049",
+  "text": "从不同方向、远近高低去看，庐山呈现不同形态。之所以难认清它的全貌，正因为自己身在山中，提醒人要开阔观察角度。",
+  "textSha256": "95b06f162bcbe4665588ccf1957e4648e70563d5156cae0d597f5bfe791d6b7d",
+  "sha256": "a5e1495d5dc011792a6aa6c48e4d3692745e31b9569d7f097aba9dd9983cff8e",
+  "bytes": 79344,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 54663042,
+      "text": "从不同方向、远近高低去看，庐山呈现不同形态。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 55163042,
+      "duration": 76494563,
+      "text": "之所以难认清它的全貌，正因为自己身在山中，提醒人要开阔观察角度。"
+    }
+  ],
+  "attempts": 1
+}

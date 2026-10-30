@@ -1,0 +1,22 @@
+{
+  "id": "p033",
+  "text": "清晨告别彩云间的白帝城，一天就顺流到达千里外的江陵。两岸猿啼还在耳边，轻快的小船已越过层层山峦。",
+  "textSha256": "1a581ec5b6b11147d5d3ee5127964fe323871e84310043708a5342b5d11c4aeb",
+  "sha256": "fd377730dff637cac11a359f9aac63c1e71c5872171a54e7d92fb835c49aa67f",
+  "bytes": 70848,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 62271737,
+      "text": "清晨告别彩云间的白帝城，一天就顺流到达千里外的江陵。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 62771737,
+      "duration": 54755433,
+      "text": "两岸猿啼还在耳边，轻快的小船已越过层层山峦。"
+    }
+  ],
+  "attempts": 1
+}

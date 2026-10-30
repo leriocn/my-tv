@@ -1,0 +1,22 @@
+{
+  "id": "p082",
+  "text": "青海上空长云遮住雪山，远望边关玉门。将士们历经战斗，铠甲都磨损了，仍立下不战胜敌人决不回乡的誓言。",
+  "textSha256": "1dbc400e16b90ff71349681b5a73f6a8e6b24c8f29e530908d9b1e3a7d63e1c3",
+  "sha256": "4a7efbf9182e74387e03f2164a1a6a641613b3bd0b3d44ec1b7d69287818f0d3",
+  "bytes": 73008,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 45967390,
+      "text": "青海上空长云遮住雪山，远望边关玉门。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 46467390,
+      "duration": 74728259,
+      "text": "将士们历经战斗，铠甲都磨损了，仍立下不战胜敌人决不回乡的誓言。"
+    }
+  ],
+  "attempts": 1
+}

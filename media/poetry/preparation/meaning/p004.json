@@ -1,0 +1,22 @@
+{
+  "id": "p004",
+  "text": "江南正适合采莲，莲叶茂盛相连。鱼儿在莲叶间来回游动，东西南北都充满了活泼的生机。",
+  "textSha256": "b03ae214a0b534b67d3d0dfcb53314cb9d31c452b73a7a1f4e36a20d49145d4d",
+  "sha256": "01fe6acb3d66491254a295e1ad3d3c72d305dd51df32bdeb98e45953808adbac",
+  "bytes": 59904,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 1000000,
+      "duration": 41076086,
+      "text": "江南正适合采莲，莲叶茂盛相连。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 41576086,
+      "duration": 57744564,
+      "text": "鱼儿在莲叶间来回游动，东西南北都充满了活泼的生机。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p054",
+  "text": "王昌龄。",
+  "textSha256": "faffcfbec25fc0fbab43d6b14d24e9fe4a921cf4d5445ae17f2531f34e4aa44c",
+  "sha256": "18f4d9425f2837d4de54e2d644ed4fb940b323f46d3e991861801001db07c991",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 14581521,
+      "text": "王昌龄。"
+    }
+  ],
+  "attempts": 1
+}

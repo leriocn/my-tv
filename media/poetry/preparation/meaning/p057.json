@@ -1,0 +1,22 @@
+{
+  "id": "p057",
+  "text": "初夏梅子金黄、杏子饱满，麦花雪白、菜花渐稀。白天变长，村民忙于田事，篱边少有人经过，只有蜻蜓蝴蝶飞舞。",
+  "textSha256": "5805ddf6c04ea940803f37baa0ab22dc2fa9e4f8f9e9802d61c9c2b8c5add76d",
+  "sha256": "845569d2196e837327b9c761e07ee0a4a228e6a7fa65cb13f50f0415442f2530",
+  "bytes": 77328,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 56429346,
+      "text": "初夏梅子金黄、杏子饱满，麦花雪白、菜花渐稀。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 56929346,
+      "duration": 71331520,
+      "text": "白天变长，村民忙于田事，篱边少有人经过，只有蜻蜓蝴蝶飞舞。"
+    }
+  ],
+  "attempts": 1
+}

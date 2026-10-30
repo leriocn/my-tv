@@ -1,0 +1,22 @@
+{
+  "id": "p087",
+  "text": "山野一片新绿，水田映出白光，杜鹃声中细雨如烟。乡村四月很少有人闲着，刚忙完养蚕，又赶着下田插秧。",
+  "textSha256": "cf30684762ade0028589afa190a4d34e8de241a46c0c5b90cc6b25c5d8316ede",
+  "sha256": "f3d6e12a2e5c8b031872dba6a32ed9929f33162e0444b85edcefca4006931bcc",
+  "bytes": 72864,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 57108694,
+      "text": "山野一片新绿，水田映出白光，杜鹃声中细雨如烟。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 57608694,
+      "duration": 63179346,
+      "text": "乡村四月很少有人闲着，刚忙完养蚕，又赶着下田插秧。"
+    }
+  ],
+  "attempts": 1
+}

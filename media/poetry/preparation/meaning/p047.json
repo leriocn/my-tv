@@ -1,0 +1,22 @@
+{
+  "id": "p047",
+  "text": "荷叶已枯，菊花虽残仍有傲霜枝干。一年中橙黄橘绿的深秋同样美好，诗人以此勉励朋友珍惜成熟的时光。",
+  "textSha256": "b16e814ceb892a7bc5b97f2e08b9de73e1fdce93dcdc79c7001adc599f371e5d",
+  "sha256": "26794fe1829ca85a73e18d5d2ea26e0c29606602d638b69639c8ca3c17808a77",
+  "bytes": 71568,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 42570651,
+      "text": "荷叶已枯，菊花虽残仍有傲霜枝干。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 43070651,
+      "duration": 75679346,
+      "text": "一年中橙黄橘绿的深秋同样美好，诗人以此勉励朋友珍惜成熟的时光。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p065",
+  "text": "没有月光的夜里雁群惊飞，敌军首领趁夜逃遁。将士们正要率轻骑追击，大雪已落满弓和刀，写出战士的勇毅。",
+  "textSha256": "e9e5771b2966b88b15a136dce77c00e2ff71846d26fc42f779563040cc592e1a",
+  "sha256": "1c352272b26fa776fb6fd4313f618d672bb44b3a0ce9459c0faa69c0460a68dd",
+  "bytes": 72864,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 51538042,
+      "text": "没有月光的夜里雁群惊飞，敌军首领趁夜逃遁。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 52038042,
+      "duration": 68749998,
+      "text": "将士们正要率轻骑追击，大雪已落满弓和刀，写出战士的勇毅。"
+    }
+  ],
+  "attempts": 1
+}

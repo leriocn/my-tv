@@ -1,0 +1,16 @@
+{
+  "id": "p014",
+  "text": "王安石。",
+  "textSha256": "a37eb8ef05c1561f9d1376aba92c166257b9c92acdc3b588a159a08fd56ac551",
+  "sha256": "ce2689463f6cf379fcce9f2abc65f9c8c219fb4bd8857d0e43b381de8aa69b7c",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 14309782,
+      "text": "王安石。"
+    }
+  ],
+  "attempts": 1
+}

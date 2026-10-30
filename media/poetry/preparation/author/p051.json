@@ -1,0 +1,16 @@
+{
+  "id": "p051",
+  "text": "李商隐。",
+  "textSha256": "0b7ee96070659ab512e70ce394db7aee92548535976e69c5f7bd5529abb02154",
+  "sha256": "1b48f27850d5fbfd97a964b28b627085413665feca50bb12028702e44fa2d399",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 14989130,
+      "text": "李商隐。"
+    }
+  ],
+  "attempts": 1
+}

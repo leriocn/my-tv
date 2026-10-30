@@ -1,0 +1,22 @@
+{
+  "id": "p032",
+  "text": "漆黑的水面上亮着一盏渔灯，远看如萤火般微小。风吹起细浪，灯光的倒影便散成了满河的星星。",
+  "textSha256": "7df7da13e7a8f2debb37a9c3f8b19b08ac74f7b08556e2e75618dc57ce3cf17b",
+  "sha256": "aea7e79b60fa16296bb9c1cf8f7b2a04bc9b3b254bc8960cf66b872785fd0b34",
+  "bytes": 63216,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 53032607,
+      "text": "漆黑的水面上亮着一盏渔灯，远看如萤火般微小。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 53532607,
+      "duration": 51222825,
+      "text": "风吹起细浪，灯光的倒影便散成了满河的星星。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p041",
+  "text": "江南的美景曾经十分熟悉：日出时江边的花红过火焰，春天的江水碧绿如蓝草。这样美的江南，怎能不令人怀念？",
+  "textSha256": "c89902adec3f057779bbb8f4272ba412da7f56b91272e80ee34a723b2fc3852c",
+  "sha256": "9d0000c8d893cbed2770c902fba4ad925c2b3dbb60c15c14978dac4642b5a0bf",
+  "bytes": 74160,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 87815215,
+      "text": "江南的美景曾经十分熟悉：日出时江边的花红过火焰，春天的江水碧绿如蓝草。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 88315215,
+      "duration": 34782608,
+      "text": "这样美的江南，怎能不令人怀念？"
+    }
+  ],
+  "attempts": 1
+}

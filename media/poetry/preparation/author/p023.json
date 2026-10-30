@@ -1,0 +1,16 @@
+{
+  "id": "p023",
+  "text": "白居易。",
+  "textSha256": "842e08e2ff0f34f50f93347d546ff52805c9f32b6002c7fbce11133c8e71dc62",
+  "sha256": "c4959e96a292392f080280a3143513bcf804e6e46bf099bfc97458a77e8908f9",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 14173912,
+      "text": "白居易。"
+    }
+  ],
+  "attempts": 2
+}

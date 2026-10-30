@@ -1,0 +1,22 @@
+{
+  "id": "p056",
+  "text": "昏黄云天遮住太阳，北风吹着雁群，雪花纷飞。诗人劝即将远行的朋友不要担心前路没有知己，天下谁不知道你的才华呢？",
+  "textSha256": "db127aeffe6007833b2e1151267ced0b161c9615986e0c5c3e2fa6936a6afdfe",
+  "sha256": "4509f4031e1b7f9c9e9394b8267959da74bd2bd1b8e966ff93d109a2b6fbea1d",
+  "bytes": 76608,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 52217390,
+      "text": "昏黄云天遮住太阳，北风吹着雁群，雪花纷飞。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 52717390,
+      "duration": 74320650,
+      "text": "诗人劝即将远行的朋友不要担心前路没有知己，天下谁不知道你的才华呢？"
+    }
+  ],
+  "attempts": 1
+}

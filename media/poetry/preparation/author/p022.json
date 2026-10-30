@@ -1,0 +1,16 @@
+{
+  "id": "p022",
+  "text": "高鼎。",
+  "textSha256": "948621a501ae26226327ffafec042dad8cc501d905be6fb99bfd9be9833a8e71",
+  "sha256": "1debfa817d4a663d372883c03276a59897282f1837d5cbd7c30a29a15bbf6b80",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 12271738,
+      "text": "高鼎。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p020",
+  "text": "山寺的高楼仿佛高达百尺，伸手似乎能摘下星星。诗人不敢大声说话，担心惊动天上的神仙。",
+  "textSha256": "38ab10301661142677cc52d40c0af6c123789b2d4e3d56b481315b99a7844087",
+  "sha256": "9d3746413df2829bbe0ecd55794fac8a6b8b01344416c2e4c8f24b65cba3f8fc",
+  "bytes": 62352,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 56293477,
+      "text": "山寺的高楼仿佛高达百尺，伸手似乎能摘下星星。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 56793477,
+      "duration": 46467390,
+      "text": "诗人不敢大声说话，担心惊动天上的神仙。"
+    }
+  ],
+  "attempts": 1
+}

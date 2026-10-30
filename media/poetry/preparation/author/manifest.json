@@ -1,0 +1,546 @@
+[
+  {
+    "id": "p001",
+    "text": "骆宾王。",
+    "textSha256": "aa7ef2a2712108d5f82344b00348bec503e0d67aab1f93b6c8a3d16414dd268b",
+    "sha256": "06acfc2fb4e91af566401c3ea38991a494321137e1aed09d9de5dd42a571fce9",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 13766304,
+        "text": "骆宾王。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p002",
+    "text": "佚名。",
+    "textSha256": "ffd42559648d98e9ed52c847ff4ab2415091bc8e10dfe19bd348a96e2d01376f",
+    "sha256": "3a3ca1506da0f3f0705ced9cdd0007e66bd1e5755e336e9defc2b1a0b6b18c9c",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11728260,
+        "text": "佚名。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p006",
+    "text": "李峤。",
+    "textSha256": "3c91b66df86a1406f2728d44628a58545782f811bb2daea9fd20f94cb92d7220",
+    "sha256": "c7dd61531c79efc7852d4863f34fd92a36af5ea64081082c5216c1dfb11be5b9",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 12135869,
+        "text": "李峤。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p008",
+    "text": "贾岛。",
+    "textSha256": "fd47fb2771300b53ebc6be54712dce47cd12c7674f142bd4bfe32cbb816e8930",
+    "sha256": "3e17e34b433876b9a4c388a24221adfbf92c7b6c8364ca1495c1945d5c587d88",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 12271738,
+        "text": "贾岛。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p013",
+    "text": "唐寅。",
+    "textSha256": "b2338dacf9ef7b6513f3c9e2a2d48c019e793ddc3cf2d2776d21bde11810991d",
+    "sha256": "b50e7eba0e54155f6c47b2f89775e4a5bc458510e394280e1aac951252fed527",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 12407608,
+        "text": "唐寅。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p014",
+    "text": "王安石。",
+    "textSha256": "a37eb8ef05c1561f9d1376aba92c166257b9c92acdc3b588a159a08fd56ac551",
+    "sha256": "ce2689463f6cf379fcce9f2abc65f9c8c219fb4bd8857d0e43b381de8aa69b7c",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 14309782,
+        "text": "王安石。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p021",
+    "text": "贺知章。",
+    "textSha256": "4421166f015bf797b1b21e3e7bcf51d1806a9e244de499b0c5013313ef10ca7d",
+    "sha256": "eb56f300fbc6f26e9a64cf5d5f50580ebf517ea0fab58ca3f17d72cfb14bb05b",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 14038043,
+        "text": "贺知章。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p022",
+    "text": "高鼎。",
+    "textSha256": "948621a501ae26226327ffafec042dad8cc501d905be6fb99bfd9be9833a8e71",
+    "sha256": "1debfa817d4a663d372883c03276a59897282f1837d5cbd7c30a29a15bbf6b80",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 12271738,
+        "text": "高鼎。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p023",
+    "text": "白居易。",
+    "textSha256": "842e08e2ff0f34f50f93347d546ff52805c9f32b6002c7fbce11133c8e71dc62",
+    "sha256": "c4959e96a292392f080280a3143513bcf804e6e46bf099bfc97458a77e8908f9",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 14173912,
+        "text": "白居易。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p024",
+    "text": "杜甫。",
+    "textSha256": "42a072ca979f2e5ddf5db777c302f4f03d30edc966f0b809aaefbf1cc4f73af9",
+    "sha256": "71eccc51cf5cb320a4ec89d38001de766e90c7428eab47921a72407ef07fadaf",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 12135869,
+        "text": "杜甫。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p025",
+    "text": "杨万里。",
+    "textSha256": "44b0868c7ad07728413c9428b1e02371d98cdf18b36f70e6f09a72163ffb4dee",
+    "sha256": "b12ca61dc879c32082d182651f54456ab2c0ffd24096fbbd6731b367e233ed9e",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 14173912,
+        "text": "杨万里。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p026",
+    "text": "李绅。",
+    "textSha256": "0538e3c89e9c99d00526064362c894225ec5826ef66eb0210a9c00e170a77949",
+    "sha256": "3929dc05aadeb19be600cb66236b7c9209f35f133747ea1b04946a99c922c0a4",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11999999,
+        "text": "李绅。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p028",
+    "text": "袁枚。",
+    "textSha256": "5fa24ec7e173346cd062c65453b6fe7b59077260e5d1e83503cf9bae93fa32a3",
+    "sha256": "52e084c0a7c0131643b4283caa4d34142b6f8b367fa880d6256fbae1b212087b",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11999999,
+        "text": "袁枚。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p029",
+    "text": "刘禹锡。",
+    "textSha256": "bc6cf302e3edcf2691ba68eec14a3e79849fb1327ffdb66bca4e1f7882026476",
+    "sha256": "9cd71823fec8ceefbdeea341a4c148b4bc7acd0963efd5889d289c28805829a9",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 13766304,
+        "text": "刘禹锡。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p030",
+    "text": "杜牧。",
+    "textSha256": "9926af836b85d59f81f8838361bb63e721664a26410883b3f2630db8e085c9e2",
+    "sha256": "5b4053263b52d64906a8dc2dec9a9821cb7334d9f040394c97b2a1411d1d5fe8",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11184782,
+        "text": "杜牧。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p031",
+    "text": "叶绍翁。",
+    "textSha256": "723fe969c06fc0285c5ed5e04f4b6b022dbee5e1e27fa15ea019661cc45f8014",
+    "sha256": "56c84e846724b76c23ef100a2b4a5716503b0426715dd53aa6fdd30ba7816b69",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 13902173,
+        "text": "叶绍翁。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p032",
+    "text": "查慎行。",
+    "textSha256": "6e630d95ec8fd908e03d3e910b725215accc9638e118d6febaf13cf8514c8885",
+    "sha256": "90f79d3fb30a7102bb6878ff6af09226cf7e9ddb018873e71525165406173097",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 15260869,
+        "text": "查慎行。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p033",
+    "text": "李白。",
+    "textSha256": "be7123d36a91ed37040b5f7281d208295cf41cf44fc27af19373eb9f77b8d5f0",
+    "sha256": "bf087edffd48214f78a0509c6a1fd9a33e02c56729e40851d15f449dca7239ca",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11456521,
+        "text": "李白。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p035",
+    "text": "李白。",
+    "textSha256": "be7123d36a91ed37040b5f7281d208295cf41cf44fc27af19373eb9f77b8d5f0",
+    "sha256": "33265ebbc7d1170b5ba0e9e05952f79bf66a185ce50ff61b6e3636af80496e90",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11456521,
+        "text": "李白。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p036",
+    "text": "苏轼。",
+    "textSha256": "7905edb9a15527a13fcc016cc1626816973598c10d7d956a534784820c8aff60",
+    "sha256": "e6d676f86fe6d5e82e740e8b7b114ed1dcb246a2dc4560bbc8365fe73ca3e1a2",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 13086956,
+        "text": "苏轼。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p037",
+    "text": "王昌龄。",
+    "textSha256": "faffcfbec25fc0fbab43d6b14d24e9fe4a921cf4d5445ae17f2531f34e4aa44c",
+    "sha256": "546910faa1c827984cf9f6ad440cdb2e5e2f9099ee700d5992c8f5e36d3e43e9",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 14581521,
+        "text": "王昌龄。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p038",
+    "text": "杜甫。",
+    "textSha256": "42a072ca979f2e5ddf5db777c302f4f03d30edc966f0b809aaefbf1cc4f73af9",
+    "sha256": "10636bd94482cafa08b5a204217d56a93cc99c9e1dfb358856ea7ab2f97cec62",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 12135869,
+        "text": "杜甫。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p047",
+    "text": "苏轼。",
+    "textSha256": "7905edb9a15527a13fcc016cc1626816973598c10d7d956a534784820c8aff60",
+    "sha256": "c2a03b0e238ce963eabe99b6328a7feb3ff07892c33cc85647d1aae3aedb5a63",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 13086956,
+        "text": "苏轼。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p048",
+    "text": "白居易。",
+    "textSha256": "842e08e2ff0f34f50f93347d546ff52805c9f32b6002c7fbce11133c8e71dc62",
+    "sha256": "72c0963a29f904906c4c5876d03d660b4ced91892ab7f59d814d39fa4d1b6920",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 14173912,
+        "text": "白居易。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p049",
+    "text": "苏轼。",
+    "textSha256": "7905edb9a15527a13fcc016cc1626816973598c10d7d956a534784820c8aff60",
+    "sha256": "7a23ec3a5a67cec45605d72625dd79ce2328feb911162fd1606c50a3d20e60a6",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 13086956,
+        "text": "苏轼。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p050",
+    "text": "卢钺。",
+    "textSha256": "2f09cf365902ac32077adb2f36488130591629f8bb23955b1b8d59bd85f13cf1",
+    "sha256": "e5e1770ab6a780f1de2f9eeba7f71449c81fb5576870c1b6e58dcb8d4e87dbef",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11999999,
+        "text": "卢钺。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p051",
+    "text": "李商隐。",
+    "textSha256": "0b7ee96070659ab512e70ce394db7aee92548535976e69c5f7bd5529abb02154",
+    "sha256": "1b48f27850d5fbfd97a964b28b627085413665feca50bb12028702e44fa2d399",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 14989130,
+        "text": "李商隐。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p053",
+    "text": "王翰。",
+    "textSha256": "302b907c9c9772e416a68295e48b99301a04f29ddd2351bf95877594e44420ec",
+    "sha256": "105dc402af9e6836b395917baeaab5f6db01b73971794a1e7feccad0697ee07a",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11999999,
+        "text": "王翰。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p054",
+    "text": "王昌龄。",
+    "textSha256": "faffcfbec25fc0fbab43d6b14d24e9fe4a921cf4d5445ae17f2531f34e4aa44c",
+    "sha256": "18f4d9425f2837d4de54e2d644ed4fb940b323f46d3e991861801001db07c991",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 14581521,
+        "text": "王昌龄。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p055",
+    "text": "李清照。",
+    "textSha256": "c474053fe6894aa0455d4db250099654a1875773f1d7e2e8d4c66a9664d38458",
+    "sha256": "00257b39f5e4f23bed8172047a4274bbeb6f37855c337435855ee1314e50cef8",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 13902173,
+        "text": "李清照。"
+      }
+    ],
+    "attempts": 2
+  },
+  {
+    "id": "p056",
+    "text": "高适。",
+    "textSha256": "b50b1f9e4bb2883acfcda646070c24f252eb1532d122ada5f805279543f48a19",
+    "sha256": "3a8e5f9f74fb7b467bcdf3f317e918bd53d4f83316a12c06ea13d9f47bc3fc77",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 12543478,
+        "text": "高适。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p068",
+    "text": "陆游。",
+    "textSha256": "4c4d79baf0f66ddac3eb54a2e80ecd2fd5fbf0f09d5703678ed1ec5084f6a3f5",
+    "sha256": "75c32d2b1b7781719a8c933ae3330f2d2da213d3168662616b2a27191e1b5a96",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 11864130,
+        "text": "陆游。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p069",
+    "text": "林升。",
+    "textSha256": "74338ac80aaee785f5abc84f3c9da1ab088036b62b632dee9ad571560c7d8792",
+    "sha256": "ff8fd49661c8eacc78d180986de3a7dd5bbc2cf938cd0a429fddb743efcec374",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 12135869,
+        "text": "林升。"
+      }
+    ],
+    "attempts": 1
+  },
+  {
+    "id": "p070",
+    "text": "龚自珍。",
+    "textSha256": "5ebd68662d5c5d863f2e2d51a88048bce7c9b5c5cbe460efd496ed6036f0be4b",
+    "sha256": "bb837f530a43a6c19361621719aa720ef2786199f30a3389007dede3f557aacf",
+    "bytes": 11232,
+    "metadata": [
+      {
+        "type": "SentenceBoundary",
+        "offset": 500000,
+        "duration": 13494564,
+        "text": "龚自珍。"
+      }
+    ],
+    "attempts": 1
+  }
+]

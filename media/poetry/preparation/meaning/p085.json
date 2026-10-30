@@ -1,0 +1,22 @@
+{
+  "id": "p085",
+  "text": "黄河仿佛流向白云深处，孤城立在高山之间。羌笛吹奏着《折杨柳》，令人思乡；边关遥远，连春风似乎也难以到达。",
+  "textSha256": "141e7d505fbc244a18692595213f670cf0d7f68a74066df63551eca34c434e7b",
+  "sha256": "197ace5fd59cdfcb27d0655ec91f6caaab5c3789724d4750e953a2c120827cdd",
+  "bytes": 77040,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 52217390,
+      "text": "黄河仿佛流向白云深处，孤城立在高山之间。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 52717390,
+      "duration": 75135868,
+      "text": "羌笛吹奏着《折杨柳》，令人思乡；边关遥远，连春风似乎也难以到达。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p043",
+  "text": "爆竹声送走旧年，春风带来暖意，人们饮屠苏酒迎新。朝阳照进千家万户，大家用新桃符换下旧桃符。",
+  "textSha256": "5680de553c42d6a4e450d339d1d801ac27c5f5bc0d25581ac4b4a39b95df2c42",
+  "sha256": "4feaac6ca02e577205819c6f2cb5eaa846243239c2e09011de32140101f4709c",
+  "bytes": 67824,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 57788042,
+      "text": "爆竹声送走旧年，春风带来暖意，人们饮屠苏酒迎新。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 58288042,
+      "duration": 54211955,
+      "text": "朝阳照进千家万户，大家用新桃符换下旧桃符。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,16 @@
+{
+  "id": "p021",
+  "text": "贺知章。",
+  "textSha256": "4421166f015bf797b1b21e3e7bcf51d1806a9e244de499b0c5013313ef10ca7d",
+  "sha256": "eb56f300fbc6f26e9a64cf5d5f50580ebf517ea0fab58ca3f17d72cfb14bb05b",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 14038043,
+      "text": "贺知章。"
+    }
+  ],
+  "attempts": 1
+}

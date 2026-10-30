@@ -1,0 +1,698 @@
+{
+  "p001": {
+    "start": 14.9,
+    "end": 28.6,
+    "sourceSha256": "c7e5e78719055abf50e1a5b41415a0ebe6feae2b069a3d8a4a783983a942be05",
+    "introStart": 7.44,
+    "introEnd": 9.35,
+    "authorText": "骆宾王。"
+  },
+  "p002": {
+    "start": 8.17,
+    "end": 24.63,
+    "sourceSha256": "81b9a9c8f1e8a8ef131655929dd144e55925ed7aa3278899825032cb141b99e6",
+    "introStart": 5.67,
+    "introEnd": 6.54,
+    "authorText": "佚名。"
+  },
+  "p003": {
+    "start": 24.76,
+    "end": 46.63,
+    "sourceSha256": "ca06b80ccecae4ebe71e927c17721ad702d288a47e30501cb7bacb78197f9d24",
+    "introStart": 6.62,
+    "introEnd": 11.77,
+    "authorText": ""
+  },
+  "p004": {
+    "start": 12.64,
+    "end": 42.64,
+    "sourceSha256": "77947fe3c97757d98cbf5f3f1ff802403de60b087360abe4f3dbc7861057078c",
+    "introStart": 5.04,
+    "introEnd": 8.69,
+    "authorText": ""
+  },
+  "p005": {
+    "start": 13.89,
+    "end": 28.91,
+    "sourceSha256": "06c6bc80a856ff4f69f28a52c7039229d768f828a5e555fabcb7745c7745ea5e",
+    "introStart": 6.26,
+    "introEnd": 12.87,
+    "authorText": ""
+  },
+  "p006": {
+    "start": 16.99,
+    "end": 32.83,
+    "sourceSha256": "cd7fba339eb2005361ed6f8810959e37006689da7e8dd6cb93c0bbf0953761c4",
+    "introStart": 8.29,
+    "introEnd": 9.34,
+    "authorText": "李峤。"
+  },
+  "p007": {
+    "start": 13.31,
+    "end": 28.15,
+    "sourceSha256": "d2cacf9fcb27077312cdead91e74cbb841a7927480c8dad281bd07433acc2441",
+    "introStart": 6.2,
+    "introEnd": 11.25,
+    "authorText": ""
+  },
+  "p008": {
+    "start": 14.99,
+    "end": 29.61,
+    "sourceSha256": "4a8830d833fed43a3e9f3ad8873014bd9ba99efb3441e668945eecfcf4f0615e",
+    "introStart": 8.08,
+    "introEnd": 10.49,
+    "authorText": "贾岛。"
+  },
+  "p009": {
+    "start": 21.35,
+    "end": 48.85,
+    "sourceSha256": "dfa810b806d8dcd33cc822652b901065613f8c01bb54b70b4962c7492f1e653f",
+    "introStart": 6.52,
+    "introEnd": 12.05,
+    "authorText": ""
+  },
+  "p010": {
+    "start": 19.83,
+    "end": 39.49,
+    "sourceSha256": "2bc67a7b5cb0db582d4da282eabf601aa577886527ce79f14d3ed808fb036acd",
+    "introStart": 6.19,
+    "introEnd": 10.4,
+    "authorText": ""
+  },
+  "p011": {
+    "start": 17.1,
+    "end": 35.3,
+    "sourceSha256": "748a58ecdd50e4849b6b94674eca16485aec851d1c9182fd9fe1612487820ddc",
+    "introStart": 9.41,
+    "introEnd": 14.0,
+    "authorText": ""
+  },
+  "p012": {
+    "start": 18.08,
+    "end": 40.96,
+    "sourceSha256": "2b3ad15dbcdad75e621977c9932a44c8758ab62e7806210108265e711eed7161",
+    "introStart": 8.27,
+    "introEnd": 12.96,
+    "authorText": ""
+  },
+  "p013": {
+    "start": 9.07,
+    "end": 27.17,
+    "sourceSha256": "5bcaaac371538212ef10ab9065c115e626de6e7e66a45b4d255d392cb3bac24d",
+    "introStart": 6.36,
+    "introEnd": 7.65,
+    "authorText": "唐寅。"
+  },
+  "p014": {
+    "start": 11.45,
+    "end": 29.13,
+    "sourceSha256": "01e9e9d299d03e7beec0e933a1a0bdeedad5d4816d4e0b16bbceac375162786f",
+    "introStart": 7.75,
+    "introEnd": 9.48,
+    "authorText": "王安石。"
+  },
+  "p015": {
+    "start": 13.15,
+    "end": 32.45,
+    "sourceSha256": "e182e111083d1b9b8e2ceb4d5726553652c44db5b89099b04c03bef2bdd293c3",
+    "introStart": 5.82,
+    "introEnd": 11.41,
+    "authorText": ""
+  },
+  "p016": {
+    "start": 16.24,
+    "end": 31.08,
+    "sourceSha256": "b7c312891a8f2a7e4e52a14b4bdb9b9a4c1adda36f706f0d6cddd559bb2a1632",
+    "introStart": 8.66,
+    "introEnd": 13.33,
+    "authorText": ""
+  },
+  "p017": {
+    "start": 17.87,
+    "end": 36.37,
+    "sourceSha256": "bcc7929b9869c7836b3ec666e49754d45b39772ed5ea6303fa6ffd7f61300573",
+    "introStart": 8.26,
+    "introEnd": 13.47,
+    "authorText": ""
+  },
+  "p018": {
+    "start": 13.77,
+    "end": 30.37,
+    "sourceSha256": "f93533db0e3f63cf452f05827da401a81b9508b3192c391aa0fc3850268c3f02",
+    "introStart": 7.98,
+    "introEnd": 13.21,
+    "authorText": ""
+  },
+  "p019": {
+    "start": 16.45,
+    "end": 36.75,
+    "sourceSha256": "b61ad707427246ffabbdd04d6fd7096111eb2b3903e64ccccf6ea94ea4490059",
+    "introStart": 8.03,
+    "introEnd": 12.1,
+    "authorText": ""
+  },
+  "p020": {
+    "start": 17.53,
+    "end": 35.61,
+    "sourceSha256": "8d6ac1e4c6c4d59e6ef5480fe1d2bd9a3a136b15c01384c13d7db4385a309e95",
+    "introStart": 7.89,
+    "introEnd": 12.24,
+    "authorText": ""
+  },
+  "p021": {
+    "start": 12.13,
+    "end": 31.99,
+    "sourceSha256": "053b3751db7d8ae8592d07667ce258a30af70972e544f13fcdf2e4f2e1457598",
+    "introStart": 7.16,
+    "introEnd": 8.21,
+    "authorText": "贺知章。"
+  },
+  "p022": {
+    "start": 16.32,
+    "end": 36.14,
+    "sourceSha256": "f364dc942b9180d77be5d3431f5453510367dac19326b877e60ad2b6931e45dd",
+    "introStart": 6.09,
+    "introEnd": 7.34,
+    "authorText": "高鼎。"
+  },
+  "p023": {
+    "start": 10.03,
+    "end": 26.28,
+    "sourceSha256": "15877268b3599756ec6d86cf1c222de83c2a142997cd88dcfb5464e382baf250",
+    "introStart": 5.3,
+    "introEnd": 9.41,
+    "authorText": "白居易。"
+  },
+  "p024": {
+    "start": 8.06,
+    "end": 27.42,
+    "sourceSha256": "ce23122ad97e01b42eb75803a91b1b55eb93085821f9ebaf0df2123a5478fbeb",
+    "introStart": 6.51,
+    "introEnd": 7.6,
+    "authorText": "杜甫。"
+  },
+  "p025": {
+    "start": 16.48,
+    "end": 38.16,
+    "sourceSha256": "1d8aedf7a0762babac1c2ff561e4d201a8e92af1620406ff4b1c9f5eee8d7f9d",
+    "introStart": 6.21,
+    "introEnd": 10.66,
+    "authorText": "杨万里。"
+  },
+  "p026": {
+    "start": 10.4,
+    "end": 30.01,
+    "sourceSha256": "f376991abb341130580f1dfd3884159927aa270774fe39eca84c9e76c6005b87",
+    "introStart": 6.53,
+    "introEnd": 9.0,
+    "authorText": "李绅。"
+  },
+  "p027": {
+    "start": 13.06,
+    "end": 29.68,
+    "sourceSha256": "22d2af1d5463681c89c4c687ec2a64a5f53929cf435b747106523ae95381efd3",
+    "introStart": 5.08,
+    "introEnd": 9.57,
+    "authorText": ""
+  },
+  "p028": {
+    "start": 8.39,
+    "end": 22.37,
+    "sourceSha256": "6c39bc1f146383b59743a91a86e8c953b1b294978e0e3c4c06e4537089b12b33",
+    "introStart": 5.49,
+    "introEnd": 6.96,
+    "authorText": "袁枚。"
+  },
+  "p029": {
+    "start": 9.67,
+    "end": 30.59,
+    "sourceSha256": "459adaa57690addd31a8b8508acef093127847cf8a6cee6cafd1897e4e7955fc",
+    "introStart": 6.01,
+    "introEnd": 7.52,
+    "authorText": "刘禹锡。"
+  },
+  "p030": {
+    "start": 9.1,
+    "end": 27.48,
+    "sourceSha256": "7f148f27b5bc67018dd7fc23b944785b546203b42648031949a8d31b9d93697d",
+    "introStart": 5.86,
+    "introEnd": 7.11,
+    "authorText": "杜牧。"
+  },
+  "p031": {
+    "start": 8.21,
+    "end": 29.47,
+    "sourceSha256": "b99aebd8e341504f8206afd3916216e7c573470be4f52ffbb2fda45072f3de3e",
+    "introStart": 5.66,
+    "introEnd": 7.49,
+    "authorText": "叶绍翁。"
+  },
+  "p032": {
+    "start": 15.13,
+    "end": 32.55,
+    "sourceSha256": "b1c4ff47ab2e58de35809f95d4977bfd06c389d27506b1f704985192db8356fe",
+    "introStart": 6.43,
+    "introEnd": 9.62,
+    "authorText": "查慎行。"
+  },
+  "p033": {
+    "start": 17.39,
+    "end": 35.55,
+    "sourceSha256": "6bef95adc78588d5beff835c91d5d166774831fb4fc41f9f123b4f96607e084a",
+    "introStart": 6.4,
+    "introEnd": 9.03,
+    "authorText": "李白。"
+  },
+  "p034": {
+    "start": 12.02,
+    "end": 23.96,
+    "sourceSha256": "98bd0a1e9b5c0a919b4c3dd5ad4894d86b369f4d99dc18bd7764cf64a8168e08",
+    "introStart": 6.97,
+    "introEnd": 10.14,
+    "authorText": ""
+  },
+  "p035": {
+    "start": 9.82,
+    "end": 31.48,
+    "sourceSha256": "3f4576877cf55aa2c9177a5bac89a56b39c8c1e6ca0d1b8daf0d98d907655558",
+    "introStart": 5.62,
+    "introEnd": 7.77,
+    "authorText": "李白。"
+  },
+  "p036": {
+    "start": 22.01,
+    "end": 40.25,
+    "sourceSha256": "8385cb72333ea52895fe9183cff44a0f9a26a4b8344c1da9e44687baf89e6ea3",
+    "introStart": 6.64,
+    "introEnd": 10.01,
+    "authorText": "苏轼。"
+  },
+  "p037": {
+    "start": 9.11,
+    "end": 28.47,
+    "sourceSha256": "a26103b81d5f42959e943834d68036f60b14a4c7507d309a67ae25494358a500",
+    "introStart": 5.54,
+    "introEnd": 7.31,
+    "authorText": "王昌龄。"
+  },
+  "p038": {
+    "start": 10.11,
+    "end": 25.03,
+    "sourceSha256": "73a48638c3ad8852b5254c2e6faef296c552dc40d62d06ec956f7accfa690e8f",
+    "introStart": 6.44,
+    "introEnd": 7.35,
+    "authorText": "杜甫。"
+  },
+  "p039": {
+    "start": 14.3,
+    "end": 36.0,
+    "sourceSha256": "f73629da8b309ce3008eca5342c81a13a4cc407f7175c0120231bbe53f83c29e",
+    "introStart": 5.25,
+    "introEnd": 10.39,
+    "authorText": ""
+  },
+  "p040": {
+    "start": 12.93,
+    "end": 33.81,
+    "sourceSha256": "f271b1bc03c094d32ec3957819e282fbbb872969870737bc6f7c98ec6cf30442",
+    "introStart": 5.62,
+    "introEnd": 9.61,
+    "authorText": ""
+  },
+  "p041": {
+    "start": 17.13,
+    "end": 34.81,
+    "sourceSha256": "9b363e480314186743b1ce48f80e50a3f21cfdc917210327ad3697259f2c3d9c",
+    "introStart": 6.23,
+    "introEnd": 10.52,
+    "authorText": ""
+  },
+  "p042": {
+    "start": 22.3,
+    "end": 43.15,
+    "sourceSha256": "7a2aea5d6fad47791a6d66e314b173ae9d5ea420ddeee656151b2bee890665b6",
+    "introStart": 8.0,
+    "introEnd": 11.95,
+    "authorText": ""
+  },
+  "p043": {
+    "start": 15.0,
+    "end": 37.63,
+    "sourceSha256": "97e975e6e117a28dc1771fad5c0d7f190e4a4e22b61fa46864e2682b2f081d4c",
+    "introStart": 5.58,
+    "introEnd": 9.11,
+    "authorText": ""
+  },
+  "p044": {
+    "start": 11.37,
+    "end": 32.57,
+    "sourceSha256": "5a45e3ac7b3c1edde79419557db5c183edacac1fd7b2285b7c37ca535dad0410",
+    "introStart": 5.66,
+    "introEnd": 9.21,
+    "authorText": ""
+  },
+  "p045": {
+    "start": 20.84,
+    "end": 39.92,
+    "sourceSha256": "a5613d6a494257345a8a625f160c250b12bf2ab6abdc7ffa2132ab25dc50597d",
+    "introStart": 7.23,
+    "introEnd": 12.9,
+    "authorText": ""
+  },
+  "p046": {
+    "start": 12.28,
+    "end": 32.98,
+    "sourceSha256": "e2ce8246b73a76297ffab361178a7071b2e9db97ed831c5a5cee2614946cf67b",
+    "introStart": 6.0,
+    "introEnd": 10.33,
+    "authorText": ""
+  },
+  "p047": {
+    "start": 13.98,
+    "end": 32.95,
+    "sourceSha256": "49d019e86b3c604467b4eb30b47f4c75c0ed7aa7bedd8bf4de222ece130589f6",
+    "introStart": 6.44,
+    "introEnd": 8.67,
+    "authorText": "苏轼。"
+  },
+  "p048": {
+    "start": 18.98,
+    "end": 43.19,
+    "sourceSha256": "740b3a5f55f7ec9f93c2e473f81fd1cac63f6eaf2d56aedd7eb8f07b7250da03",
+    "introStart": 7.7,
+    "introEnd": 8.95,
+    "authorText": "白居易。"
+  },
+  "p049": {
+    "start": 12.8,
+    "end": 30.2,
+    "sourceSha256": "7fb82f06e7633362f1a8869286d2abd8ee65cca960507e52cac9043de091167d",
+    "introStart": 6.76,
+    "introEnd": 8.93,
+    "authorText": "苏轼。"
+  },
+  "p050": {
+    "start": 10.7,
+    "end": 28.38,
+    "sourceSha256": "58cda190181a77c6887e7bf7fef16e0588b3565bb34e5b5562381d70497516fd",
+    "introStart": 7.54,
+    "introEnd": 8.49,
+    "authorText": "卢钺。"
+  },
+  "p051": {
+    "start": 9.86,
+    "end": 32.3,
+    "sourceSha256": "31ebb7d7c83b9ec77bee2bac2d5efee2c44a2e2c9db014d63faa747c811d4222",
+    "introStart": 6.3,
+    "introEnd": 7.57,
+    "authorText": "李商隐。"
+  },
+  "p052": {
+    "start": 18.7,
+    "end": 43.7,
+    "sourceSha256": "d8af7a9662b7bc40f5d8ae424dea3b504a3aa019368445bd072707393f081649",
+    "introStart": 7.39,
+    "introEnd": 13.16,
+    "authorText": ""
+  },
+  "p053": {
+    "start": 15.0,
+    "end": 33.52,
+    "sourceSha256": "c1b64a46658cfec3ff410b50726326d6b621ab9066397b501c2563cee181128a",
+    "introStart": 7.64,
+    "introEnd": 8.87,
+    "authorText": "王翰。"
+  },
+  "p054": {
+    "start": 13.48,
+    "end": 34.82,
+    "sourceSha256": "5a882a207287c46ac91d86be1ab14c4d003891a32a77f5df5e3eda5647aebd0b",
+    "introStart": 6.87,
+    "introEnd": 8.54,
+    "authorText": "王昌龄。"
+  },
+  "p055": {
+    "start": 14.55,
+    "end": 29.47,
+    "sourceSha256": "4551cce01879f1ac6e467e86cbebd364efb02b2517649e2c8ea3b6a6e7de715c",
+    "introStart": 7.75,
+    "introEnd": 9.38,
+    "authorText": "李清照。"
+  },
+  "p056": {
+    "start": 18.66,
+    "end": 39.76,
+    "sourceSha256": "6acd7ba14fecacc9ee3f4336dc29db3a36ffe9159c8f539b6aa02f941840f153",
+    "introStart": 5.44,
+    "introEnd": 6.79,
+    "authorText": "高适。"
+  },
+  "p057": {
+    "start": 19.47,
+    "end": 38.97,
+    "sourceSha256": "f39da013ea3abdd9aaa2f6b1322629025d87a742034655061574067995cf6ef5",
+    "introStart": 7.42,
+    "introEnd": 14.17,
+    "authorText": ""
+  },
+  "p058": {
+    "start": 17.83,
+    "end": 36.85,
+    "sourceSha256": "98874cc5804eedcf92f78787304caef6fe360e354aba574264b94286aff85996",
+    "introStart": 7.57,
+    "introEnd": 12.4,
+    "authorText": ""
+  },
+  "p059": {
+    "start": 17.71,
+    "end": 47.03,
+    "sourceSha256": "a895b475abba0fa893b561e0922e8047bd10b8a4b5e2864edc6129cf852f2d9a",
+    "introStart": 7.09,
+    "introEnd": 12.62,
+    "authorText": ""
+  },
+  "p060": {
+    "start": 28.84,
+    "end": 65.09,
+    "sourceSha256": "9a6ed9b9444674d46098c6e13dd914b66f7f0fbe627322373924e98d1bcabbe6",
+    "introStart": 5.52,
+    "introEnd": 9.39,
+    "authorText": ""
+  },
+  "p061": {
+    "start": 12.55,
+    "end": 31.6,
+    "sourceSha256": "8970bf98b681b205b8bfe3018f5bfcec6befea22a1b5b33436b33931df6cf136",
+    "introStart": 5.42,
+    "introEnd": 10.55,
+    "authorText": ""
+  },
+  "p062": {
+    "start": 15.1,
+    "end": 37.25,
+    "sourceSha256": "e021f956c2c9857b20a6672d1b6e10703983b8af9bdf40a0c546c070fd98e8e1",
+    "introStart": 5.46,
+    "introEnd": 8.27,
+    "authorText": ""
+  },
+  "p063": {
+    "start": 15.33,
+    "end": 34.17,
+    "sourceSha256": "f9ba4c10a12113c2f84c067c8b15b00e3d3bf1d62b3ca9518e018dc98522656c",
+    "introStart": 5.78,
+    "introEnd": 10.07,
+    "authorText": ""
+  },
+  "p064": {
+    "start": 14.5,
+    "end": 34.4,
+    "sourceSha256": "6f7beb5257cdf3f5090728a79a75d770663dde2d707c8b361f1aeae16ce4ce3c",
+    "introStart": 5.56,
+    "introEnd": 11.55,
+    "authorText": ""
+  },
+  "p065": {
+    "start": 16.85,
+    "end": 33.19,
+    "sourceSha256": "21d57a19e98a0234bfc6d274dbb0f6695fdbc2834dd4a0856e94c99320500dd7",
+    "introStart": 6.34,
+    "introEnd": 9.93,
+    "authorText": ""
+  },
+  "p066": {
+    "start": 16.53,
+    "end": 37.31,
+    "sourceSha256": "3e7ffa4bbfa656b166a932ea0aec0f16ab3ff232ec1b1f715536003b0f8e06c9",
+    "introStart": 6.18,
+    "introEnd": 9.63,
+    "authorText": ""
+  },
+  "p067": {
+    "start": 13.12,
+    "end": 33.4,
+    "sourceSha256": "bcc204f01fd3d5638bca1d7239cf0da58144e9d5017c5a292991b6dfd855b8ef",
+    "introStart": 7.14,
+    "introEnd": 10.65,
+    "authorText": ""
+  },
+  "p068": {
+    "start": 13.69,
+    "end": 33.23,
+    "sourceSha256": "5f85597fa6caf7ae70dd085052508af9d608622c78043ac8e5b05a95268e9143",
+    "introStart": 7.62,
+    "introEnd": 8.55,
+    "authorText": "陆游。"
+  },
+  "p069": {
+    "start": 14.48,
+    "end": 34.28,
+    "sourceSha256": "215f922125146548d2c08a6ceac2569a3981ba3fbe158c40337e632dbfecd8be",
+    "introStart": 7.54,
+    "introEnd": 9.01,
+    "authorText": "林升。"
+  },
+  "p070": {
+    "start": 13.75,
+    "end": 31.47,
+    "sourceSha256": "d3751708d49fe385dfec78b39d4b3107b03d69ce1c5a154900ce3a3f7a27bf94",
+    "introStart": 7.63,
+    "introEnd": 9.34,
+    "authorText": "龚自珍。"
+  },
+  "p071": {
+    "start": 12.02,
+    "end": 36.12,
+    "sourceSha256": "0c0ce9d61c5e8e5d42c97e1c69c3ff9e55cbefde38bdcb196c137d9d5fdf13bb",
+    "introStart": 5.81,
+    "introEnd": 9.26,
+    "authorText": ""
+  },
+  "p072": {
+    "start": 16.66,
+    "end": 47.94,
+    "sourceSha256": "30dc649c3b023037c67a399bcd60564692cd4f4e917407bd4299fbbd08c9cdfb",
+    "introStart": 7.24,
+    "introEnd": 10.93,
+    "authorText": ""
+  },
+  "p073": {
+    "start": 14.53,
+    "end": 34.01,
+    "sourceSha256": "826b54181ecdf0dcef8a9ebb61154b6664a6ff3b9ab8c24a450b68c64819b4e6",
+    "introStart": 7.32,
+    "introEnd": 10.99,
+    "authorText": ""
+  },
+  "p074": {
+    "start": 20.31,
+    "end": 37.55,
+    "sourceSha256": "e7b7f8b0c68aa5fa3cbbc4c735941811fb53e146c7c375810335d68bff4748e9",
+    "introStart": 6.51,
+    "introEnd": 12.68,
+    "authorText": ""
+  },
+  "p075": {
+    "start": 15.0,
+    "end": 34.35,
+    "sourceSha256": "4ce3933a95253bcbb141c4055e89458788ac14748341d3138367f3e0bc47ac47",
+    "introStart": 8.19,
+    "introEnd": 13.98,
+    "authorText": ""
+  },
+  "p076": {
+    "start": 14.02,
+    "end": 33.68,
+    "sourceSha256": "7d0912f83ab84a24957597587a1f08277b8b0c245f44d22d8f6f5607b2886505",
+    "introStart": 7.57,
+    "introEnd": 13.22,
+    "authorText": ""
+  },
+  "p077": {
+    "start": 15.39,
+    "end": 31.13,
+    "sourceSha256": "d21b887381975d01e8ff8981eaa38fe85e15f1f834e7d51bef744d2b3626d855",
+    "introStart": 6.79,
+    "introEnd": 12.82,
+    "authorText": ""
+  },
+  "p078": {
+    "start": 14.1,
+    "end": 35.7,
+    "sourceSha256": "55c03374bdeda59715d0a562dc567cab8198136010b5ea8d59cf17a5b0d7a82d",
+    "introStart": 6.22,
+    "introEnd": 10.17,
+    "authorText": ""
+  },
+  "p079": {
+    "start": 14.39,
+    "end": 31.05,
+    "sourceSha256": "de5c83e36e3083d047d2569cecc0987642881e58598022697db16c5225add5d1",
+    "introStart": 6.54,
+    "introEnd": 9.73,
+    "authorText": ""
+  },
+  "p080": {
+    "start": 12.02,
+    "end": 36.12,
+    "sourceSha256": "0c0ce9d61c5e8e5d42c97e1c69c3ff9e55cbefde38bdcb196c137d9d5fdf13bb",
+    "introStart": 5.81,
+    "introEnd": 9.26,
+    "authorText": ""
+  },
+  "p081": {
+    "start": 15.09,
+    "end": 33.23,
+    "sourceSha256": "fcc76df21153705d73f1e95709b98fda717c702535ab28bdd8ee95755d203868",
+    "introStart": 7.28,
+    "introEnd": 10.75,
+    "authorText": ""
+  },
+  "p082": {
+    "start": 16.23,
+    "end": 34.59,
+    "sourceSha256": "2377ddb89be78e30ff0e904dd4a27f56d863ba215504a874d45ba13b701878fd",
+    "introStart": 5.52,
+    "introEnd": 9.55,
+    "authorText": ""
+  },
+  "p083": {
+    "start": 16.45,
+    "end": 38.73,
+    "sourceSha256": "52fd960a01f3129dceef03b5517e47c98b9b2306b8a5a6f30a657a16771c65e4",
+    "introStart": 5.65,
+    "introEnd": 12.32,
+    "authorText": ""
+  },
+  "p084": {
+    "start": 15.4,
+    "end": 50.75,
+    "sourceSha256": "c76c2b82b4d29bdee144cfb297de7fa6aa2a7470d4c65b439cc11cb305b522ce",
+    "introStart": 5.24,
+    "introEnd": 10.37,
+    "authorText": ""
+  },
+  "p085": {
+    "start": 16.81,
+    "end": 37.31,
+    "sourceSha256": "910853c8e4372d1f2cb6de7ced20d16481441e001308496ccf98d6c63cdc02cf",
+    "introStart": 7.62,
+    "introEnd": 11.39,
+    "authorText": ""
+  },
+  "p086": {
+    "start": 18.7,
+    "end": 43.7,
+    "sourceSha256": "d8af7a9662b7bc40f5d8ae424dea3b504a3aa019368445bd072707393f081649",
+    "introStart": 7.39,
+    "introEnd": 13.16,
+    "authorText": ""
+  },
+  "p087": {
+    "start": 15.5,
+    "end": 36.78,
+    "sourceSha256": "024798b47ddc5b28a115cc6a55ac053daeeee4214e09b1b94945e80fd3d7a8b3",
+    "introStart": 6.26,
+    "introEnd": 10.87,
+    "authorText": ""
+  }
+}

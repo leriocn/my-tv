@@ -1,0 +1,22 @@
+{
+  "id": "p084",
+  "text": "听说官军收复失地，诗人激动得泪湿衣裳，家人也一扫愁容。他想放声歌唱、开怀饮酒，趁春光一路乘船返回故乡。",
+  "textSha256": "f50becb2fd602d0908ab4bd1c3fc08f940d35bbd5dcf768b6bbda5e8708b3dcb",
+  "sha256": "b9870d239e9dd6e3a2c65f0f3ac00073c50c1e6cfff347dca4689aac63313b55",
+  "bytes": 76608,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 64445650,
+      "text": "听说官军收复失地，诗人激动得泪湿衣裳，家人也一扫愁容。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 64945650,
+      "duration": 62228259,
+      "text": "他想放声歌唱、开怀饮酒，趁春光一路乘船返回故乡。"
+    }
+  ],
+  "attempts": 2
+}

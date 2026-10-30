@@ -1,0 +1,22 @@
+{
+  "id": "p037",
+  "text": "采莲姑娘的绿裙仿佛与荷叶融为一体，荷花又映着她们的面庞。人融入荷塘难以分辨，听到歌声才发现有人。",
+  "textSha256": "b79489892052d6ac57920629daf09b5892991500b323fddd274dcbf89d0d1ab7",
+  "sha256": "1ce2e1027bc5d095570ddba17a9080bbb8f42b19e34543a63b5a4a8a5f560adc",
+  "bytes": 69264,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 65940216,
+      "text": "采莲姑娘的绿裙仿佛与荷叶融为一体，荷花又映着她们的面庞。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 66440216,
+      "duration": 48369564,
+      "text": "人融入荷塘难以分辨，听到歌声才发现有人。"
+    }
+  ],
+  "attempts": 1
+}

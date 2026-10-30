@@ -1,0 +1,22 @@
+{
+  "id": "p081",
+  "text": "人心闲静，桂花轻落，春山夜里一片宁静。月亮升起惊动了山鸟，不时有鸟鸣从春涧中传出，以声音衬托幽静。",
+  "textSha256": "99bc8afc2e57e6646bb045a01d717133bfeeeac521891e189883033be9596d51",
+  "sha256": "7f46f41d4154222e12cf7d3445ea410a452be528bcf6a540ad2c9ceaac34ad28",
+  "bytes": 74592,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 48413042,
+      "text": "人心闲静，桂花轻落，春山夜里一片宁静。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 48913042,
+      "duration": 74728259,
+      "text": "月亮升起惊动了山鸟，不时有鸟鸣从春涧中传出，以声音衬托幽静。"
+    }
+  ],
+  "attempts": 1
+}

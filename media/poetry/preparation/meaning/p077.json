@@ -1,0 +1,22 @@
+{
+  "id": "p077",
+  "text": "村里男女白天除草，夜间搓麻，各自承担劳动。孩子虽还不会耕田织布，也在桑树阴下学着种瓜，展现农家生活的勤劳与童趣。",
+  "textSha256": "19e3e60c8e4e572d69b0155d325b9f723dc3b7f704ca221ed49e81f0dba8e7f6",
+  "sha256": "828d2408f56dc1c29105c5d8c0cadb5f79a6dfd816bb985f8bb40e074f4bc56e",
+  "bytes": 81216,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 52624999,
+      "text": "村里男女白天除草，夜间搓麻，各自承担劳动。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 53124999,
+      "duration": 81521737,
+      "text": "孩子虽还不会耕田织布，也在桑树阴下学着种瓜，展现农家生活的勤劳与童趣。"
+    }
+  ],
+  "attempts": 1
+}

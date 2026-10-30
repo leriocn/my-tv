@@ -1,0 +1,16 @@
+{
+  "id": "p028",
+  "text": "袁枚。",
+  "textSha256": "5fa24ec7e173346cd062c65453b6fe7b59077260e5d1e83503cf9bae93fa32a3",
+  "sha256": "52e084c0a7c0131643b4283caa4d34142b6f8b367fa880d6256fbae1b212087b",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 11999999,
+      "text": "袁枚。"
+    }
+  ],
+  "attempts": 1
+}

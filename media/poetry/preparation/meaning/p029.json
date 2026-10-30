@@ -1,0 +1,22 @@
+{
+  "id": "p029",
+  "text": "秋月与湖光交融，无风的湖面像未经磨亮的镜子。远望青翠的君山，像白银盘中放着一枚青螺。",
+  "textSha256": "ed85e6147ae9cb9591e2e40259609d9aedba9ae924c02efe358cb679f6286549",
+  "sha256": "d7378831a9ab4faf009dd7e569a08ee76304b27469f7c57c41836c3caabd0f08",
+  "bytes": 62496,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 52760868,
+      "text": "秋月与湖光交融，无风的湖面像未经磨亮的镜子。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 53260868,
+      "duration": 50271738,
+      "text": "远望青翠的君山，像白银盘中放着一枚青螺。"
+    }
+  ],
+  "attempts": 1
+}

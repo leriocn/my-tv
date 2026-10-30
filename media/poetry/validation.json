@@ -1,0 +1,77 @@
+{
+  "version": "3.8-sony.4",
+  "code": 61,
+  "date": "2026-10-25",
+  "poetry_resource_revision": "human-titles-edge-xiaoxiao-20261025",
+  "sha256": "074f7cd01200fdab25fce98b236b520d4bd6a6a02ad854e3abf130c5432580fc",
+  "installed_apk_unchanged": true,
+  "tests": {
+    "tests": 283,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "Warning": 151,
+    "Information": 146
+  },
+  "tool_documentation_tests": {
+    "tests": 10,
+    "failures": 0
+  },
+  "usb_library": {
+    "newFiles": 174,
+    "allNewHashesMatch": true,
+    "originalFiles": 87,
+    "allOriginalHashesUnchanged": true
+  },
+  "generated_audio": {
+    "files": 174,
+    "fullDecodePass": true,
+    "sha256Pass": true,
+    "targetLufs": -20,
+    "measuredLufsRange": [
+      -20.51,
+      -19.81
+    ],
+    "maximumTruePeak": -1.65,
+    "humanTitleCount": 87,
+    "humanAuthorCount": 53,
+    "edgeAuthorSupplements": 34,
+    "edgeMeaningCount": 87,
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%"
+  },
+  "native_audio_only": {
+    "native_audio_metadata_and_prepare_count": 174,
+    "elapsed_ms": 19436,
+    "no_activity_opened": true,
+    "no_audio_started": true,
+    "no_audio_focus_requested": true,
+    "no_volume_commands": true,
+    "passed": true
+  },
+  "generation": {
+    "machine": "PC only",
+    "provider": "Microsoft Edge online natural speech",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-8%",
+    "tv_uses_only_usb_files": true,
+    "tv_does_not_generate_speech": true,
+    "windows_sapi_not_selected": true,
+    "raw_mp3_and_failure_logs_retained": true,
+    "requests_serialized_and_429_backoff_applied": true
+  },
+  "home_unchanged": true,
+  "foreground_casting_app_unchanged": true,
+  "limitations": [
+    "No per-poem human headphone/TV-speaker pronunciation acceptance; automated header recognition, full decode and loudness checks passed.",
+    "No new physical USB/HDMI, 24-hour or multiweek stability acceptance.",
+    "No matching verified human recording found for the current 87 concise meanings; all meanings use Edge natural speech."
+  ],
+  "playback_intervals_ms": {
+    "recitation_to_meaning": 3145,
+    "meaning_to_next": 5070,
+    "scope": "Measured with the same build61 APK before the final Edge resource revision; current resources passed 174 Android metadata/prepare checks."
+  }
+}

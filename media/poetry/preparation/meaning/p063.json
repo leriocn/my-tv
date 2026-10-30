@@ -1,0 +1,22 @@
+{
+  "id": "p063",
+  "text": "群鸟已飞走，孤云也悠然飘去。诗人与敬亭山久久相望，两不相厌，借山寄托自己的孤独与亲近自然的感情。",
+  "textSha256": "3522a007c3b6867005f7c065a907bace0b54873aad989334c04886aaace820cc",
+  "sha256": "5f4c57eed165afab8851d4c553035fa810c59e6bf788a118725cfe7a0d231ba4",
+  "bytes": 71424,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 35777173,
+      "text": "群鸟已飞走，孤云也悠然飘去。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 36277173,
+      "duration": 82065215,
+      "text": "诗人与敬亭山久久相望，两不相厌，借山寄托自己的孤独与亲近自然的感情。"
+    }
+  ],
+  "attempts": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p054",
+  "text": "边关明月依旧，征战却延续了漫长岁月，远征的人仍未归来。诗人盼望有英勇将领守护边疆，使百姓免受战乱。",
+  "textSha256": "2c717935f8ac6452ee4fd3b6e7d021f247dee18fca61ae59e1934526b6215442",
+  "sha256": "1116fe3d5c1b77bd3d6b0dae3fe8367bba3223aa0f54724a7836c7221f59ddfb",
+  "bytes": 73296,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 65532607,
+      "text": "边关明月依旧，征战却延续了漫长岁月，远征的人仍未归来。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 66032607,
+      "duration": 55570651,
+      "text": "诗人盼望有英勇将领守护边疆，使百姓免受战乱。"
+    }
+  ],
+  "attempts": 2
+}

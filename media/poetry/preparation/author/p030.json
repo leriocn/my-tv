@@ -1,0 +1,16 @@
+{
+  "id": "p030",
+  "text": "杜牧。",
+  "textSha256": "9926af836b85d59f81f8838361bb63e721664a26410883b3f2630db8e085c9e2",
+  "sha256": "5b4053263b52d64906a8dc2dec9a9821cb7334d9f040394c97b2a1411d1d5fe8",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 11184782,
+      "text": "杜牧。"
+    }
+  ],
+  "attempts": 1
+}

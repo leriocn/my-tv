@@ -1,0 +1,22 @@
+{
+  "id": "p058",
+  "text": "稀疏篱笆旁的小路伸向远处，树上新叶还未形成浓阴。孩子奔跑着追赶黄蝴蝶，蝴蝶飞入菜花中便找不到了。",
+  "textSha256": "3e113554b6d5cb409332e5c6001a6ec8f47789d069db36931ad7b1ab65b8ac8d",
+  "sha256": "ed01ca64b557a1a9cb5755df32ac830f4cb306aa42cf4b1054cb908e2f2d1946",
+  "bytes": 70704,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 59690216,
+      "text": "稀疏篱笆旁的小路伸向远处，树上新叶还未形成浓阴。"
+    },
+    {
+      "type": "SentenceBoundary",
+      "offset": 60190216,
+      "duration": 56929346,
+      "text": "孩子奔跑着追赶黄蝴蝶，蝴蝶飞入菜花中便找不到了。"
+    }
+  ],
+  "attempts": 1
+}

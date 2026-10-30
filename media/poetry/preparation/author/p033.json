@@ -1,0 +1,16 @@
+{
+  "id": "p033",
+  "text": "李白。",
+  "textSha256": "be7123d36a91ed37040b5f7281d208295cf41cf44fc27af19373eb9f77b8d5f0",
+  "sha256": "bf087edffd48214f78a0509c6a1fd9a33e02c56729e40851d15f449dca7239ca",
+  "bytes": 11232,
+  "metadata": [
+    {
+      "type": "SentenceBoundary",
+      "offset": 500000,
+      "duration": 11456521,
+      "text": "李白。"
+    }
+  ],
+  "attempts": 1
+}
